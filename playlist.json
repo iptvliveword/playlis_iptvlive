@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "KOREA"
+      "name": "KOREA & Entertainment"
     },
     {
       "id": 7,
@@ -121,6 +121,11 @@
       "cid": 1,
       "name": "Channel NewsAsia",
       "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    },
+{
+      "cid": 4,
+      "name": "Cartoon Network",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
     },
     {
       "cid": 8,
@@ -303,9 +308,24 @@
       "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
     },
     {
+      "cid": 2,
+      "name": "K Drama",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s42/index2.m3u8"
+    },
+     {
+      "cid": 2,
+      "name": "K +",
+      "stream_url": "http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8"
+    },
+    {
       "cid": 3,
       "name": "Karaoke Channel",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "Kix",
+      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8"
     },
     {
       "cid": 4,
@@ -388,6 +408,11 @@
       "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
     },
     {
+      "cid": 2,
+      "name": "OPRAH",
+      "stream_url": "http://188.35.9.5:10007/stolen/221v/parasite.install"
+    },
+    {
       "cid": 3,
       "name": "Planet Music",
       "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8"
@@ -406,6 +431,11 @@
       "cid": 7,
       "name": "Racing.com",
       "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
+    },
+    {
+      "cid": 8,
+      "name": "Rai Premium",
+      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8"
     },
     {
       "cid": 8,
@@ -461,6 +491,36 @@
       "cid": 4,
       "name": "Spacetoon",
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+    },
+   {
+      "cid": 7,
+      "name": "Sky Sports 1",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 2",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 3",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 4",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 5",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Sky Sports 6",
+      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8"
     },
     {
       "cid": 7,
