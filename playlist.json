@@ -365,7 +365,12 @@
      {
       "cid": 2,
       "name": "K +",
-      "stream_url": "http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8"
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/kplus/chunklist_w548942108_b1344100_sleng_80941.m3u8"
+    },
+{
+      "cid": 2,
+      "name": "KBS World",
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_w1588270574_b1344100_sleng_burhansyam.m3u8"
     },
     {
       "cid": 3,
@@ -562,6 +567,11 @@
       "name": "SBS STAR",
       "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8"
     },
+{
+      "cid": 2,
+      "name": "SBS Korea",
+      "stream_url": "https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8"
+    },
     {
       "cid": 4,
       "name": "Spacetoon",
@@ -651,6 +661,16 @@
       "cid": 0,
       "name": "Trans TV",
       "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+    },
+{
+      "cid": 2,
+      "name": "TVN",
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/tvn/chunklist_w1506244060_b1344100_sleng_80944.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "TVN MOVIES",
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8"
     },
     {
       "cid": 6,
@@ -746,6 +766,16 @@
       "cid": 9,
       "name": "Star PLUS",
       "stream_url": "http://103.135.208.14:80/live/ibox/bd/41.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Sony One",
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/sone/chunklist_w265376193_b894100_sleng_80942.m3u8"
+    },
+{
+      "cid": 2,
+      "name": "Sony Gem",
+      "stream_url": "https://cdnjt25.useetv.com/joss/15/sgem/chunklist_w137615439_b894100_sleng_burhansyam.m3u8"
     },
     {
       "cid": 9,
