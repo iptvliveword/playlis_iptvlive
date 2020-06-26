@@ -145,7 +145,7 @@
 {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "https://cdnjt25.useetv.com/joss/18/cartoonnetwork/chunklist_w401487601_b684100_sleng_54935.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/cnet.m3u8"
     },
     {
       "cid": 8,
@@ -177,10 +177,20 @@
       "name": "Disney Junior Asia",
       "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
     },
-{
+    {
       "cid": 4,
       "name": "Dream Work",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/dreamworks/chunklist_w243127922_b1344100_sleng_21729.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/dreamwork.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "DRAGON BALL KAI",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv"
+    },
+{
+      "cid": 4,
+      "name": "DRAGON BALL Z",
+      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv"
     },
     {
       "cid": 3,
@@ -235,17 +245,17 @@
      {
       "cid": 7,
       "name": "Fox Sports 1",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/foxsport1/chunklist_w191459068_b1344100_sleng_26373.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/fox1.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/foxsport2/chunklist_w82144015_b1344100_sleng_17373.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/fox2.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/foxsport3/chunklist_w641811435_b1344100_sleng_42637.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/fox3.m3u8"
     },
     {
       "cid": 8,
@@ -321,11 +331,6 @@
       "cid": 6,
       "name": "I AM CHANNEL",
       "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "IMC",
-      "stream_url": "https://cdnjt25.useetv.com/joss/18/imc/chunklist_w245831001_b684100_sleng_184117.m3u8"
     },
     {
       "cid": 0,
@@ -460,17 +465,17 @@
 {
       "cid": 0,
       "name": "Net TV",
-      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+      "stream_url": "http://iptv.burhansyam.com/vidio/net.m3u8"
     },
     {
       "cid": 4,
       "name": "NICKELODEON ASIA",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
+      "stream_url": "http://iptv.burhansyam.com/usee/nick.m3u8"
     },
 {
       "cid": 4,
       "name": "NICK Jr",
-      "stream_url": "https://cdnjt25.useetv.com/joss/18/nickjr/chunklist_w142693310_b684100_sleng_80916.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/usee/nickjr.m3u8"
     },
     {
       "cid": 4,
@@ -486,6 +491,16 @@
       "cid": 7,
       "name": "Olympic Channel",
       "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "ONE PUCH MAN",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv"
+    },
+{
+      "cid": 4,
+      "name": "One PIECE TV",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv"
     },
     {
       "cid": 2,
@@ -526,6 +541,11 @@
       "cid": 0,
       "name": "RCTI",
       "stream_url": "http://iptv.burhansyam.com/rcti.m3u8"
+    },
+{
+      "cid": 0,
+      "name": "RTV",
+      "stream_url": "http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8"
     },
     {
       "cid": 7,
@@ -612,6 +632,11 @@
       "name": "MOTORSPORT.TV",
       "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
     },
+{
+      "cid": 8,
+      "name": "Sinema Indonesia",
+      "stream_url": "http://45.126.83.51/x6bnqe/s/s71/index2.m3u8"
+    },
     {
       "cid": 3,
       "name": "Street Music",
@@ -646,11 +671,6 @@
       "cid": 3,
       "name": "Trace Urban",
       "stream_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "Thrill",
-      "stream_url": "https://cdnjt25.useetv.com/joss/18/thrill/chunklist_w1908071823_b684100_sleng_520881.m3u8"
     },
     {
       "cid": 0,
