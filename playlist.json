@@ -760,7 +760,7 @@
      {
       "cid": 9,
       "name": "Colors HD",
-      "stream_url": "http://103.135.208.14:80/live/ibox/bd/42.m3u8"
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
     },
     {
       "cid": 9,
@@ -780,12 +780,12 @@
     {
       "cid": 9,
       "name": "Star Gold HD",
-      "stream_url": "http://103.135.208.14:80/live/ibox/bd/40.m3u8"
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
     },
     {
       "cid": 9,
       "name": "Star PLUS",
-      "stream_url": "http://103.135.208.14:80/live/ibox/bd/41.m3u8"
+      "stream_url": "https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8"
     },
     {
       "cid": 2,
