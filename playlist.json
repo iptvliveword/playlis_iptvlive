@@ -250,12 +250,12 @@
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "http://iptv.burhansyam.com/usee/fox2.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport2.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "http://iptv.burhansyam.com/usee/fox3.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport3.m3u8"
     },
     {
       "cid": 8,
