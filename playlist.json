@@ -245,7 +245,7 @@
      {
       "cid": 7,
       "name": "Fox Sports 1",
-      "stream_url": "http://iptv.burhansyam.com/usee/fox1.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport1.m3u8"
     },
 {
       "cid": 7,
@@ -370,12 +370,12 @@
      {
       "cid": 2,
       "name": "K +",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/kplus/chunklist_w548942108_b1344100_sleng_80941.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/kplus.m3u8"
     },
 {
       "cid": 2,
       "name": "KBS World",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/kbsworld/chunklist_w1588270574_b1344100_sleng_burhansyam.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/kbsworld.m3u8"
     },
     {
       "cid": 3,
@@ -685,12 +685,7 @@
 {
       "cid": 2,
       "name": "TVN",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/tvn/chunklist_w1506244060_b1344100_sleng_80944.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "TVN MOVIES",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/tvn.m3u8"
     },
     {
       "cid": 6,
@@ -790,12 +785,12 @@
     {
       "cid": 2,
       "name": "Sony One",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/sone/chunklist_w265376193_b894100_sleng_80942.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/sone.m3u8"
     },
 {
       "cid": 2,
       "name": "Sony Gem",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/sgem/chunklist_w137615439_b894100_sleng_burhansyam.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/sgem.m3u8"
     },
     {
       "cid": 9,
