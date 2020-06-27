@@ -115,12 +115,12 @@
      {
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://iptv.burhansyam.com/usee/bein1.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/bein1.m3u8"
     },
     {
       "cid": 7,
       "name": "BEIN SPORT 2",
-      "stream_url": "http://iptv.burhansyam.com/usee/bein2.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/bein2.m3u8"
     },
     {
       "cid": 3,
@@ -340,7 +340,7 @@
 {
       "cid": 0,
       "name": "indosiar",
-      "stream_url": "http://iptv.burhansyam.com/indosiar.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/vidio/indosiar.m3u8"
     },
     {
       "cid": 6,
