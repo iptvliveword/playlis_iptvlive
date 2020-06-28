@@ -75,7 +75,7 @@
     {
       "cid": 4,
       "name": "Aniplus Asia",
-      "stream_url": "http://iptv.burhansyam.com/useetv/aniplus.m3u8"
+      "stream_url": "https://vcdnjt.useetv.com/joss/18/aniplus/chunklist_w1747233985_b684100_sleng.m3u8?enc=jScsDE-_m42qq7ZGP3yaYg&exp=1593361488"
     },
     {
       "cid": 1,
@@ -119,12 +119,12 @@
     },
      {
       "cid": 7,
-      "name": "BEIN SPORT 1",
+      "name": "BEIN SPORT 1 (error)",
       "stream_url": "https://cdngb196.useetv.com/joss/15/bein1/chunklist_w287515866_b1344100_sleng.m3u8?enc=eQSHPgsHEZJk2Vylsq492A&exp=1593333029"
     },
     {
       "cid": 7,
-      "name": "BEIN SPORT 2",
+      "name": "BEIN SPORT 2 ( Error) ",
       "stream_url": "https://cdngb196.useetv.com/joss/15/bein2/chunklist_w520977807_b1344100_sleng.m3u8?enc=c-U-9AUoNDnRhicoAlDk9g&exp=1593331907"
     },
     {
