@@ -120,12 +120,12 @@
      {
       "cid": 7,
       "name": "BEIN SPORT 1 (error)",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/bein1/chunklist_w287515866_b1344100_sleng.m3u8?enc=eQSHPgsHEZJk2Vylsq492A&exp=1593333029"
+      "stream_url": "http://iptv.burhansyam.com/useetv/bein1.m3u8"
     },
     {
       "cid": 7,
       "name": "BEIN SPORT 2 ( Error) ",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/bein2/chunklist_w520977807_b1344100_sleng.m3u8?enc=c-U-9AUoNDnRhicoAlDk9g&exp=1593331907"
+      "stream_url": "http://iptv.burhansyam.com/useetv/bein2.m3u8"
     },
     {
       "cid": 3,
@@ -240,17 +240,17 @@
      {
       "cid": 7,
       "name": "Fox Sports 1",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/foxsport1/chunklist_w566245810_b1344100_sleng.m3u8?enc=EbNOFdjc2CYDrgBG7vsqzw&exp=1593331909"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport1.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/foxsport2/chunklist_w463077290_b1344100_sleng.m3u8?enc=TRKSXDLSBxbyxCq2MLoMPw&exp=1593331909"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport2.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/foxsport3/chunklist_w1029520378_b1344100_sleng.m3u8?enc=87SwbKUCtF9G0jCR1y_iBg&exp=1593331909"
+      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport3.m3u8"
     },
     {
       "cid": 8,
