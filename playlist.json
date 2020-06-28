@@ -67,6 +67,11 @@
       "name": "Animax Asia",
       "stream_url": "http://210.210.155.35/dr9445/h/h144/01.m3u8"
     },
+{
+      "cid": 0,
+      "name": "Antv",
+      "stream_url": "http://210.210.155.35/session/4002b006-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8"
+    },
     {
       "cid": 4,
       "name": "Aniplus Asia",
