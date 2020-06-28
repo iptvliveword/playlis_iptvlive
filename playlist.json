@@ -65,7 +65,7 @@
     {
       "cid": 4,
       "name": "Animax Asia",
-      "stream_url": "http://210.210.155.35/dr9445/h/h144/01.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/animax.m3u8"
     },
 {
       "cid": 0,
@@ -75,7 +75,7 @@
     {
       "cid": 4,
       "name": "Aniplus Asia",
-      "stream_url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/aniplus.m3u8"
     },
     {
       "cid": 1,
@@ -141,11 +141,6 @@
       "cid": 1,
       "name": "Chinese Drama",
       "stream_url": "https://cdnjt25.useetv.com/joss/18/chinesedrama/chunklist_w815658086_b684100_sleng_7437.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "Celestial Movies",
-      "stream_url": "http://45.126.83.51/qwr9ew/s/s33/01.m3u8"
     },
     {
       "cid": 4,
@@ -388,11 +383,6 @@
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
     },
     {
-      "cid": 8,
-      "name": "Kix",
-      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8"
-    },
-    {
       "cid": 4,
       "name": "Larva TV",
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
@@ -448,9 +438,9 @@
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
-      "cid": 5,
-      "name": "NASA TV",
-      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+      "cid": 7,
+      "name": "Nba tv",
+      "stream_url": "http://iptv.burhansyam.com/useetv/nba.m3u8"
     },
 {
       "cid": 5,
@@ -636,11 +626,6 @@
       "cid": 7,
       "name": "MOTORSPORT.TV",
       "stream_url": "http://pn.playtv-ott.com:5000/live/sourcefhdp1/KeVgOKJces/99995126.m3u8?checkedby"
-    },
-{
-      "cid": 8,
-      "name": "Sinema Indonesia",
-      "stream_url": "http://45.126.83.51/x6bnqe/s/s71/index2.m3u8"
     },
     {
       "cid": 3,
