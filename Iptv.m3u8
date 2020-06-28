@@ -3,4 +3,10 @@ Global.m3u8
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1355336188_b1344100_sleng.m3u8?enc=nLfuNKyjpLjI4vV5joi8IQ&exp=1593353507
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1355336188_b1344100_sleng.m3u8?enc=nLfuNKyjpLjI4vV5joi8IQ&exp=1593353507
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1355336188_b1344100_sleng.m3u8?enc=nLfuNKyjpLjI4vV5joi8IQ&exp=1593353507
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1355336188_b1344100_sleng.m3u8?enc=nLfuNKyjpLjI4vV5joi8IQ&exp=1593353507
