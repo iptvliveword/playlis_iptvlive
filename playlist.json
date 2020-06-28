@@ -145,7 +145,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/cartoonnetwork/chunklist_w1214184950_b684100_sleng.m3u8?enc=2ItlzpVoPPA167pDVIZu_Q&exp=1593332684"
+      "stream_url": "http://iptv.burhansyam.com/useetv/cartoonnetwork.m3u8"
     },
     {
       "cid": 8,
@@ -440,17 +440,17 @@
 {
       "cid": 5,
       "name": "National Geographic",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/natgeo/chunklist_w1923912890_b1344100_sleng_520857.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/natgeo.m3u8"
     },
 {
       "cid": 5,
       "name": "National Geographic Wild",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/natgeowild/chunklist_w1051657990_b1344100_sleng_520857.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/natgeowild.m3u8"
     },
 {
       "cid": 5,
       "name": "National Geographic People",
-      "stream_url": "https://cdnjt25.useetv.com/joss/15/natgeopeople/chunklist_w2077095314_b1344100_sleng_520855.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/natgeopeople.m3u8"
     },
 {
       "cid": 0,
