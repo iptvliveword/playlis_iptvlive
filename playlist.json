@@ -65,7 +65,7 @@
     {
       "cid": 4,
       "name": "Animax Asia",
-      "stream_url": "http://iptv.burhansyam.com/useetv/animax.m3u8"
+      "stream_url": "http://210.210.155.35/dr9445/h/h144/01.m3u8"
     },
 {
       "cid": 0,
@@ -75,7 +75,7 @@
     {
       "cid": 4,
       "name": "Aniplus",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/aniplus/chunklist_w1747233985_b684100_sleng.m3u8?enc=B6N7yc8ob5ICfkTPb7_iXA&exp=1593365846"
+      "stream_url": "http://210.210.155.35:80/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 1,
@@ -465,7 +465,7 @@
     {
       "cid": 4,
       "name": "NICKELODEON ASIA",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/nickelodeon/chunklist_w187667924_b684100_sleng.m3u8?enc=JOORpy4CD1H0wEavXCH9_Q&exp=1593332686"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
     },
 {
       "cid": 4,
