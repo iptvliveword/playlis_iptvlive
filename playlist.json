@@ -158,9 +158,19 @@
       "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
     },
     {
-      "cid": 1,
-      "name": "CNN Indonesia",
-      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
+      "cid": 7,
+      "name": "Champions TV1",
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448882~acl=/hls-p/ingest_geo_6685_*/*~hmac=6d01c917f0ebc4f7deaf7d9f31bfa12dcef789fa01159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Champions TV2",
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448940~acl=/hls-b/ingest_geo_6686_*/*~hmac=b69125f09edda7e871b98c72ac65ef84e14901ef166e6d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "Champions TV3",
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448993~acl=/hls-p/ingest_geo_6786_*/*~hmac=38d5878391d600e32c2cacf53cee78ff406729f8071a7b50683c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
     {
       "cid": 3,
@@ -717,6 +727,11 @@
       "name": "TVRI Nasional",
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
     },
+{
+      "cid": 2,
+      "name": "TVN",
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448516~acl=/hls-p/ingest_geo_6362_*/*~hmac=5bdad1e3d572924cd2dd61bc62a7e80ac7921be9d4a5aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
+    },
     {
       "cid": 7,
       "name": "TVRI Sport",
@@ -805,7 +820,7 @@
     {
       "cid": 8,
       "name": "Zee Bioskop",
-      "stream_url": "http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448675~acl=/hls-p/ingest_geo_6399_*/*~hmac=a845525295a20392e1a10ddc313aa93182529146da480955f5537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
     }
   ]
 }
