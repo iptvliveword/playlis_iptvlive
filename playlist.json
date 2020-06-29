@@ -120,7 +120,7 @@
      {
       "cid": 7,
       "name": "BEIN SPORT 1 (error)",
-      "stream_url": "http://iptv.burhansyam.com/useetv/bein1.m3u8"
+      "stream_url": "http://iptv.burhansyam.com/useetv/bein2.m3u8"
     },
     {
       "cid": 7,
@@ -145,7 +145,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass"
+      "stream_url": "http://iptv.burhansyam.com/useetv/cartoonnetwork.m3u8"
     },
     {
       "cid": 8,
@@ -180,7 +180,7 @@
     {
       "cid": 4,
       "name": "Dream Work",
-      "stream_url": "https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1608859025_b1344100_sleng.m3u8?enc=eT3KSGBsFmOIrJBugOjQGQ&exp=1593332685"
+      "stream_url": "http://iptv.burhansyam.com/useetv/dreamworks.m3u8"
     },
     {
       "cid": 4,
@@ -470,7 +470,7 @@
 {
       "cid": 4,
       "name": "NICK Jr",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/nickjr/chunklist_w724144812_b684100_sleng.m3u8?enc=dtzuzQREEli2xaAWwGFakQ&exp=1593332686"
+      "stream_url": "http://iptv.burhansyam.com/useetv/nickjr.m3u8"
     },
     {
       "cid": 4,
