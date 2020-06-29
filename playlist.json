@@ -240,17 +240,17 @@
      {
       "cid": 7,
       "name": "Fox Sports 1",
-      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport1.m3u8"
+      "stream_url": "https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport2.m3u8"
+      "stream_url": "https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "http://iptv.burhansyam.com/useetv/foxsport3.m3u8"
+      "stream_url": "https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8"
     },
     {
       "cid": 8,
