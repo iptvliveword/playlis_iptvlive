@@ -65,7 +65,7 @@
     {
       "cid": 4,
       "name": "Animax",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/animax/chunklist_w1656736008_b684100_sleng.m3u8?enc=0XEJpnT7ZwQKnGorPofa9Q&exp=1593483887"
+      "stream_url": "http://210.210.155.35/session/b506d99c-b1bc-11ea-a56a-9aaf921208f7/dr9445/h/h144/01.m3u8"
     },
 {
       "cid": 0,
@@ -75,7 +75,7 @@
     {
       "cid": 4,
       "name": "ANIPLUS",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/aniplus.m3u8"
+      "stream_url": "http://210.210.155.35/session/55d75cf2-ba87-11ea-a85b-9dfe94c46bd1/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 1,
@@ -116,16 +116,6 @@
       "cid": 7,
       "name": "BEIN SPORT XTRA",
       "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
-    },
-     {
-      "cid": 7,
-      "name": "BEIN SPORT 1",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein1.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "BEIN SPORT 2 ( Error) ",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein2.m3u8"
     },
     {
       "cid": 3,
@@ -447,11 +437,6 @@
       "name": "Music Top",
       "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
-    {
-      "cid": 7,
-      "name": "Nba tv",
-      "stream_url": "http://iptv.burhansyam.com/useetv/nba.m3u8"
-    },
 {
       "cid": 5,
       "name": "National Geographic",
@@ -466,11 +451,6 @@
       "cid": 5,
       "name": "National Geographic People",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
-    },
-{
-      "cid": 0,
-      "name": "Net TV",
-      "stream_url": "http://iptv.burhansyam.com/vidio/net.m3u8"
     },
     {
       "cid": 4,
