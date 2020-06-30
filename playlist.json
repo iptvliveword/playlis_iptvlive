@@ -125,12 +125,12 @@
 {
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein1.m3u8"
+      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein1.php"
     },
 {
       "cid": 7,
       "name": "BEIN SPORT 2",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein2.m3u8"
+      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein2.php"
     },
     {
       "cid": 3,
