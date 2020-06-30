@@ -150,7 +150,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/cartoonnetwork.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
     },
     {
       "cid": 8,
@@ -250,7 +250,7 @@
      {
       "cid": 5,
       "name": "Food Network",
-      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8 "
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass "
     },
      {
       "cid": 7,
@@ -474,8 +474,8 @@
     },
     {
       "cid": 4,
-      "name": "NICKELODEON ID",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/nickelodeon.m3u8"
+      "name": "NICKELODEON Asia",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass"
     },
 {
       "cid": 0,
