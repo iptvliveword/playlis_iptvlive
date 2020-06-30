@@ -65,7 +65,7 @@
     {
       "cid": 4,
       "name": "ANIMAX",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/animax.m3u8"
+      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
     },
 {
       "cid": 0,
@@ -75,7 +75,7 @@
     {
       "cid": 4,
       "name": "ANIPLUS",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/aniplus.m3u8"
+      "stream_url": "http://210.210.155.35/session/55d75cf2-ba87-11ea-a85b-9dfe94c46bd1/dr9445/h/h02/index.m3u8"
     },
     {
       "cid": 1,
@@ -460,7 +460,7 @@
 {
       "cid": 5,
       "name": "National Geographic",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/natgeo.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass"
     },
 {
       "cid": 5,
@@ -476,6 +476,11 @@
       "cid": 4,
       "name": "NICKELODEON ID",
       "stream_url": "http://brhn.xyz/useetvgo/m3u/nickelodeon.m3u8"
+    },
+{
+      "cid": 0,
+      "name": "Net TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
     },
 {
       "cid": 4,
@@ -650,7 +655,7 @@
 {
       "cid": 8,
       "name": "Thirill",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/thrill.m3u8"
+      "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
     },
     {
       "cid": 0,
@@ -747,6 +752,11 @@
       "name": "TVRI Yogyakarta",
       "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
     },
+{
+      "cid": 4,
+      "name": "Toonmax,
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
+    },
     {
       "cid": 3,
       "name": "Urban Music",
@@ -825,7 +835,7 @@
     {
       "cid": 8,
       "name": "Zee Bioskop",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448675~acl=/hls-p/ingest_geo_6399_*/*~hmac=a845525295a20392e1a10ddc313aa93182529146da480955f5537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
     }
   ]
 }
