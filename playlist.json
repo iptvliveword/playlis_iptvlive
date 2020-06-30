@@ -65,7 +65,7 @@
     {
       "cid": 4,
       "name": "Animax",
-      "stream_url": "http://210.210.155.35/session/b506d99c-b1bc-11ea-a56a-9aaf921208f7/dr9445/h/h144/01.m3u8"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/animax.m3u8"
     },
 {
       "cid": 0,
@@ -112,6 +112,11 @@
       "name": "BeritaSatu",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
     },
+{
+      "cid": 8,
+      "name": "Bioskop Indonesia",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bioskopindonesia.m3u8"
+    },
     {
       "cid": 7,
       "name": "BEIN SPORT XTRA",
@@ -135,12 +140,12 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/cartoonnetwork.m3u8"
     },
     {
       "cid": 8,
       "name": "CINEMAX",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/max.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/max.m3u8"
     },
     {
       "cid": 1,
@@ -180,7 +185,7 @@
     {
       "cid": 4,
       "name": "Dream Work",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/15/dreamworks/chunklist_w2138088019_b1344100_sleng.m3u8?enc=TWVidivjyEEHF-yAeSj9dQ&exp=1593444286"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/dreamworks.m3u8"
     },
     {
       "cid": 4,
@@ -262,6 +267,11 @@
       "name": "Fox Movies",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
     },
+{
+      "cid": 8,
+      "name": "FLIK",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/flik.m3u8"
+    },
     {
       "cid": 7,
       "name": "FIGHT BOX",
@@ -300,12 +310,12 @@
     {
       "cid": 8,
       "name": "HBO Family",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/fam.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/fam.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO SIGNATURE",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/sig.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/sig.m3u8"
     },
     {
       "cid": 8,
@@ -454,13 +464,13 @@
     },
     {
       "cid": 4,
-      "name": "NICKELODEON ASIA",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass"
+      "name": "NICKELODEON ID",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/nickelodeon.m3u8"
     },
 {
       "cid": 4,
       "name": "NICK Jr",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/nickjr/chunklist_w724144812_b684100_sleng.m3u8?enc=dtzuzQREEli2xaAWwGFakQ&exp=1593332686"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/nickjr.m3u8"
     },
     {
       "cid": 4,
@@ -626,6 +636,11 @@
       "cid": 6,
       "name": "Tahfidz TV",
       "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
+    },
+{
+      "cid": 8,
+      "name": "Thirill",
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/thrill.m3u8"
     },
     {
       "cid": 0,
