@@ -295,11 +295,11 @@
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "https://iptv.burhansyam.com/hbotest/hits.m3u8"
+      "stream_url": "https://brhn.xyz/hbogotest/m3u/hits.m3u8"
     },
     {
       "cid": 8,
-      "name": "HBO FAMILY",
+      "name": "HBO Family",
       "stream_url": "https://iptv.burhansyam.com/hbotest/fam.m3u8"
     },
     {
