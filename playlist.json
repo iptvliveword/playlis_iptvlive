@@ -150,17 +150,17 @@
     {
       "cid": 7,
       "name": "Champions TV1",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448882~acl=/hls-p/ingest_geo_6685_*/*~hmac=6d01c917f0ebc4f7deaf7d9f31bfa12dcef789fa01159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505319~acl=/hls-p/ingest_geo_6685_*/*~hmac=a2b466a534685ada7c198e5049689d616a0d75779739176ba4eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV2",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448940~acl=/hls-b/ingest_geo_6686_*/*~hmac=b69125f09edda7e871b98c72ac65ef84e14901ef166e6d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505353~acl=/hls-p/ingest_geo_6686_*/*~hmac=06557c2a5dfa3b665ff51320718a5f658ae66b288f325fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV3",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448993~acl=/hls-p/ingest_geo_6786_*/*~hmac=38d5878391d600e32c2cacf53cee78ff406729f8071a7b50683c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505367~acl=/hls-p/ingest_geo_6786_*/*~hmac=5d2706b6a5cdd69cfd9e37c5b80d1ead56e77906ee70ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
     {
       "cid": 3,
@@ -710,7 +710,7 @@
 {
       "cid": 2,
       "name": "TVN",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593448516~acl=/hls-p/ingest_geo_6362_*/*~hmac=5bdad1e3d572924cd2dd61bc62a7e80ac7921be9d4a5aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505431~acl=/hls-p/ingest_geo_6362_*/*~hmac=de64237cb7f888cc395f4783fa2d49352e406ab1dce436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
     },
     {
       "cid": 7,
