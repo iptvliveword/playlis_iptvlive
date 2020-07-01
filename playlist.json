@@ -125,12 +125,12 @@
 {
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein1.php"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein1.m3u8"
     },
 {
       "cid": 7,
       "name": "BEIN SPORT 2",
-      "stream_url": "http://brhn.xyz/useetvgo/olahraga/bein2.php"
+      "stream_url": "http://brhn.xyz/useetvgo/m3u/bein2.m3u8"
     },
     {
       "cid": 3,
@@ -144,7 +144,7 @@
     },
 {
       "cid": 8,
-      "name": "Celestial movies",
+      "name": "Celestial Movies",
       "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
     },
     {
@@ -305,7 +305,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "http://iptv.burhansyam.com/globaltvhd.m3u8"
+      "stream_url": "http://brhn.xyz/mnc/globaltvhd.m3u8"
     },
     {
       "cid": 8,
