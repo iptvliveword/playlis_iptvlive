@@ -165,17 +165,17 @@
     {
       "cid": 7,
       "name": "Champions TV1",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505319~acl=/hls-p/ingest_geo_6685_*/*~hmac=a2b466a534685ada7c198e5049689d616a0d75779739176ba4eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661664~acl=/hls-p/ingest_geo_6685_*/*~hmac=53f31a116f464bc346429b179e4b35a277815300da4b8ad2c3b3235642553040/hls-p/ingest_geo_6685_720p/index.m3u8eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV2",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505353~acl=/hls-p/ingest_geo_6686_*/*~hmac=06557c2a5dfa3b665ff51320718a5f658ae66b288f325fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661702~acl=/hls-p/ingest_geo_6686_*/*~hmac=cf1577f3c699cbdbcded13efd0b92f24094a011f220f3cd5907d926ee721cf92/hls-p/ingest_geo_6686_720p/index.m3u85fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
 {
       "cid": 7,
       "name": "Champions TV3",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505367~acl=/hls-p/ingest_geo_6786_*/*~hmac=5d2706b6a5cdd69cfd9e37c5b80d1ead56e77906ee70ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661738~acl=/hls-p/ingest_geo_6786_*/*~hmac=646762233d3a8a4b5de992aa5cf116b71e99749abc72c1e0370d6c1d8f3de2b8/hls-p/ingest_geo_6786_720p/index.m3u870ee2f8b7e67800676f07c/hls-p/ingest_geo_6786_720p/index.m3u83c14fb5f5d5594/hls-p/ingest_geo_6786_720p/index.m3u859dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
     },
     {
       "cid": 3,
@@ -291,16 +291,6 @@
       "cid": 7,
       "name": "Fight Time",
       "stream_url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Gone Fishing",
-      "stream_url": "https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 7,
-      "name": "Gone Hunting",
-      "stream_url": "https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8"
     },
     {
       "cid": 0,
@@ -480,7 +470,7 @@
 {
       "cid": 0,
       "name": "Net TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+      "stream_url": "http://210.210.155.35/session/46ac5d54-bbf4-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/02.m3u8"
     },
 {
       "cid": 4,
