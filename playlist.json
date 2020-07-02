@@ -295,7 +295,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "http://brhn.xyz/mnc/globaltvhd.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593703955~acl=/hls-p/ingest_778_*/*~hmac=8d7d9908104a0a2bdefc06ebd71042e83461a1702bdab8ddb86a48f6d8a46dc6/hls-p/ingest_778_720p/index.m3u8"
     },
     {
       "cid": 8,
@@ -730,7 +730,7 @@
 {
       "cid": 2,
       "name": "TVN",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593505431~acl=/hls-p/ingest_geo_6362_*/*~hmac=de64237cb7f888cc395f4783fa2d49352e406ab1dce436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593703851~acl=/hls-p/ingest_geo_6362_*/*~hmac=cb10c325e27b902b923bbf86c57b93afe77b4462d1ca7f49cc98f953e3ba7f3e/hls-p/ingest_geo_6362_720p/index.m3u8e436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
     },
     {
       "cid": 7,
