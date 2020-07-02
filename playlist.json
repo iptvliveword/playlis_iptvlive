@@ -305,17 +305,17 @@
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "https://brhn.xyz/hbogotest/m3u/hits.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO Family",
-      "stream_url": "https://brhn.xyz/hbogotest/m3u/fam.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO SIGNATURE",
-      "stream_url": "https://brhn.xyz/hbogotest/m3u/sig.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass"
     },
     {
       "cid": 8,
