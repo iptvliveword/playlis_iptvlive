@@ -300,7 +300,7 @@
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62126.ts"
+      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62132.ts"
     },
     {
       "cid": 8,
@@ -319,8 +319,8 @@
     },
     {
       "cid": 8,
-      "name": "Red HBO",
-      "stream_url": "https://brhn.xyz/hbogotest/m3u/red.m3u8"
+      "name": "HBO Plis",
+      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62130.ts"
     },
     {
       "cid": 6,
