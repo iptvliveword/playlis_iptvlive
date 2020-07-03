@@ -156,7 +156,7 @@
     },
     {
       "cid": 8,
-      "name": "CINEMAX",
+      "name": "Cinemax",
       "stream_url": "https://brhn.xyz/hbogotest/m3u/max.m3u8"
     },
     {
@@ -297,7 +297,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593703955~acl=/hls-p/ingest_778_*/*~hmac=8d7d9908104a0a2bdefc06ebd71042e83461a1702bdab8ddb86a48f6d8a46dc6/hls-p/ingest_778_720p/index.m3u8"
+      "stream_url": "http://iptvhit.live/ClubTVid/TRIAL/JANGANKOMEN-JANGANUSIL/3db86a48f6d8a46dc6/hls-p/ingest_778_720p/index.m3u8"
     },
     {
       "cid": 8,
