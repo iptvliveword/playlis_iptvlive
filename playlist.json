@@ -127,12 +127,12 @@
 {
       "cid": 7,
       "name": "BEIN SPORT 1",
-      "stream_url": "http://x1.broiptv.online/play/febrisurya338@gmail.com/87978581/9Usdq63c/rattus/bein_sport_1_rattus/playlist.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "BEIN SPORT2",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/bein2/chunklist_w533233481_b1344100_sleng.m3u8?enc=aQMLmBiNsetVmaJUn1046w&exp=1593766085"
+      "stream_url": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8"
     },
     {
       "cid": 3,
@@ -297,17 +297,18 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593772750~acl=/hls-p/ingest_778_*/*~hmac=f3f6117b304fcffb6ca6df00387fe5aa24db55b84c420147f4b9ceeaa2179ebf/hls-p/ingest_778_720p/index.m3u8"
+      "stream_url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+84c420147f4b9ceeaa2179ebf/hls-p/ingest_778_720p/index.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62132.ts"
+      "stream_url": "http://202.163.117.6:9981/stream/channelid/1860181278?ticket=52860ED5218C8C17DC55A72737C74AEDB563B55D&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass"
     },
     {
       "cid": 8,
