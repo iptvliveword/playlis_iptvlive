@@ -297,7 +297,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593855095~acl=/hls-p/ingest_778_*/*~hmac=16d287cf663766d06776ef9ce8a13a9c64ba66751df165af5a8cd33c201354b0/hls-p/ingest_778_720p/index.m3u8"
+      "stream_url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8f5a8cd33c201354b0/hls-p/ingest_778_720p/index.m3u8"
     },
     {
       "cid": 8,
@@ -347,12 +347,12 @@
     {
       "cid": 0,
       "name": "iNews TV",
-      "stream_url": "http://iptv.burhansyam.com/inews.m3u8"
+      "stream_url": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8"
     },
 {
       "cid": 0,
       "name": "indosiar",
-      "stream_url": "http://iptv.burhansyam.com/vidio/indosiar.m3u8"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593898293~acl=/hls-p/ingest_205_*/*~hmac=3ff7d8755abd5dd04bc4279337b2d3ef57197900c651c3a6a3c06538a522041b/hls-p/ingest_205_720p/index.m3u8"
     },
     {
       "cid": 6,
@@ -422,7 +422,7 @@
     {
       "cid": 0,
       "name": "MNC TV",
-      "stream_url": "http://iptv.burhansyam.com/mnctv.m3u8"
+      "stream_url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8"
     },
     {
       "cid": 8,
@@ -480,9 +480,9 @@
       "stream_url": "http://210.210.155.35/session/46ac5d54-bbf4-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/02.m3u8"
     },
 {
-      "cid": 4,
-      "name": "NICK Jr",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/nickjr.m3u8"
+      "cid": 0,
+      "name": "Net",
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593898293~acl=/hls-p/ingest_875_*/*~hmac=0867e7d9f740b9483f44db94422b22f90f6c7c9142de95b33cd28af00b6b24b3/hls-p/ingest_875_720p/index.m3u8"
     },
     {
       "cid": 4,
@@ -547,7 +547,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "http://iptv.burhansyam.com/rcti.m3u8"
+      "stream_url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8"
     },
 {
       "cid": 0,
@@ -687,7 +687,7 @@
     {
       "cid": 0,
       "name": "Trans TV",
-      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
+      "stream_url": "https://vcdnjt.useetv.com/joss/18/rtv/chunklist_w2098141770_b684100_sleng_useetv.m3u8?enc=01lTKNI5hbQXSfbxaytN0A&id=YTFjZWFlYjk4Y2VhZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593892427"
     },
     {
       "cid": 6,
