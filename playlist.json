@@ -481,7 +481,7 @@
     },
 {
       "cid": 0,
-      "name": "Net",
+      "name": "NET",
       "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593898293~acl=/hls-p/ingest_875_*/*~hmac=0867e7d9f740b9483f44db94422b22f90f6c7c9142de95b33cd28af00b6b24b3/hls-p/ingest_875_720p/index.m3u8"
     },
     {
