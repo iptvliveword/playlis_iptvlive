@@ -30,7 +30,7 @@
     },
     {
       "id": 1,
-      "name": "BERITA"
+      "name": "News"
     },
    {
       "id": 6,
@@ -152,7 +152,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass"
+      "stream_url": "https://vcdnjt.useetv.com/joss/18/cartoonnetwork/chunklist_w20519764_b684100_sleng_useetv.m3u8?enc=uJnxqsO6GKmUXjJUujdE_Q&id=YTFjZWFlYjk4Y2VhZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593895315"
     },
     {
       "cid": 8,
