@@ -281,7 +281,7 @@
     },
 {
       "cid": 8,
-      "name": "FLIK",
+      "name": "Flik",
       "stream_url": "http://brhn.xyz/useetvgo/m3u/flik.m3u8"
     },
     {
@@ -297,8 +297,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-84c420147f4b9ceeaa2179ebf/hls-p/ingest_778_720p/index.m3u8"
+      "stream_url": "http://brhn.xyz/stream/globaltvhd.m3u"
     },
     {
       "cid": 8,
