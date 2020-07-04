@@ -297,7 +297,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "http://brhn.xyz/stream/globaltvhd.m3u"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593855095~acl=/hls-p/ingest_778_*/*~hmac=16d287cf663766d06776ef9ce8a13a9c64ba66751df165af5a8cd33c201354b0/hls-p/ingest_778_720p/index.m3u8"
     },
     {
       "cid": 8,
