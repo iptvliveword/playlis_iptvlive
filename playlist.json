@@ -30,7 +30,7 @@
     },
     {
       "id": 1,
-      "name": "News"
+      "name": "JAPAN"
     },
    {
       "id": 6,
@@ -51,11 +51,6 @@
       "cid": 6,
       "name": "Al Bahjah",
       "stream_url": "https://edge.siar.us/albahjahtv/live/playlist.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "Al Jazeera English",
-      "stream_url": "https://gounlimited.to/embed-789hg5jzu1uv.html"
     },
     {
       "cid": 5,
@@ -80,11 +75,6 @@
       "stream_url": "http://210.210.155.35/session/55d75cf2-ba87-11ea-a85b-9dfe94c46bd1/dr9445/h/h02/index.m3u8"
     },
     {
-      "cid": 1,
-      "name": "Arirang",
-      "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-    },
-    {
       "cid": 7,
       "name": "Arena Sport 2",
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby"
@@ -100,21 +90,6 @@
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
     },
     {
-      "cid": 1,
-      "name": "Awani",
-      "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "BBC World News",
-      "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "BeritaSatu",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
-    },
-{
       "cid": 8,
       "name": "Bioskop Indonesia",
       "stream_url": "http://brhn.xyz/useetvgo/m3u/bioskopindonesia.m3u8"
@@ -141,8 +116,28 @@
     },
     {
       "cid": 1,
-      "name": "Channel NewsAsia",
-      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+      "name": "BS ASAHI",
+      "stream_url": "http://203.162.235.41:16914"
+    },
+{
+      "cid": 1,
+      "name": "BS FUJI",
+      "stream_url": "http://203.162.235.41:16911"
+    },
+{
+      "cid": 1,
+      "name": "BS JAPAN",
+      "stream_url": "http://203.162.235.41:16915"
+    },
+{
+      "cid": 1,
+      "name": "BS NTv",
+      "stream_url": "http://203.162.235.41:16912"
+    },
+{
+      "cid": 1,
+      "name": "BS TBS",
+      "stream_url": "http://203.162.235.41:16913"
     },
 {
       "cid": 8,
@@ -158,11 +153,6 @@
       "cid": 8,
       "name": "Cinemax",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8D5F35E6F4B1B956E12F01BA818278C43790D9C8&profile=pass"
-    },
-    {
-      "cid": 1,
-      "name": "CNBC Indonesia",
-      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
     },
     {
       "cid": 7,
@@ -294,10 +284,35 @@
       "name": "Fight Time",
       "stream_url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
     },
+{
+      "cid": 1,
+      "name": "FUJI TV",
+      "stream_url": "http://203.162.235.41:16904"
+    },
+{
+      "cid": 1,
+      "name": "Family Gekijo",
+      "stream_url": "http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220"
+    },
     {
       "cid": 0,
       "name": "GTV",
       "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593974862~acl=/hls-p/ingest_778_*/*~hmac=184023a07d0160b18b5b9207a88a5941a173620b7edcf27d16c64a847d586402/hls-p/ingest_778_720p/index.m3u82d37adae/hls-p/ingest_778_720p/index.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "Golf Network",
+      "stream_url": "http://203.162.235.41:16924"
+    },
+{
+      "cid": 1,
+      "name": "GSTV",
+      "stream_url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "GUNMA TV",
+      "stream_url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8"
     },
     {
       "cid": 8,
@@ -363,11 +378,6 @@
       "cid": 5,
       "name": "JAPANET CHANNEL",
       "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "Jakarta Globe",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
     },
     {
       "cid": 0,
@@ -487,7 +497,27 @@
     {
       "cid": 1,
       "name": "NHK World",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/18/nhkworld/chunklist_w1141073565_b684100_sleng.m3u8?enc=2ll3JPVe2kctlMJvUVeFEA&exp=1593446030"
+      "stream_url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "NHK World Premium",
+      "stream_url": "http://203.162.235.41:16901"
+    },
+{
+      "cid": 1,
+      "name": "NHK GENERAL",
+      "stream_url": "http://203.162.235.41:16903"
+    },
+{
+      "cid": 1,
+      "name": "NJPW World",
+      "stream_url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "NIHON EIGA",
+      "stream_url": "http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228"
     },
     {
       "cid": 7,
@@ -570,11 +600,6 @@
       "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
     },
     {
-      "cid": 1,
-      "name": "RRI Net",
-      "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
-    },
-    {
       "cid": 0,
       "name": "SCTV",
       "stream_url": "http://203.153.218.26:9981/stream/channelid/615077025?ticket=5BADAB35760CA26C7FA0FC494A3EE21A9E5450ED&profile=pass"
@@ -654,6 +679,21 @@
       "name": "TV ONE",
       "stream_url": "http://203.153.218.26:9981/stream/channelid/304965952?ticket=E5FBDBCC979A956C96A41BA9139A156467DE658E&profile=pass"
     },
+{
+      "cid": 1,
+      "name": "Tokyo MX 1",
+      "stream_url": "https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "Tokyo MX 2",
+      "stream_url": "http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8"
+    },
+{
+      "cid": 1,
+      "name": "TV TOKYO",
+      "stream_url": "http://203.162.235.41:16908"
+    },
     {
       "cid": 6,
       "name": "Tegar TV",
@@ -690,41 +730,11 @@
       "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
     },
     {
-      "cid": 1,
-      "name": "TVR PARLEMEN",
-      "stream_url": "http://103.16.220.69:1935/golive/livestream/playlist.m3u8"
-    },
-    {
       "cid": 0,
       "name": "TVRI",
       "stream_url": "http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8"
     },
     {
-      "cid": 1,
-      "name": "TVRI DKI Jakarta",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Barat",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Tengah",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Jawa Timur",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
-    },
-    {
-      "cid": 1,
-      "name": "TVRI Nasional",
-      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
-    },
-{
       "cid": 2,
       "name": "TVN",
       "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593703851~acl=/hls-p/ingest_geo_6362_*/*~hmac=cb10c325e27b902b923bbf86c57b93afe77b4462d1ca7f49cc98f953e3ba7f3e/hls-p/ingest_geo_6362_720p/index.m3u8e436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
@@ -750,14 +760,9 @@
       "stream_url": "http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"
     },
 {
-      "cid": 5,
+      "cid": 1,
       "name": "wakuWaku Japan",
       "stream_url": "http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"
-    },
-    {
-      "cid": 1,
-      "name": "Voice of America",
-      "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
     },
      {
       "cid": 9,
