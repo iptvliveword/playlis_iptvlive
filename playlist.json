@@ -71,7 +71,7 @@
 {
       "cid": 0,
       "name": "ANTV",
-      "stream_url": "http://210.210.155.35/session/4002b006-b7d1-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/1654354630?ticket=94EA3C2B5F0442800710EA339F964DA904EEA791&profile=pass"
     },
     {
       "cid": 4,
@@ -152,12 +152,12 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/cartoonnetwork/chunklist_w20519764_b684100_sleng_useetv.m3u8?enc=uJnxqsO6GKmUXjJUujdE_Q&id=YTFjZWFlYjk4Y2VhZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593895315"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=083B0ED5A25903FC44EE24B569802001956E82E4&profile=passZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593895315"
     },
     {
       "cid": 8,
       "name": "Cinemax",
-      "stream_url": "https://brhn.xyz/hbogotest/m3u/max.m3u8"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8D5F35E6F4B1B956E12F01BA818278C43790D9C8&profile=pass"
     },
     {
       "cid": 1,
@@ -302,22 +302,22 @@
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "http://202.163.117.6:9981/stream/channelid/1860181278?ticket=52860ED5218C8C17DC55A72737C74AEDB563B55D&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/37129950?ticket=E0246BD97A3109BAABE2082C0E45AF63011E5A60&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=E39E2CB6A2547EE893F1C83926618AD3B425C735&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO Family",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=B84D836286046D39A892E9A2C1C2FFF2AB70CF6A&profile=pass"
     },
     {
       "cid": 8,
       "name": "HBO SIGNATURE",
-      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62133.ts"
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=D039B1ECCAC006FC8C7BB2780DE2BE9C4EC3322F&profile=pass"
     },
     {
       "cid": 8,
@@ -352,7 +352,7 @@
 {
       "cid": 0,
       "name": "indosiar",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593898293~acl=/hls-p/ingest_205_*/*~hmac=3ff7d8755abd5dd04bc4279337b2d3ef57197900c651c3a6a3c06538a522041b/hls-p/ingest_205_720p/index.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/1446651279?ticket=A234EC203C3C942BA554F77CA31A422C26FD1531&profile=pass8a522041b/hls-p/ingest_205_720p/index.m3u8"
     },
     {
       "cid": 6,
@@ -477,12 +477,7 @@
 {
       "cid": 0,
       "name": "Net TV",
-      "stream_url": "http://210.210.155.35/session/46ac5d54-bbf4-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/02.m3u8"
-    },
-{
-      "cid": 0,
-      "name": "NET",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593898293~acl=/hls-p/ingest_875_*/*~hmac=0867e7d9f740b9483f44db94422b22f90f6c7c9142de95b33cd28af00b6b24b3/hls-p/ingest_875_720p/index.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/740065456?ticket=617AC968EF93C839C908EB01FB518595F6009D41&profile=pass"
     },
     {
       "cid": 4,
@@ -547,12 +542,12 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/2086408423?ticket=68835A23BEE4348F07CF42CE94BD0F22E3CADCDA&profile=pass"
     },
 {
       "cid": 0,
       "name": "RTV",
-      "stream_url": "http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8"
+      "stream_url": "http://203.153.218.29:9981/stream/channelid/1265992784?ticket=AF190F86C01E5964B3BE2FD08C5C3791EA3244E1&profile=pass"
     },
     {
       "cid": 7,
@@ -582,7 +577,7 @@
     {
       "cid": 0,
       "name": "SCTV",
-      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/615077025?ticket=5BADAB35760CA26C7FA0FC494A3EE21A9E5450ED&profile=pass"
     },
     {
       "cid": 2,
@@ -655,9 +650,9 @@
       "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TATV",
-      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
+      "cid": 7,
+      "name": "TV ONE",
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/304965952?ticket=E5FBDBCC979A956C96A41BA9139A156467DE658E&profile=pass"
     },
     {
       "cid": 6,
@@ -682,12 +677,12 @@
     {
       "cid": 0,
       "name": "Trans 7",
-      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/302821177?ticket=297FFFCEA1B4011D43202FDF8DD898E8D9AF7D7C&profile=pass"
     },
     {
       "cid": 0,
       "name": "Trans TV",
-      "stream_url": "https://vcdnjt.useetv.com/joss/18/rtv/chunklist_w2098141770_b684100_sleng_useetv.m3u8?enc=01lTKNI5hbQXSfbxaytN0A&id=YTFjZWFlYjk4Y2VhZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593892427"
+      "stream_url": "http://203.153.218.26:9981/stream/channelid/611995608?ticket=E8E8D2E81A8CF8FD8EF9DB58DC99EA4FF5A3CA1A&profile=pass2ZlMjU3OWZmNmY1MjI=&exp=1593892427"
     },
     {
       "cid": 6,
