@@ -446,6 +446,11 @@
     },
 {
       "cid": 2,
+      "name": "K POP",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv"
+    },
+{
+      "cid": 2,
       "name": "KBS World",
       "stream_url": "http://iptv.burhansyam.com/useetv/kbsworld.m3u8"
     },
@@ -501,8 +506,8 @@
     },
     {
       "cid": 3,
-      "name": "Music Now",
-      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8"
+      "name": "DJ NONSTOP",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427590r3b61849513226fdc4903aed65a32445b_high.flv"
     },
     {
       "cid": 3,
