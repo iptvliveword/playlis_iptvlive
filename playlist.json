@@ -90,11 +90,6 @@
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
     },
     {
-      "cid": 8,
-      "name": "Bioskop Indonesia",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/bioskopindonesia.m3u8"
-    },
-    {
       "cid": 7,
       "name": "BEIN SPORT XTRA",
       "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
@@ -338,11 +333,6 @@
       "cid": 8,
       "name": "HBO Signature",
       "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "HBO PLUS",
-      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62130.ts"
     },
 {
       "cid": 8,
