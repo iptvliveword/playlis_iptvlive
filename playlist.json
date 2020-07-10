@@ -76,25 +76,35 @@
     },
     {
       "cid": 7,
-      "name": "Arena Sport 2",
-      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/897?checkedby"
+      "name": "Arena Sport 1",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/400?checkedby"
     },
     {
       "cid": 7,
       "name": "Arena Sport 3",
       "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/896?checkedby"
     },
+{
+      "cid": 7,
+      "name": "Arena Sport 2",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/406?checkedby"
+    },
     {
       "cid": 7,
       "name": "Arena Sport 4",
-      "stream_url": "http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/895?checkedby"
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/403?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "Arena Sport 5",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/404?checkedby"
     },
     {
       "cid": 7,
       "name": "BEIN SPORT XTRA",
       "stream_url": "https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8"
     },
-{
+    {
       "cid": 7,
       "name": "BEIN SPORT 1",
       "stream_url": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8"
@@ -103,6 +113,46 @@
       "cid": 7,
       "name": "BEIN SPORT2",
       "stream_url": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 1",
+      "stream_url": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 3",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 4",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 6",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35?checkedby"
+    },
+    {
+      "cid": 7,
+      "name": "BEIN SPORT 10",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 11",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 12",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41?checkedby"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT 13",
+      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42?checkedby"
     },
     {
       "cid": 3,
