@@ -326,13 +326,13 @@
     },
     {
       "cid": 8,
-      "name": "HBO Family",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=B84D836286046D39A892E9A2C1C2FFF2AB70CF6A&profile=pass"
+      "name": "HBO FAMILY",
+      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO SIGNATURE",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=D039B1ECCAC006FC8C7BB2780DE2BE9C4EC3322F&profile=pass"
+      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8"
     },
     {
       "cid": 8,
