@@ -152,7 +152,7 @@
     {
       "cid": 8,
       "name": "Cinemax",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8D5F35E6F4B1B956E12F01BA818278C43790D9C8&profile=pass"
+      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8"
     },
     {
       "cid": 7,
@@ -322,12 +322,17 @@
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/2038175895?ticket=E39E2CB6A2547EE893F1C83926618AD3B425C735&profile=pass"
+      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO FAMILY",
       "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8"
+    },
+{
+      "cid": 8,
+      "name": "HBO Red",
+      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8"
     },
     {
       "cid": 8,
