@@ -622,7 +622,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "http://203.153.218.26:9981/stream/channelid/2086408423?ticket=68835A23BEE4348F07CF42CE94BD0F22E3CADCDA&profile=pass"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1594743084~acl=/hls-p/ingest_204_*/*~hmac=af87c89fd8e8ed1224a9a1e412eef54b88aac39a8272f485612d47e5020cf509/hls-p/ingest_204_720p/index.m3u8"
     },
 {
       "cid": 0,
@@ -772,7 +772,7 @@
     {
       "cid": 0,
       "name": "Trans TV",
-      "stream_url": "http://203.153.218.26:9981/stream/channelid/611995608?ticket=E8E8D2E81A8CF8FD8EF9DB58DC99EA4FF5A3CA1A&profile=pass2ZlMjU3OWZmNmY1MjI=&exp=1593892427"
+      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1594743199~acl=/hls-p/ingest_733_*/*~hmac=3a89fd3663676e5278275518043af3c512515b3b81d5efab1eb83b6e8555f13b/hls-p/ingest_733_720p/index.m3u83892427"
     },
     {
       "cid": 6,
