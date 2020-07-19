@@ -202,12 +202,12 @@
     {
       "cid": 7,
       "name": "Champions TV1",
-      "stream_url": "https://cdngb196.useetv.com/joss/15/champion1/chunklist_w1986340329_b1344100_sleng.m3u8?enc=1myZ6m4zImR8iUcD2zTLNQ&id=NTM2MWY1OGZhNTUzMTM3YTQ5YWE1ZmNkNThjNjFiNTI=&exp=15951607975642553040/hls-p/ingest_geo_6685_720p/index.m3u8eb64a174da3d33/hls-p/ingest_geo_6685_720p/index.m3u8dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1986340329_b1344100_sleng.m3u8?enc=2focevv2xbNaEf_Qaxn11A&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161799"
     },
 {
       "cid": 7,
-      "name": "Champions TV2",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593661702~acl=/hls-p/ingest_geo_6686_*/*~hmac=cf1577f3c699cbdbcded13efd0b92f24094a011f220f3cd5907d926ee721cf92/hls-p/ingest_geo_6686_720p/index.m3u85fbb4143a87858a7899d/hls-p/ingest_geo_6686_720p/index.m3u86d16f4a5cb0c7d55e1ec/hls-b/ingest_geo_6686_480p/index.m3u8159dddf0bd1a34fdf01565/hls-p/ingest_geo_6685_720p/index.m3u8"
+      "name": "Champions tv2",
+      "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion2/chunklist_w1343566236_b1344100_sleng.m3u8?enc=O1Jn9r5iBwxG-ZjaI2EhTg&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161696"
     },
 {
       "cid": 7,
