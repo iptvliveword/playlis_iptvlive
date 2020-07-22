@@ -111,48 +111,8 @@
     },
 {
       "cid": 7,
-      "name": "BEIN SPORT2",
+      "name": "BEIN SPORT 2",
       "stream_url": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 1",
-      "stream_url": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 3",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/32?checkedby"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 4",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/33?checkedby"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 6",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/35?checkedby"
-    },
-    {
-      "cid": 7,
-      "name": "BEIN SPORT 10",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/39?checkedby"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 11",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/40?checkedby"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 12",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/41?checkedby"
-    },
-{
-      "cid": 7,
-      "name": "BEIN SPORT 13",
-      "stream_url": "http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/42?checkedby"
     },
     {
       "cid": 3,
@@ -192,7 +152,7 @@
     {
       "cid": 4,
       "name": "Cartoon Network",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=083B0ED5A25903FC44EE24B569802001956E82E4&profile=passZjQ5MzNhY2ZlMjU3OWZmNmY1MjI=&exp=1593895315"
+      "stream_url": "https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8=&exp=1593895315"
     },
     {
       "cid": 8,
@@ -222,7 +182,7 @@
     {
       "cid": 5,
       "name": "Discovery Channel",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=61ECE32328125B40097870241BD99B4D3EBD89BF&profile=pass"
+      "stream_url": "https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8"
     },
     {
       "cid": 4,
@@ -292,32 +252,32 @@
      {
       "cid": 7,
       "name": "Fox Sports 1",
-      "stream_url": "https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8"
     },
     {
       "cid": 8,
       "name": "Fox Action Movies",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1744735983"
+      "stream_url": "https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8"
     },
     {
       "cid": 8,
       "name": "Fox Movies",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+      "stream_url": "https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8"
     },
-{
+    {
       "cid": 8,
-      "name": "Flik",
-      "stream_url": "http://brhn.xyz/useetvgo/m3u/flik.m3u8"
+      "name": "Fox Family",
+      "stream_url": "https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8"
     },
     {
       "cid": 7,
@@ -362,32 +322,22 @@
     {
       "cid": 8,
       "name": "HBO",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/hbo.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO HITS",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "HBO FAMILY",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8"
     },
 {
       "cid": 8,
       "name": "HBO Red",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8"
+      "stream_url": "https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8"
     },
     {
       "cid": 8,
       "name": "HBO Signature",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "HBO EXTREM",
-      "stream_url": "http://fhr.ddns.net:25461/live/333333/333333/62134.ts"
+      "stream_url": "https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8"
     },
     {
       "cid": 6,
@@ -397,7 +347,7 @@
     {
       "cid": 5,
       "name": "History",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1868154562?ticket=91B04EA0BAF341ADBF27DB4D16771C1489BF5BF6&profile=pass"
+      "stream_url": "https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8"
     },
     {
       "cid": 6,
@@ -604,6 +554,31 @@
       "name": "Prambors",
       "stream_url": "https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
     },
+{
+      "cid": 7,
+      "name": "Premier 1",
+      "stream_url": "https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+{
+      "cid": 7,
+      "name": "Premier 2",
+      "stream_url": "https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+{
+      "cid": 7,
+      "name": "Premier 3",
+      "stream_url": "https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+{
+      "cid": 7,
+      "name": "Premier 4",
+      "stream_url": "https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
+{
+      "cid": 7,
+      "name": "Premier 5",
+      "stream_url": "https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
+    },
     {
       "cid": 7,
       "name": "Racing.com",
@@ -677,32 +652,32 @@
    {
       "cid": 7,
       "name": "Sky Sports 1",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Sky Sports 2",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Sky Sports 3",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Sky Sports 4",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Sky Sports 5",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8"
     },
 {
       "cid": 7,
       "name": "Sky Sports 6",
-      "stream_url": "https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8"
+      "stream_url": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8"
     },
     {
       "cid": 7,
@@ -718,11 +693,6 @@
       "cid": 6,
       "name": "Tahfidz TV",
       "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "Thirill",
-      "stream_url": "http://210.210.155.35/session/65d0e75a-a9dd-11ea-a86e-b6a083afd8ae/qwr9ew/s/s34/01.m3u8"
     },
     {
       "cid": 7,
