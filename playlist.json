@@ -130,11 +130,6 @@
       "stream_url": "https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8=&exp=1593895315"
     },
     {
-      "cid": 8,
-      "name": "Cinemax",
-      "stream_url": "http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8"
-    },
-    {
       "cid": 7,
       "name": "Champions TV1",
       "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1986340329_b1344100_sleng.m3u8?enc=2focevv2xbNaEf_Qaxn11A&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161799"
@@ -209,16 +204,8 @@
       "name": "Elshinta TV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
     },
-    {
-      "cid": 8,
-      "name": "Fox",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass"
-    },
-    {
-      "cid": 8,
-      "name": "Fox Family",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
-    },
+    
+    
      {
       "cid": 5,
       "name": "Food Network",
@@ -241,18 +228,8 @@
     },
     {
       "cid": 8,
-      "name": "Fox Action Movies",
-      "stream_url": "https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8"
-    },
-    {
-      "cid": 8,
       "name": "Fox Movies",
       "stream_url": "https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "Fox Family",
-      "stream_url": "https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8"
     },
     {
       "cid": 7,
