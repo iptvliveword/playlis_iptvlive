@@ -254,7 +254,7 @@
     {
       "cid": 0,
       "name": "GTV",
-      "stream_url": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u847d586402/hls-p/ingest_778_720p/index.m3u82d37adae/hls-p/ingest_778_720p/index.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20gtv.m3u8"
     },
 {
       "cid": 1,
@@ -309,12 +309,12 @@
     {
       "cid": 0,
       "name": "iNews TV",
-      "stream_url": "http://movieslk21.com/vidio_playlist/inews%20kontol.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/inews%20kontol.m3u8"
     },
 {
       "cid": 0,
       "name": "indosiar",
-      "stream_url": "http://movieslk21.com/vidio_playlist/kontol%20indosiar.m3u8/index.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20indosiar.m3u8"
     },
     {
       "cid": 6,
@@ -384,7 +384,7 @@
     {
       "cid": 0,
       "name": "MNC TV",
-      "stream_url": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/mnctv.m3u"
     },
     {
       "cid": 8,
@@ -554,7 +554,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1594743084~acl=/hls-p/ingest_204_*/*~hmac=af87c89fd8e8ed1224a9a1e412eef54b88aac39a8272f485612d47e5020cf509/hls-p/ingest_204_720p/index.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/rcti.m3u"
     },
 {
       "cid": 0,
@@ -584,7 +584,7 @@
     {
       "cid": 0,
       "name": "SCTV",
-      "stream_url": "http://movieslk21.com/vidio_playlist/kontol%20sctv.m3u8"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20sctv.m3u8"
     },
     {
       "cid": 2,
@@ -719,7 +719,7 @@
     {
       "cid": 0,
       "name": "Trans TV",
-      "stream_url": "http://movieslk21.com/vidio_playlist/kontol%20transtv.m3u8b1eb83b6e8555f13b/hls-p/ingest_733_720p/index.m3u83892427"
+      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20transtv.m3u8"
     },
     {
       "cid": 6,
