@@ -120,11 +120,6 @@
       "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Cartoon Network",
-      "stream_url": "https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8=&exp=1593895315"
-    },
-    {
       "cid": 7,
       "name": "Champions TV1",
       "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1986340329_b1344100_sleng.m3u8?enc=2focevv2xbNaEf_Qaxn11A&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161799"
@@ -143,16 +138,6 @@
       "cid": 5,
       "name": "Discovery Channel",
       "stream_url": "https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Disney Junior Asia",
-      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
-    },
-    {
-      "cid": 4,
-      "name": "Dream Work",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/15/dreamworks/chunklist_w1102497562_b1344100_sleng.m3u8?enc=MoIlFwoemHSDr_8gJQfvFA&id=MWU3MTc2OTk1ZmZiNDAyMmVmMDE2YmVhMzYyMzBkZmU=&exp=1594579316"
     },
     {
       "cid": 4,
@@ -410,11 +395,6 @@
       "cid": 5,
       "name": "National Geographic People",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
-    },
-    {
-      "cid": 4,
-      "name": "NICKELODEON Asia",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass"
     },
 {
       "cid": 0,
