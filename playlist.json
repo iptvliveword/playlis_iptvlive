@@ -63,11 +63,6 @@
       "logo": "https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",
       "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
     },
-{
-      "cid": 0,
-      "name": "ANTV",
-      "stream_url": "http://203.153.218.26:9981/stream/channelid/1654354630?ticket=94EA3C2B5F0442800710EA339F964DA904EEA791&profile=pass"
-    },
     {
       "cid": 4,
       "name": "Aniplus",
