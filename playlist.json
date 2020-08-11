@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 0,
-      "name": "Nasional"
+      "name": "Update"
     },
     {
       "id": 8,
@@ -221,11 +221,6 @@
       "name": "Family Gekijo",
       "stream_url": "http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220"
     },
-    {
-      "cid": 0,
-      "name": "GTV",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20gtv.m3u8"
-    },
 {
       "cid": 1,
       "name": "Golf Network",
@@ -277,16 +272,6 @@
       "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
     },
     {
-      "cid": 0,
-      "name": "iNews TV",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/inews%20kontol.m3u8"
-    },
-{
-      "cid": 0,
-      "name": "indosiar",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20indosiar.m3u8"
-    },
-    {
       "cid": 6,
       "name": "Insan TV",
       "stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8"
@@ -295,16 +280,6 @@
       "cid": 5,
       "name": "JAPANET CHANNEL",
       "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Jogja TV",
-      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "JTV",
-      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
     },
     {
       "cid": 2,
@@ -346,11 +321,7 @@
       "name": "Metro TV",
       "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8"
     },
-    {
-      "cid": 0,
-      "name": "MNC TV",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/mnctv.m3u8"
-    },
+    
     {
       "cid": 8,
       "name": "MNX Movies",
@@ -396,11 +367,8 @@
       "name": "National Geographic People",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
     },
-{
-      "cid": 0,
-      "name": "Net TV",
-      "stream_url": "http://203.153.218.26:9981/stream/channelid/740065456?ticket=617AC968EF93C839C908EB01FB518595F6009D41&profile=pass"
-    },
+
+      
     {
       "cid": 4,
       "name": "NICK Asia",
@@ -486,16 +454,7 @@
       "name": "Rai Movie",
       "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
     },
-    {
-      "cid": 0,
-      "name": "RCTI",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/rcti.m3u8"
-    },
-{
-      "cid": 0,
-      "name": "RTV",
-      "stream_url": "http://203.153.218.29:9981/stream/channelid/1265992784?ticket=AF190F86C01E5964B3BE2FD08C5C3791EA3244E1&profile=pass"
-    },
+    
     {
       "cid": 7,
       "name": "Real Madrid TV",
@@ -511,16 +470,7 @@
       "name": "Reformed 21",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
     },
-    {
-      "cid": 6,
-      "name": "Rodja TV",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "SCTV",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20sctv.m3u8"
-    },
+    
     {
       "cid": 2,
       "name": "SBS PLUS",
@@ -646,16 +596,7 @@
       "name": "True Sport 4",
       "stream_url": "https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8"
     },
-    {
-      "cid": 0,
-      "name": "Trans 7",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20trans7.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "Trans TV",
-      "stream_url": "http://idolatv.my.id/vidio-playlist/kontol%20transtv.m3u8"
-    },
+    
     {
       "cid": 6,
       "name": "TV Ikim",
