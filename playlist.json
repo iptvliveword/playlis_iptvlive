@@ -367,7 +367,11 @@
       "name": "National Geographic People",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
     },
-
+     {
+      "cid": 0,
+      "name": "Net Tv",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/nettv.m3u8"
+    },
       
     {
       "cid": 4,
@@ -596,7 +600,16 @@
       "name": "True Sport 4",
       "stream_url": "https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8"
     },
-    
+    {
+      "cid": 0,
+      "name": "Transtv",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20transtv.m3u8"
+    },
+{
+      "cid": 0,
+      "name": "Trans 7",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20trans7.m3u8"
+    },
     {
       "cid": 6,
       "name": "TV Ikim",
