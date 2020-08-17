@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 0,
-      "name": "Update"
+      "name": "National"
     },
     {
       "id": 8,
@@ -231,10 +231,15 @@
       "name": "GSTV",
       "stream_url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8"
     },
-{
+     {
       "cid": 1,
       "name": "GUNMA TV",
       "stream_url": "https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8"
+    },
+   {
+      "cid": 0,
+      "name": "Global TV",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20gtv.m3u8"
     },
     {
       "cid": 8,
@@ -305,6 +310,11 @@
       "cid": 4,
       "name": "LARVA TV",
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
+    },
+    {
+      "cid": 0,
+      "name": "MNCTV",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/mnctv.m3u8"
     },
     {
       "cid": 6,
@@ -458,7 +468,11 @@
       "name": "Rai Movie",
       "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
     },
-    
+    {
+      "cid": 0,
+      "name": "RCTI",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/rcti.m3u8"
+    },
     {
       "cid": 7,
       "name": "Real Madrid TV",
