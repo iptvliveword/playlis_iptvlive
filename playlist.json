@@ -120,16 +120,6 @@
       "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Champions TV1",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion1/chunklist_w1986340329_b1344100_sleng.m3u8?enc=2focevv2xbNaEf_Qaxn11A&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161799"
-    },
-{
-      "cid": 7,
-      "name": "Champions tv2",
-      "stream_url": "https://cdnmdc1.useetv.com/joss/15/champion2/chunklist_w1343566236_b1344100_sleng.m3u8?enc=O1Jn9r5iBwxG-ZjaI2EhTg&id=ZjY5N2QwMjU4OTIyNjFlMThjZDQ1MDI1NmJkYTYzMjg=&exp=1595161696"
-    },
-    {
       "cid": 3,
       "name": "Deluxe Music",
       "stream_url": "http://188.35.9.5:10007/stolen/200b/parasite.install"
@@ -197,11 +187,6 @@
       "stream_url": "https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8"
     },
     {
-      "cid": 8,
-      "name": "Fox Movies",
-      "stream_url": "https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8"
-    },
-    {
       "cid": 7,
       "name": "FIGHT BOX",
       "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
@@ -240,21 +225,6 @@
       "cid": 0,
       "name": "Global TV",
       "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20gtv.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "HBO",
-      "stream_url": "https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "HBO HITS",
-      "stream_url": "https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8"
-    },
-{
-      "cid": 8,
-      "name": "HBO Red",
-      "stream_url": "https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8"
     },
     {
       "cid": 8,
