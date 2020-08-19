@@ -79,10 +79,15 @@
       "name": "BEIN SPORT 1",
       "stream_url": "https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8"
     },
-{
+     {
       "cid": 7,
       "name": "BEIN SPORT 2",
       "stream_url": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8"
+    },
+{
+      "cid": 7,
+      "name": "BEIN SPORT tes",
+      "stream_url": "http://gunkid.xyz/tv/lk21/usee.m3u8?channel=bein2"
     },
     {
       "cid": 3,
