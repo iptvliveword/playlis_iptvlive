@@ -350,17 +350,17 @@
 {
       "cid": 5,
       "name": "National Geographic",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass"
+      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227177/1597923180-1-159792317.hls.ts"
     },
 {
       "cid": 5,
       "name": "National Geographic Wild",
-      "stream_url": "https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8"
+      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227157/1597923086-2-159792308.hls.ts"
     },
 {
       "cid": 5,
       "name": "National Geographic People",
-      "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
+      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227127/1597923240-1-159792323.hls.ts"
     },
      {
       "cid": 0,
