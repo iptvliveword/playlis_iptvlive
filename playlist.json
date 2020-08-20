@@ -109,15 +109,21 @@
       "name": "BS NTv",
       "stream_url": "http://203.162.235.41:16912"
     },
-{
+   {
       "cid": 1,
       "name": "BS TBS",
       "stream_url": "http://203.162.235.41:16913"
     },
+   
 {
       "cid": 8,
       "name": "Celestial Movies",
       "stream_url": "http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8"
+    },
+{
+      "cid": 4,
+      "name": "CARTOON NETWORK",
+      "stream_url": "http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28798?play_token=bQ31n524Bd&token=QhVcUhcJRggXBwNRAgADBwNSD1cDAAJRUAYFUV9bUQBaAQYAUAQAC1ZGGURBEkJRAFtpWgVEXlFdUwxZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUVZXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
     },
     {
       "cid": 3,
@@ -134,7 +140,7 @@
       "name": "DRAGON BALL KAI",
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv"
     },
-{
+   {
       "cid": 4,
       "name": "DRAGON BALL Z",
       "stream_url": "https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv"
@@ -164,7 +170,11 @@
       "name": "Elshinta TV",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
     },
-    
+    {
+      "cid": 4,
+      "name": "Egg",
+      "stream_url": "http://210.210.155.66/h/h22/20200604T172542-01-38724922.ts"
+    },
     
      {
       "cid": 5,
