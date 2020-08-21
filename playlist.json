@@ -350,17 +350,17 @@
 {
       "cid": 5,
       "name": "National Geographic",
-      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227177/1597923180-1-159792317.hls.ts"
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8"
     },
 {
       "cid": 5,
       "name": "National Geographic Wild",
-      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227157/1597923086-2-159792308.hls.ts"
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8"
     },
 {
       "cid": 5,
       "name": "National Geographic People",
-      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227127/1597923240-1-159792323.hls.ts"
+      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227127/index.m3u8"
     },
      {
       "cid": 0,
