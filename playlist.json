@@ -239,7 +239,7 @@
    {
       "cid": 0,
       "name": "Global TV",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20gtv.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20gtv.m3u8"
     },
     {
       "cid": 8,
@@ -266,10 +266,15 @@
       "name": "Insan TV",
       "stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8"
     },
-{
+   {
       "cid": 0,
       "name": "Indosiar",
-      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221227345/1.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20indosiar.m3u8"
+    },
+{
+      "cid": 0,
+      "name": "Inews",
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/inews%20kontol.m3u8"
     },
 {
       "cid": 5,
@@ -304,7 +309,7 @@
     {
       "cid": 0,
       "name": "MNCTV",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/mnctv.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/mnctv.m3u8"
     },
     {
       "cid": 6,
@@ -370,7 +375,7 @@
      {
       "cid": 0,
       "name": "Net Tv",
-      "stream_url": "http://210.210.155.35/session/52899410-e742-11ea-a40e-b69cb0bda6ea/qwr9ew/s/s08/01.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET."
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/net.m3u8ERN2PF249FY9E1XFRK&chname=NET."
     },
       
     {
@@ -461,7 +466,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/rcti.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/rcti.m3u8"
     },
     {
       "cid": 7,
@@ -532,7 +537,7 @@
     {
       "cid": 0,
       "name": "SCTV",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20sctv.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20sctv.m3u8"
     },
     {
       "cid": 7,
@@ -612,12 +617,12 @@
     {
       "cid": 0,
       "name": "Transtv",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20transtv.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20transtv.m3u8"
     },
 {
       "cid": 0,
       "name": "Trans 7",
-      "stream_url": "http://oxoo.lk21tvonlineid.com/vidio-playlist/kontol%20trans7.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20trans7.m3u8"
     },
     {
       "cid": 6,
@@ -627,7 +632,7 @@
     {
       "cid": 0,
       "name": "TVRI",
-      "stream_url": "http://movieslk21.com/vidio_playlist/kontol%20tvri.m3u8"
+      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20tvri.m3u8"
     },
     {
       "cid": 2,
