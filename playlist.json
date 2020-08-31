@@ -186,11 +186,7 @@
       "name": "Food Network",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass "
     },
-     {
-      "cid": 7,
-      "name": "Fox Sports 1",
-      "stream_url": "https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8"
-    },
+     
 {
       "cid": 7,
       "name": "Fox Sports 2",
@@ -206,11 +202,7 @@
       "name": "FIGHT BOX",
       "stream_url": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8"
     },
-    {
-      "cid": 7,
-      "name": "Fight Time",
-      "stream_url": "http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
-    },
+    
 {
       "cid": 1,
       "name": "FUJI TV",
@@ -240,11 +232,6 @@
       "cid": 0,
       "name": "Global TV",
       "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20gtv.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "HBO Signature",
-      "stream_url": "https://www.livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8"
     },
     {
       "cid": 6,
@@ -290,11 +277,6 @@
       "cid": 2,
       "name": "K +",
       "stream_url": "http://210.210.155.35:80/uq2663/h/h08/01.m3u8"
-    },
-{
-      "cid": 2,
-      "name": "K POP",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv"
     },
     {
       "cid": 3,
@@ -388,11 +370,7 @@
       "name": "NHK World",
       "stream_url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
     },
-{
-      "cid": 7,
-      "name": "Nba",
-      "stream_url": "https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8"
-    },
+    
 {
       "cid": 1,
       "name": "NHK World Premium",
@@ -429,11 +407,6 @@
       "stream_url": "http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv"
     },
     {
-      "cid": 2,
-      "name": "OPRAH",
-      "stream_url": "http://188.35.9.5:10007/stolen/221v/parasite.install"
-    },
-    {
       "cid": 3,
       "name": "Planet Music",
       "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8"
@@ -452,16 +425,6 @@
       "cid": 7,
       "name": "Racing.com",
       "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "Rai Premium",
-      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "Rai Movie",
-      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
     },
     {
       "cid": 0,
@@ -504,36 +467,7 @@
       "name": "Spacetoon",
       "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
     },
-   {
-      "cid": 7,
-      "name": "Sky Sports 1",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "Sky Sports 2",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "Sky Sports 3",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "Sky Sports 4",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "Sky Sports 5",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8"
-    },
-{
-      "cid": 7,
-      "name": "Sky Sports 6",
-      "stream_url": "https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8"
-    },
+   
     {
       "cid": 0,
       "name": "SCTV",
@@ -579,16 +513,7 @@
       "name": "Tegar TV",
       "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
     },
-    {
-      "cid": 7,
-      "name": "Tennis Channel Plus",
-      "stream_url": "https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8"
-    },
-    {
-      "cid": 8,
-      "name": "Tom Jerry TV",
-      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
-    },
+    
     {
       "cid": 3,
       "name": "Trace Urban",
@@ -633,11 +558,6 @@
       "cid": 0,
       "name": "TVRI",
       "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20tvri.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "TVN",
-      "stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1593703851~acl=/hls-p/ingest_geo_6362_*/*~hmac=cb10c325e27b902b923bbf86c57b93afe77b4462d1ca7f49cc98f953e3ba7f3e/hls-p/ingest_geo_6362_720p/index.m3u8e436bbbd8aa454fd8d3124/hls-p/ingest_geo_6362_720p/index.m3u8aa5cb404db65322702eb/hls-p/ingest_geo_6362_720p/index.m3u8"
     },
     {
       "cid": 7,
@@ -715,8 +635,8 @@
       "stream_url": "http://103.135.208.14:80/live/ibox/bd/43.m3u8"
     },
     {
-      "cid": 8,
-      "name": "Zee Bioskop",
+      "cid": 9,
+      "name": "Error",
       "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
     }
   ]
