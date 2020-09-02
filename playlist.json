@@ -230,7 +230,7 @@
    {
       "cid": 0,
       "name": "Global TV",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20gtv.m3u8"
+      "stream_url": "https://raw.githubusercontent.com/zalindo/tv/master/gtv.m3u8"
     },
     {
       "cid": 6,
@@ -260,7 +260,7 @@
 {
       "cid": 0,
       "name": "Inews",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/inews%20kontol.m3u8"
+      "stream_url": "https://raw.githubusercontent.com/zalindo/tv/master/inews.m3u8"
     },
 {
       "cid": 5,
@@ -286,7 +286,7 @@
     {
       "cid": 0,
       "name": "MNCTV",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/mnctv.m3u8"
+      "stream_url": "https://raw.githubusercontent.com/zalindo/tv/master/mnctv.m3u8"
     },
     {
       "cid": 6,
@@ -399,7 +399,7 @@
     {
       "cid": 0,
       "name": "RCTI",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/rcti.m3u8"
+      "stream_url": "https://raw.githubusercontent.com/zalindo/tv/master/rcti.m3u8"
     },
     {
       "cid": 7,
