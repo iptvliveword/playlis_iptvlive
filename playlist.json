@@ -60,19 +60,19 @@
     {
       "cid": 5,
       "name": "AFN",
-      "stream_url": "https://www.idolatv.my.id/m3u/animax.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/afc.m3u8"
     },
     {
       "cid": 4,
       "name": "Animax",
       "logo": "https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",
-      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/animax.m3u8"
     },
     {
       "cid": 4,
       "name": "Aniplus",
       "logo": "https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png",
-      "stream_url": "http://210.210.155.35/session/55d75cf2-ba87-11ea-a85b-9dfe94c46bd1/dr9445/h/h02/index.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/aniplus.m3u8"
     },
     {
       "cid": 7,
@@ -90,19 +90,24 @@
       "stream_url": "https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8"
     },
     {
+      "cid": 4,
+      "name": "Boomerang",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/boomerang.m3u8"
+    },
+    {
       "cid": 3,
       "name": "Box Hits",
       "stream_url": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f"
     },
     {
-      "cid": 1,
-      "name": "BS ASAHI",
-      "stream_url": "http://203.162.235.41:16914"
+      "cid": 4,
+      "name": "Baby First",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/babyfirts.m3u8"
     },
 {
-      "cid": 1,
-      "name": "BS FUJI",
-      "stream_url": "http://203.162.235.41:16911"
+      "cid": 8,
+      "name": "Bioskop Indonesia",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/bioskopindonesia.m3u8"
     },
 {
       "cid": 1,
@@ -115,9 +120,9 @@
       "stream_url": "http://203.162.235.41:16912"
     },
    {
-      "cid": 1,
-      "name": "BS TBS",
-      "stream_url": "http://203.162.235.41:16913"
+      "cid": 5,
+      "name": "CGN",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/crimeinvestigation.m3u8"
     },
    
 {
@@ -128,41 +133,31 @@
 {
       "cid": 4,
       "name": "CARTOON NETWORK",
-      "stream_url": "http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28798?play_token=bQ31n524Bd&token=QhVcUhcJRggXBwNRAgADBwNSD1cDAAJRUAYFUV9bUQBaAQYAUAQAC1ZGGURBEkJRAFtpWgVEXlFdUwxZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUVZXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/cartoonnetwork.m3u8"
     },
     {
-      "cid": 3,
-      "name": "Deluxe Music",
-      "stream_url": "http://188.35.9.5:10007/stolen/200b/parasite.install"
+      "cid": 4,
+      "name": "Dreamwork",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/dreamworks.m3u8"
     },
     {
       "cid": 5,
       "name": "Discovery Channel",
-      "stream_url": "https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/disco.m3u8"
     },
     {
       "cid": 4,
-      "name": "DRAGON BALL KAI",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv"
+      "name": "Davinci",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/davinci.m3u8"
     },
-   {
-      "cid": 4,
-      "name": "DRAGON BALL Z",
-      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv"
+    {
+      "cid": 8,
+      "name": "Citra Drama",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/cdrama.m3u8"
     },
     {
       "cid": 3,
-      "name": "DJing Hits",
-      "stream_url": "https://www.djing.com/tv/hits.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJing Karaoke",
-      "stream_url": "https://www.djing.com/tv/karaoke.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJing Live",
+      "name": "Chinese Drama",
       "stream_url": "https://www.djing.com/tv/live.m3u8"
     },
     {
@@ -186,16 +181,20 @@
       "name": "Food Network",
       "stream_url": "http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass "
     },
-     
+     {
+      "cid": 7,
+      "name": "Fox Sports 1",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/foxsport1.m3u8"
+    },
 {
       "cid": 7,
       "name": "Fox Sports 2",
-      "stream_url": "https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/foxsport2.m3u8"
     },
 {
       "cid": 7,
       "name": "Fox Sports 3",
-      "stream_url": "https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/foxsport3.m3u8"
     },
     {
       "cid": 7,
@@ -214,9 +213,9 @@
       "stream_url": "http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220"
     },
 {
-      "cid": 1,
-      "name": "Golf Network",
-      "stream_url": "http://203.162.235.41:16924"
+      "cid": 8,
+      "name": "Galaxy",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/galaxy.m3u8"
     },
 {
       "cid": 1,
@@ -241,7 +240,7 @@
     {
       "cid": 5,
       "name": "History",
-      "stream_url": "https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/history.m3u8"
     },
     {
       "cid": 6,
@@ -283,11 +282,7 @@
       "name": "Karaoke Channel",
       "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
     },
-    {
-      "cid": 4,
-      "name": "LARVA TV",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
-    },
+   
     {
       "cid": 0,
       "name": "MNCTV",
@@ -325,18 +320,13 @@
       "stream_url": "https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-"
     },
     {
-      "cid": 3,
-      "name": "MTV",
-      "stream_url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "DJ NONSTOP",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427590r3b61849513226fdc4903aed65a32445b_high.flv"
+      "cid": 4,
+      "name": "MYKids",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/mykids.m3u8"
     },
     {
       "cid": 5,
-      "name": "Test",
+      "name": "NAT GEO",
       "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8"
     },
 {
@@ -347,17 +337,17 @@
 {
       "cid": 5,
       "name": "National Geographic Wild",
-      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8"
     },
 {
       "cid": 5,
       "name": "National Geographic People",
-      "stream_url": "http://103.47.132.165/PLTV/88888888/224/3221227127/index.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8"
     },
      {
       "cid": 0,
       "name": "Net Tv",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/net.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/net.m3u8"
     },
       
     {
@@ -365,51 +355,31 @@
       "name": "NICK Asia",
       "stream_url": "https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8"
     },
-    {
-      "cid": 1,
-      "name": "NHK World",
-      "stream_url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
-    },
-    
-{
-      "cid": 1,
-      "name": "NHK World Premium",
-      "stream_url": "http://203.162.235.41:16901"
-    },
 {
       "cid": 1,
       "name": "NHK GENERAL",
       "stream_url": "http://203.162.235.41:16903"
     },
 {
-      "cid": 1,
-      "name": "NJPW World",
-      "stream_url": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
+      "cid": 0,
+      "name": "Nicklodeon",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/nickelodeon.m3u8"
     },
 {
-      "cid": 1,
-      "name": "NIHON EIGA",
-      "stream_url": "http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228"
+      "cid": 0,
+      "name": "NickJR",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/nickjr.m3u8"
     },
     {
       "cid": 7,
       "name": "Olympic Channel",
       "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
     },
+   
     {
-      "cid": 4,
-      "name": "ONE PUCH MAN",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv"
-    },
-{
-      "cid": 4,
-      "name": "One PIECE TV",
-      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv"
-    },
-    {
-      "cid": 3,
-      "name": "Planet Music",
-      "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8"
+      "cid": 7,
+      "name": "NBA",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/nba.m3u8"
     },
     {
       "cid": 5,
@@ -442,9 +412,9 @@
       "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
     },
     {
-      "cid": 6,
-      "name": "Reformed 21",
-      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
+      "cid": 0,
+      "name": "RTV",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/rtv.m3u8"
     },
     
     {
@@ -515,9 +485,9 @@
     },
     
     {
-      "cid": 3,
-      "name": "Trace Urban",
-      "stream_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8"
+      "cid": 8,
+      "name": "Thrill",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/thrill.m3u8"
     },
     {
       "cid": 7,
@@ -542,12 +512,12 @@
     {
       "cid": 0,
       "name": "Transtv",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20transtv.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/transtv.m3u8"
     },
 {
       "cid": 0,
       "name": "Trans 7",
-      "stream_url": "https://oxoolk21.000webhostapp.com/vidio-playlist/kontol%20trans7.m3u8"
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/trans7.m3u8"
     },
     {
       "cid": 6,
@@ -630,14 +600,19 @@
       "stream_url": "http://103.135.208.14:80/live/ibox/bd/49.m3u8"
     },
     {
-      "cid": 9,
-      "name": "Sony TV",
-      "stream_url": "http://103.135.208.14:80/live/ibox/bd/43.m3u8"
+      "cid": 8,
+      "name": "WARNER",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/warner.m3u8"
+    },
+     {
+      "cid": 8,
+      "name": "ZEE Bioskop",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/zbioskop.m3u8"
     },
     {
-      "cid": 9,
-      "name": "Error",
-      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8537e9551123b64/hls-p/ingest_geo_6399_480p/index.m3u8"
+      "cid": 5,
+      "name": "Waku Waku",
+      "stream_url": "http://oxoo.lk21tvonlineid.com/m3u/wakuwaku.m3u8"
     }
   ]
 }
