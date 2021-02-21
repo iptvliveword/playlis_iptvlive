@@ -1746,8 +1746,8 @@
     },
     "tvg": {
       "id": null,
-      "name": null,
-      "url": null
+      "name": "animax",
+      "url": "https://tvku.live:8888/xmltv.php?username=epg&password=epg"
     }
   },
     {
