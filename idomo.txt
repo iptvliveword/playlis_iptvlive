@@ -1,6 +1,28 @@
 [
 
 {
+    "name": "SKYNET",
+    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FSkynet-TV-Guide-439437206123455%2Fabout%2F&psig=AOvVaw01Gj_eDRuSaNYpW3N0JtZb&ust=1613995253505000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODEoYL3-u4CFQAAAAAdAAAAABAD",
+ "url": "https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8",
+    "category": "Sport",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
     "name": "ANTV",
     "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png",
  "url": "http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8",
