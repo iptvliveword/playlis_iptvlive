@@ -376,6 +376,8 @@
     },
     {
     "name": "sinemaindonesia-x",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYTF7bFDISzYlw0gJM2WXGQsCEqcHyVZwWAA&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=sinemaindonesia-x",
     "category": "movie",
     "language": [
@@ -398,6 +400,8 @@
 
 {
     "name": "sinemaindonesia",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LrSXSZLkz7CI0w4-kh4dHkB8ETztEpfz0g&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=sinemaindonesia",
     "category": "movie",
     "language": [
@@ -420,6 +424,8 @@
 
 {
     "name": "k-drama",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRjTc8Rglo8bipzJV1WdYShtlNsrrNp8nxdQ&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=k-drama",
     "category": "movie",
     "language": [
@@ -442,6 +448,8 @@
 
 {
     "name": "foxmovies",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-s2wr-9_R7VWOqQ9KnRbofbjBPy57qTbBw&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=foxmovies",
     "category": "movie",
     "language": [
@@ -463,6 +471,8 @@
 
 {
     "name": "drakorplus",
+"logo": "https://3.bp.blogspot.com/-CgT_z6rI2xE/Xbz7AQftXNI/AAAAAAAAoxI/8tzVPvsfNQQbSdK843JNA3-4bPhGEWgMgCLcBGAsYHQ/s1600/drakor-plus-tv-channel-logo.png",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=drakorplus",
     "category": "movie",
     "language": [
@@ -485,6 +495,8 @@
 
 {
     "name": "b4umovieindia",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=b4umovieindia",
     "category": "movie",
     "language": [
@@ -506,6 +518,8 @@
 
 {
     "name": "atv",
+"logo": "https://4.bp.blogspot.com/-Rl6bWHI7G48/Xgagyz382iI/AAAAAAAApFU/kEQx7Eb-XHQo9h8wl-EqcPzp5V-_AmU1QCLcBGAsYHQ/s0/atv-channel-tv-logo.png",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=atv",
     "category": "movie",
     "language": [
@@ -525,6 +539,8 @@
     }
     },{
     "name": "france24",
+"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=france24",
     "category": "news",
     "language": [
@@ -545,6 +561,8 @@
     },
     {
     "name": "euronewsasia",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZcEs4wZZZKBfjd0SJikW8sjhtNtvUzvbnw&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=euronewsasia",
     "category": "news",
     "language": [
@@ -565,6 +583,8 @@
     },
 {
     "name": "cnbc",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3LGiq6vJMttkwsecBfNmOGR-sVxaiFkqWQ&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cnbc",
     "category": "news",
     "language": [
@@ -585,6 +605,8 @@
     },
     {
     "name": "channelnewsasia",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=channelnewsasia",
     "category": "news",
     "language": [
@@ -605,6 +627,8 @@
     },
     {
     "name": "cgtn",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cgtn",
     "category": "news",
     "language": [
@@ -626,6 +650,8 @@
 
 {
     "name": "bloomberg",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=bloomberg",
     "category": "news",
     "language": [
@@ -647,6 +673,8 @@
     
 {
     "name": "tawaftv",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=tawaftv",
     "category": "religi",
     "language": [
@@ -667,6 +695,8 @@
     },
 {
     "name": "qurantv",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=qurantv",
     "category": "religi",
     "language": [
@@ -687,6 +717,8 @@
     },
     {
     "name": "uchannel",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=uchannel",
     "category": "religi",
     "language": [
@@ -707,6 +739,8 @@
     },
     {
     "name": "rodjatv",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
+  
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=rodjatv",
     "category": "religi",
     "language": [
