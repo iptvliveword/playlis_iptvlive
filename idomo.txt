@@ -1,5 +1,27 @@
 [
 
+
+{
+    "name": "Dai TV",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=daaitv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    
 {
     "name": "CNN Indonesia",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cnnindonesia",
