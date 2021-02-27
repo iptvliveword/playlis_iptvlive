@@ -2,7 +2,7 @@
 
 {
     "name": "CNN Indonesia",
-    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=gotoluxe",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cnnindonesia",
     "category": "local",
     "language": [
       {
