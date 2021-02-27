@@ -176,7 +176,7 @@
     },
 {
     "name": "mentaritv",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://1.bp.blogspot.com/-ku7t1E-Cz_Y/X_em0sEhwuI/AAAAAAAAqX8/v1tEKHJ9K4EfhqVLUVuU_XRyRlGcjTBkQCLcBGAsYHQ/s0/mentari-tv-channel-logo.png",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=mentaritv",
     "category": "kids",
@@ -198,7 +198,7 @@
     },
 {
     "name": "ebskids",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3TEyZ8HpeHas8uokPHcz3U5B_a4KogjNqQ&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=ebskids",
     "category": "kids",
@@ -221,7 +221,7 @@
     
     {
     "name": "vchina",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=vchina",
     "category": "music",
     "language": [
@@ -243,7 +243,7 @@
     
 {
     "name": "mtvchina",
-   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygw_Dckl3sBLNma3CtW070bPUP4DcBVpOaA&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=mtvchina",
     "category": "music",
@@ -265,7 +265,7 @@
     },
     {
     "name": "b4umusicindia",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiTPmTW_uckEZFS-0bREwbtArBzDA_tXdr1Q&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=b4umusicindia",
     "category": "music",
@@ -287,7 +287,7 @@
     },
     {
     "name": "fashiontv",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNXi3voajCyv3Hy_MKGIWKrAyWA-nR5znbw&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=fashiontv",
     "category": "entertaimet",
@@ -309,7 +309,7 @@
     },
     {
     "name": "lotusmacau",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://3.bp.blogspot.com/-3m2jWysL4WE/VtpxADRrS_I/AAAAAAAAclk/lVqcMQsMwYA/s1600/lotus-macau-tv-logo.png",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=lotusmacau",
     "category": "movie",
@@ -332,7 +332,7 @@
 
 {
     "name": "xingkong",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDP1g_jsWPthsmex4iDqIFJTGqvhE4-BA_tA&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=xingkong",
     "category": "movie",
@@ -354,7 +354,7 @@
     },
     {
     "name": "b4umovieindia",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU",
    
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=b4umovieindia",
     "category": "movie",
