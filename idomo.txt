@@ -2,10 +2,262 @@
 
 
 
-
 {
+    "name": "cetv1",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cetv1",
+    "category": "international",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    {
+    "name": "cctv4asia",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=cctv4asia",
+    "category": "international",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    {
+    "name": "arirangworld",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=arirangworld",
+    "category": "international",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    {
+    "name": "ochannel",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=ochannel",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    {
+    "name": "rtv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=rtv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "persijatv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=persijatv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+    {
+    "name": "rri-net",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=rri-net",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "bn-tv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=bn-tv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "nusantaratv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=nusantaratv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "matrixtv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=matrixtv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "tvone",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=tvone",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
     "name": "magnatv",
-    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=magnatv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=transtv",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },{
+    "name": "magnatv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=trans7",
+    "category": "local",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "sctv",
+    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=sctv",
     "category": "local",
     "language": [
       {
