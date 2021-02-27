@@ -365,6 +365,7 @@
     {
     "name": "elshinta",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=elshinta",
+    "logo": "oxygentv\/assets\/upload\/channel\/16f01924b3993c0a6d70.jpg",
     "category": "local",
     "language": [
       {
