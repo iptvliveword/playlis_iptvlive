@@ -1,9 +1,10 @@
 [
 
 {
-    "name": "alkasstwo",
+    "name": "Alkasstwo",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=alkasstwo",
-    "category": "sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2m0RpAbgYMeCTuKWkwrWkPFwu0R79DGYaQ&usqp=CAU",
+     "category": "sport",
     "language": [
       {
         "code": "id",
@@ -24,6 +25,7 @@
 {
     "name": "tvrisport",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=tvrisport",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_oWLELtHJhooLOAV_iwtu_z-em7Ku-QpGw&usqp=CAU",
     "category": "sport",
     "language": [
       {
@@ -44,7 +46,8 @@
     
     {
     "name": "sportone",
-    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=sportone",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzAmNFjdKPmW6DLefZW6KMmBiW_ehp66YFag&usqp=CAU",
+   "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=sportone",
     "category": "sport",
     "language": [
       {
@@ -65,6 +68,7 @@
     
     {
     "name": "dubaisport3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xHn9LMBlx-10igebWgH_no0KU9Oqj_DofA&usqp=CAU",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=dubaisport3",
     "category": "sport",
     "language": [
@@ -86,6 +90,7 @@
 {
     "name": "redbulltv",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=redbulltv",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTolDAAwMe5cydLam4bYTiSP-fKMlx6nBi44g&usqp=CAU",
     "category": "sport",
     "language": [
       {
