@@ -18,7 +18,8 @@
       "id": null,
       "name": "animax",
       "url": "https://tvku.live:8888/xmltv.php?username=epg&password=epg"
-    },
+    }
+  },
     {
     "name": "Berita Satu",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=beritasatu",
@@ -37,7 +38,8 @@
       "id": null,
       "name": "animax",
       "url": "https://tvku.live:8888/xmltv.php?username=epg&password=epg"
-    },
+     }
+  },
 {
     "name": "Antv",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=antv",
