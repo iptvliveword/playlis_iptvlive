@@ -3743,27 +3743,6 @@
     }
     },
     
-
-{
-    "name": "Antv",
-    "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=antv",
-    "category": "local",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": "animax",
-      "url": "https://tvku.live:8888/xmltv.php?username=epg&password=epg"
-    }
-  },
     {
     "name": "elshinta",
     "url": "https://suryafebri.xyz/lk21movies.xyz/get-Oxy.php?channel=elshinta",
