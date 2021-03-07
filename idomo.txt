@@ -382,7 +382,7 @@
 
 
 {
-    "name": "ANTV",
+    "name": "ANTv",
     "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png",
  "url": "https://lk21movies.xyz/antv.m3u",
     "category": "LOKAL",
