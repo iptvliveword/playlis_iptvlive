@@ -5,7 +5,7 @@
     "name": "Indosiar Vidio",
 "logo": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/09/25/3409955888.png",
   
-    "url": "http",
+    "url": "http://suryafebri.xyz/indosiar.php",
     "category": "lokal",
     "language": [
       {
