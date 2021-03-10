@@ -1,10 +1,54 @@
 [
 
 {
+    "name": "METRO TYPU - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_25KfSZEBdcgFOVQvhbEkSvs2Vpn-FO0ZQ&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/vidio/metro.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "MNCTV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0mRBAA5JBjBvkocOkgs7f1WLAXfIqyjc3Q&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/vidio/mnctv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
     "name": "RCTI - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSlJifD96SQkR1_MgREYlMKGYig-4KNcQCA&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/rcti.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/vidio/rcti.php",
     "category": "lokal",
     "language": [
       {
@@ -26,7 +70,7 @@
     "name": "GTV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBUDz7fOaqC4707yKtTagUu5Z1oh9v_u7NA&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/gtv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/vidio/gtv.php",
     "category": "lokal",
     "language": [
       {
@@ -48,7 +92,7 @@
     "name": "Indosiar - Vidio",
 "logo": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/09/25/3409955888.png",
   
-    "url": "http://suryafebri.xyz/indosiar.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/vidio/indosiar.php",
     "category": "lokal",
     "language": [
       {
