@@ -1,11 +1,167 @@
 [
 
 {
+    "name": "NUSANTARATV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/nusantaratv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
+    "name": "My TV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/mytv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
+    "name": "MUSICA TV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvaR8XDKC0yRBHGfQtyJjEZg-X3NgUV8c4w&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/musica.php",
+    "category": "music",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "MAGNA TV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/magnatv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "INEWS TV- Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceZE4GzkjnCydMThKZD23_cEW9mwtqd_4-g&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/inews.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
     "name": "METRO TYPU - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_25KfSZEBdcgFOVQvhbEkSvs2Vpn-FO0ZQ&usqp=CAU",
   
     "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/metro.php",
     "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "DAIITV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbP05cKOZY4j42R7fQGtoFX1Qte0rD8YSgHQ&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/daiitv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "AJWATV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrxq6PSXKKPvJ9_GYmFZLyHcQtjhPEhPxEA&usqp=CAU",
+  
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/ajwa.php",
+    "category": "religi",
     "language": [
       {
         "code": "id",
