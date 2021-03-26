@@ -4,7 +4,7 @@
     "name": "NUSANTARATV - Vidio",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/nusantaratv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/nusantaratv.php",
     "category": "lokal",
     "language": [
       {
@@ -27,7 +27,7 @@
     "name": "My TV - Vidio",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/mytv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/mytv.php",
     "category": "lokal",
     "language": [
       {
@@ -50,7 +50,7 @@
     "name": "MUSICA TV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvaR8XDKC0yRBHGfQtyJjEZg-X3NgUV8c4w&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/musica.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/musica.php",
     "category": "music",
     "language": [
       {
@@ -72,7 +72,7 @@
     "name": "MAGNA TV - Vidio",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/magnatv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/magnatv.php",
     "category": "lokal",
     "language": [
       {
@@ -94,7 +94,7 @@
     "name": "INEWS TV- Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceZE4GzkjnCydMThKZD23_cEW9mwtqd_4-g&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/inews.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/inews.php",
     "category": "lokal",
     "language": [
       {
@@ -116,7 +116,7 @@
     "name": "METRO TYPU - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_25KfSZEBdcgFOVQvhbEkSvs2Vpn-FO0ZQ&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/metro.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/metro.php",
     "category": "lokal",
     "language": [
       {
@@ -138,7 +138,7 @@
     "name": "DAIITV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbP05cKOZY4j42R7fQGtoFX1Qte0rD8YSgHQ&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/daiitv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/daiitv.php",
     "category": "lokal",
     "language": [
       {
@@ -160,7 +160,7 @@
     "name": "AJWATV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrxq6PSXKKPvJ9_GYmFZLyHcQtjhPEhPxEA&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/ajwa.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/ajwa.php",
     "category": "religi",
     "language": [
       {
@@ -182,7 +182,7 @@
     "name": "MNCTV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0mRBAA5JBjBvkocOkgs7f1WLAXfIqyjc3Q&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/mnctv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/mnctv.php",
     "category": "lokal",
     "language": [
       {
@@ -204,7 +204,7 @@
     "name": "RCTI - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSlJifD96SQkR1_MgREYlMKGYig-4KNcQCA&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/rcti.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/rcti.php",
     "category": "lokal",
     "language": [
       {
@@ -226,7 +226,7 @@
     "name": "GTV - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBUDz7fOaqC4707yKtTagUu5Z1oh9v_u7NA&usqp=CAU",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/gtv.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/gtv.php",
     "category": "lokal",
     "language": [
       {
@@ -248,7 +248,7 @@
     "name": "Indosiar - Vidio",
 "logo": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/09/25/3409955888.png",
   
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/vidio/indosiar.php",
+    "url": "http://suryafebri.xyz/suryafebrialwari/malinggoblok/vidio/indosiar.php",
     "category": "lokal",
     "language": [
       {
