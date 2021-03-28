@@ -67,7 +67,7 @@
     },
 {
     "name": "Hore tv - Vidio",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPkMgFixAjbSrtjgtzdwPLEk2-LiNY4Glgg&usqp=CAU",
   
     "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/hore.php",
     "category": "kids",
