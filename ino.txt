@@ -1,5 +1,26 @@
 [
-
+{
+    "name": "Indosiar - Vidio BOlA",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUtXq7cydwMNCqARATOtRVuSo1BTVI-MVKQ&usqp=CAU",
+  
+    "url": "https://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/indosiar-vidio_BOLA.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
 {
     "name": "NUSANTARATV - Vidio",
 "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
