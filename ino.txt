@@ -1,7 +1,7 @@
 [
 {
-    "name": "zoomoto - Vidio",
-"logo": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/zoomotv.php",
+    "name": "zoomotv - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUmZ-OTCU2kfOOq79is3vGv8v7b_H2qkUcA&usqp=CAU",
   
     "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/zoomotv.php",
     "category": "kids",
@@ -45,7 +45,7 @@
     },
 {
     "name": "love nature - Vidio",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6dql-MxHmt0YWWu4Kr4wudNBg-QghJeJ9AA&usqp=CAU",
   
     "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/love-nature.php",
     "category": "kids",
