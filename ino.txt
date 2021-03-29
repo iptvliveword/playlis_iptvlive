@@ -1,6 +1,6 @@
 [
 {
-    "name": "Raya and the Last Dragon-(2021)",
+    "name": "Raya and the Last Dragon (2021)",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNoYM34kWDIwcvo5qXJmFtSZxf3aFtzA59w&usqp=CAU",
   
     "url": "https://raw.githubusercontent.com/alwaer/alwarifebri/master/jan.m3u",
@@ -25,7 +25,7 @@
     "name": "The Concubine-(2012)",
 "logo": "https://www.themoviedb.org/t/p/w220_and_h330_face/k5Ss8UVOhqgJFUXmeoBv9HwCqZA.jpg",
   
-    "url": "https://raw.githubusercontent.com/alwaer/alwarifebri/master/tes.m3u",
+    "url": "https://raw.githubusercontent.com/alwaer/alwarifebri/master/tes.m3u8",
     "category": "vod",
     "language": [
       {
