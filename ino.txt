@@ -4,7 +4,7 @@
     "name": "Stan by ME Doraemom - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_GrXubyxjUYW7RPqPbFhRK2QhV4LN122LQ&usqp=CAU",
   
-    "url": "https://m.vidio.com/videos/2126109/token_video_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiNjMwODM4NzQiLCJ2aWRlb19pZCI6IjIxMjYxMDkiLCJjcmVhdGVkX2F0IjoxNjE3MDMwMTE2LCJpcCI6IjM2LjY5LjkuNjYifQ.7VQs284-XlsrLfogy9o7ONWORg5KVKjWN-LvuZNR1yA",
+    "url": "https://m.vidio.com/videos/1550718/token_video_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiNjMwODM4NzQiLCJ2aWRlb19pZCI6IjE1NTA3MTgiLCJjcmVhdGVkX2F0IjoxNjE3MDMwNDg3LCJpcCI6IjM2LjY5LjkuNjYifQ.ec00Etqqi20rNPhtrXVOZczr-GAdnKT11cN42JyOhIEcmVhdGVkX2F0IjoxNjE3MDMwMTE2LCJpcCI6IjM2LjY5LjkuNjYifQ.7VQs284-XlsrLfogy9o7ONWORg5KVKjWN-LvuZNR1yA",
     "category": "movies",
     "language": [
       {
