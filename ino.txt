@@ -1,6 +1,27 @@
 [
 
-
+{
+    "name": "love nature - 4k",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6dql-MxHmt0YWWu4Kr4wudNBg-QghJeJ9AA&usqp=CAU",
+  
+    "url": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
     
 {
     "name": "BeritaSatu",
@@ -2199,28 +2220,7 @@
       "url": null
     }
     },
-{
-    "name": "love nature - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6dql-MxHmt0YWWu4Kr4wudNBg-QghJeJ9AA&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/love-nature.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
+
 {
     "name": "Hore tv - Vidio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPkMgFixAjbSrtjgtzdwPLEk2-LiNY4Glgg&usqp=CAU",
