@@ -22,7 +22,428 @@
       "url": null
     }
     },
-    
+    {
+    "name": "zoomotv - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUmZ-OTCU2kfOOq79is3vGv8v7b_H2qkUcA&usqp=CAU",
+  
+    "url": "https://tvnasional.online/zoomotv.php",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Smithsonian - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dabU4EEBuyC_uTmkUkt7WjQ6NC1ZY3He7g&usqp=CAU",
+  
+    "url": "https://tvnasional.online/smithsonian.php",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
+    "name": "Hore tv - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPkMgFixAjbSrtjgtzdwPLEk2-LiNY4Glgg&usqp=CAU",
+  
+    "url": "https://tvnasional.online/hore.php",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Hip-hore - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlj43CEehoPxzSaSCNd2-ygg5xDqWE-qTTw&usqp=CAU",
+  
+    "url": "https://tvnasional.online/hiphore.php",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "davinci tv - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50x1V_Iu9Gzesh0SL3Q1Ez2e3U96oU6eVPw&usqp=CAU",
+  
+    "url": "https://tvnasional.online/davinci.php",
+    "category": "kids",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Champion3 - Vidio",
+"logo": "data:image/jpeg;base64,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",
+  
+    "url": "http://lk21tvonlineid.com/mh/malinggoblok/champion3.php",
+    "category": "Sport",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Indosiar - Vidio BOlA",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUtXq7cydwMNCqARATOtRVuSo1BTVI-MVKQ&usqp=CAU",
+  
+    "url": "http://lk21tvonlineid.com/mh/malinggoblok/indosiar-vidio_BOLA.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "NUSANTARATV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
+  
+    "url": "https://tvnasional.online/nusantaratv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
+    "name": "My TV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",
+  
+    "url": "https://tvnasional.online/mytv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
+    "name": "MUSICA TV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvaR8XDKC0yRBHGfQtyJjEZg-X3NgUV8c4w&usqp=CAU",
+  
+    "url": "https://tvnasional.online/musica.php",
+    "category": "music",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "MAGNA TV - Vidio",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",
+  
+    "url": "https://tvnasional.online/magnatv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "INEWS TV- Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceZE4GzkjnCydMThKZD23_cEW9mwtqd_4-g&usqp=CAU",
+  
+    "url": "https://tvnasional.online/inews.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "METRO TYPU - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_25KfSZEBdcgFOVQvhbEkSvs2Vpn-FO0ZQ&usqp=CAU",
+  
+    "url": "https://tvnasional.online/metro.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "DAIITV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbP05cKOZY4j42R7fQGtoFX1Qte0rD8YSgHQ&usqp=CAU",
+  
+    "url": "https://tvnasional.online/daiitv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "AJWATV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrxq6PSXKKPvJ9_GYmFZLyHcQtjhPEhPxEA&usqp=CAU",
+  
+    "url": "https://tvnasional.online/ajwa.php",
+    "category": "religi",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "MNCTV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0mRBAA5JBjBvkocOkgs7f1WLAXfIqyjc3Q&usqp=CAU",
+  
+    "url": "https://tvnasional.online/mnctv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "RCTI - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSlJifD96SQkR1_MgREYlMKGYig-4KNcQCA&usqp=CAU",
+  
+    "url": "https://tvnasional.online/rcti.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "GTV - Vidio",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBUDz7fOaqC4707yKtTagUu5Z1oh9v_u7NA&usqp=CAU",
+  
+    "url": "https://tvnasional.online/gtv.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Indosiar - Vidio",
+"logo": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/09/25/3409955888.png",
+  
+    "url": "https://tvnasional.online/indosiar.php",
+    "category": "lokal",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
 {
     "name": "BeritaSatu",
     "logo": "data:image/png;base64,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",
@@ -2175,429 +2596,6 @@
       "url": null
     }
     },
-
-{
-    "name": "zoomotv - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUmZ-OTCU2kfOOq79is3vGv8v7b_H2qkUcA&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/zoomotv.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "Smithsonian - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-dabU4EEBuyC_uTmkUkt7WjQ6NC1ZY3He7g&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/smithsonian.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-
-{
-    "name": "Hore tv - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuPkMgFixAjbSrtjgtzdwPLEk2-LiNY4Glgg&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/hore.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "Hip-hore - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlj43CEehoPxzSaSCNd2-ygg5xDqWE-qTTw&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/hiphore.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "davinci tv - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR50x1V_Iu9Gzesh0SL3Q1Ez2e3U96oU6eVPw&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/davinci.php",
-    "category": "kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "Champion3 - Vidio",
-"logo": "data:image/jpeg;base64,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",
-  
-    "url": "http://lk21tvonlineid.com/mh/malinggoblok/champion3.php",
-    "category": "Sport",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "Indosiar - Vidio BOlA",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUtXq7cydwMNCqARATOtRVuSo1BTVI-MVKQ&usqp=CAU",
-  
-    "url": "http://lk21tvonlineid.com/mh/malinggoblok/indosiar-vidio_BOLA.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "NUSANTARATV - Vidio",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/nusantaratv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-
-{
-    "name": "My TV - Vidio",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/mytv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-
-{
-    "name": "MUSICA TV - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvaR8XDKC0yRBHGfQtyJjEZg-X3NgUV8c4w&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/musica.php",
-    "category": "music",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "MAGNA TV - Vidio",
-"logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/magnatv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "INEWS TV- Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceZE4GzkjnCydMThKZD23_cEW9mwtqd_4-g&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/inews.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "METRO TYPU - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_25KfSZEBdcgFOVQvhbEkSvs2Vpn-FO0ZQ&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/metro.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "DAIITV - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbP05cKOZY4j42R7fQGtoFX1Qte0rD8YSgHQ&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/daiitv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "AJWATV - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrxq6PSXKKPvJ9_GYmFZLyHcQtjhPEhPxEA&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/ajwa.php",
-    "category": "religi",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "MNCTV - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0mRBAA5JBjBvkocOkgs7f1WLAXfIqyjc3Q&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/mnctv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "RCTI - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSSlJifD96SQkR1_MgREYlMKGYig-4KNcQCA&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/rcti.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "GTV - Vidio",
-"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBUDz7fOaqC4707yKtTagUu5Z1oh9v_u7NA&usqp=CAU",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/gtv.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "Indosiar - Vidio",
-"logo": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/09/25/3409955888.png",
-  
-    "url": "http://suryafebri.xyz/suryafebrialwari/maling/malinggoblok/indosiar.php",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-
 
     {
     "name": "zong",
