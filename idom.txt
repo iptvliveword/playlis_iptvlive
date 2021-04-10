@@ -2,4723 +2,817 @@
   "categories": [
     {
       "id": 0,
-      "name": "TVRI"
-    },
-    {
-      "id": 1,
       "name": "Nasional"
     },
     {
+      "id": 1,
+      "name": "Berita"
+    },
+    {
       "id": 2,
-      "name": "Lokal"
-    },
-    {
-      "id": 3,
-      "name": "Religi"
-    },
-    {
-      "id": 4,
-      "name": "Pengetahuan"
-    },
-    {
-      "id": 5,
       "name": "Hiburan"
     },
     {
-      "id": 6,
-      "name": "Anak"
-    },
-    {
-      "id": 7,
-      "name": "Film"
-    },
-    {
-      "id": 8,
+      "id": 3,
       "name": "Musik"
     },
     {
-      "id": 9,
+      "id": 4,
+      "name": "Anak"
+    },
+    {
+      "id": 5,
+      "name": "Edukasi"
+    },
+    {
+      "id": 6,
+      "name": "Religi"
+    },
+    {
+      "id": 7,
       "name": "Olahraga"
-    },
-    {
-      "id": 10,
-      "name": "Internasional"
-    },
-    {
-      "id": 11,
-      "name": "India"
-    },
-    {
-      "id": 12,
-      "name": "China"
-    },
-    {
-      "id": 13,
-      "name": "Malaysia"
-    },
-    {
-      "id": 14,
-      "name": "Al-Qur'an"
-    },
-    {
-      "id": 15,
-      "name": "Radio"
-    },
-    {
-      "id": 16,
-      "name": "VOD"
     }
   ],
   "channels": [
-	{
+    {
       "cid": 0,
-      "name": "TVRI ACEH",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/aceh.m3u8"
+      "name": "NETTT",
+      "stream_url": "https://suryafebri.xyz/malingterus/cari.php?channel=net"
     },
     {
       "cid": 0,
-      "name": "TVRI BALI",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/bali.m3u8"
+      "name": "Bein122",
+      "stream_url": "https://suryafebri.xyz/malingterus/cari.php?channel=bein1"
     },
     {
-      "cid": 0,
-      "name": "TVRI BANGKA BELITUNG",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/bangkabelitung.m3u8"
+      "cid": 2,
+      "name": "AFV",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TVRI BENGKULU",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/bengkulu.m3u8"
+      "cid": 2,
+      "name": "AFV Family",
+      "stream_url": "http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TVRI GORONTALO",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/gorontalo.m3u8"
+      "cid": 6,
+      "name": "Ahsan TV",
+      "stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TVRI JAKARTA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/jakarta.m3u8"
+      "cid": 6,
+      "name": "Al Bahjah",
+      "stream_url": "https://edge.siar.us/albahjahtv/live/playlist.m3u8"
     },
     {
-      "cid": 0,
-      "name": "TVRI JAMBI",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/jambi.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI JAWA BARAT",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/jawabarat.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI JAWA TENGAH",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/jawatengah.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI JAWA TIMUR",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/jawatimur.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI KALIMANTAN BARAT",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/kalimantanbarat.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI KALIMANTAN SELATAN",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/kalimantanselatan.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI KALIMANTAN TENGAH",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/kalimantantimur.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI LAMPUNG",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/lampung.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI MALUKU",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/maluku.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI NUSA TENGGARA BARAT",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/nusatenggarabarat.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI NUSA TENGGARA TIMUR",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/nusatenggaratimur.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI PAPUA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/papua.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI RIAU",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/riau.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SULAWESI BARAT",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sulawesibarat.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SULAWESI SELATAN",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sulawesiselatan.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SULAWESI TENGAH",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sulawesitengah.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SULAWESI TENGGARA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sulawesitenggara.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SULAWESI UTARA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sulawesiutara.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SUMATERA BARAT",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sumaterabarat.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SUMATERA SELATAN",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sumateraselatan.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI SUMATERA UTARA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/sumaterautara.m3u8"
-    },
-    {
-      "cid": 0,
-      "name": "TVRI YOGYAKARTA",
-      "stream_url": "https://cmt.mb13.cyou/c/tvri/yogyakarta.m3u8"
-    },
-	{
       "cid": 1,
-      "name": "ANTARA",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-antara&b=14&c=antara"
+      "name": "Al Jazeera English",
+      "stream_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
     },
-	{
+    {
+      "cid": 5,
+      "name": "Animal Planet",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Animax Asia",
+      "stream_url": "http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Aniplus Asia",
+      "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "ANTV",
+      "stream_url": "https://stream.suryaiptv.net/streams/5_.m3u8"
+    },
+    {
       "cid": 1,
-      "name": "antv",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+      "name": "Arirang",
+      "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
     },
-	{
+    {
+      "cid": 2,
+      "name": "AutoMoto TV",
+      "stream_url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8"
+    },
+    {
       "cid": 1,
-      "name": "Berita Satu",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
+      "name": "Awani",
+      "stream_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8"
     },
-	{
+    {
+      "cid": 2,
+      "name": "AXN",
+      "stream_url": "http://210.210.155.66/h/h141/02.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Baby First",
+      "stream_url": "http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8"
+    },
+    {
       "cid": 1,
-      "name": "Berita Satu World",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/beritasatuworld.m3u8"
+      "name": "BBC World News",
+      "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
     },
-	{
+    {
+      "cid": 1,
+      "name": "BeritaSatu",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Adventure",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdyv_lWVEr0cSEOBCkIyfTS"
+    },
+    {
+      "cid": 4,
+      "name": "Biznet Kids",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC"
+    },
+    {
+      "cid": 2,
+      "name": "Biznet Lifestyle",
+      "stream_url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR"
+    },
+    {
+      "cid": 2,
+      "name": "Blue Ant Extreme",
+      "stream_url": "http://45.126.83.51/dr9445/h/h15/01.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Boing TV",
+      "stream_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Boomerang",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Box Hits",
+      "stream_url": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f"
+    },
+    {
+      "cid": 4,
+      "name": "Cartoon Network",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Celestial Movies",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "Channel NewsAsia",
+      "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinema World",
+      "stream_url": "http://210.210.155.35/uq2663/h/h04/index2.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Cinemax",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass"
+    },
+    {
       "cid": 1,
       "name": "CNBC Indonesia",
-      "stream_url": "https://cmt.mb13.cyou/c/a/cnbcindonesia.m3u8"
+      "stream_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
     },
-	{
+    {
       "cid": 1,
       "name": "CNN Indonesia",
-      "stream_url": "https://cmt.mb13.cyou/c/a/cnnindonesia.m3u8"
+      "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
     },
-	{
-      "cid": 1,
+    {
+      "cid": 3,
+      "name": "Deluxe Music",
+      "stream_url": "http://188.35.9.5:10007/stolen/200b/parasite.install"
+    },
+    {
+      "cid": 5,
+      "name": "Discovery Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Disney Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass"
+    },
+    {
+      "cid": 4,
+      "name": "Disney Junior Asia",
+      "stream_url": "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Hits",
+      "stream_url": "https://www.djing.com/tv/hits.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Karaoke",
+      "stream_url": "https://www.djing.com/tv/karaoke.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Live",
+      "stream_url": "https://www.djing.com/tv/live.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "DJing Summer Vibes",
+      "stream_url": "https://www.djing.com/tv/session_summer-vibes.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "DocuBox",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Drakor Plus",
+      "stream_url": "https://stream.suryaiptv.net/streams/132_.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "DSport",
+      "stream_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8"
+    },
+    {
+      "cid": 4,
+      "name": "Duck TV",
+      "stream_url": "http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Elshinta TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s10/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "English Club",
+      "stream_url": "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "FailArmy",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fashion TV Midnight",
+      "stream_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist==.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Food",
+      "stream_url": "https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Food Network",
+      "stream_url": "http://5.135.92.133:52841/out/u/502_1.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fox",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Life",
+      "stream_url": "https://stream.suryaiptv.net/streams/109_.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Fox Movies",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports",
+      "stream_url": "http://13.250.204.68/session/usee_tv/dakocan-premium/fs1.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Fox Sports News",
+      "stream_url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "FTV",
+      "stream_url": "https://stream.suryaiptv.net/streams/134_.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Gone Fishing",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 7,
+      "name": "Gone Hunting",
+      "stream_url": "https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8?fluxustv.m3u8"
+    },
+    {
+      "cid": 0,
       "name": "GTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd"
+      "stream_url": "https://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8"
     },
-	{
-      "cid": 1,
-      "name": "IDX",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+    {
+      "cid": 2,
+      "name": "HBO",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass"
     },
-	{
-      "cid": 1,
+    {
+      "cid": 2,
+      "name": "HBO Family",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass"
+    },
+    {
+      "cid": 2,
+      "name": "Hi Indo!",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "Hidup TV",
+      "stream_url": "http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8"
+    },
+    {
+      "cid": 5,
+      "name": "History 2",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Hits",
+      "stream_url": "http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "Home & Living",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8"
+    },
+    {
+      "cid": 6,
+      "name": "I AM CHANNEL",
+      "stream_url": "http://iamchannel.org:1935/tes/1/chunklist.m3u8"
+    },
+    {
+      "cid": 0,
       "name": "Indosiar",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd"
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s04/01.m3u8"
     },
     {
       "cid": 1,
-      "name": "iNews",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd"
+      "name": "iNews TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8"
     },
-	{
+    {
+      "cid": 6,
+      "name": "Insan TV",
+      "stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8"
+    },
+    {
       "cid": 1,
       "name": "Jakarta Globe",
-      "stream_url": "https://cmt.mb13.cyou/c/a/jakartaglobe.m3u8"
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8"
     },
-	{
+    {
+      "cid": 0,
+      "name": "Jogja TV",
+      "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    },
+    {
+      "cid": 0,
+      "name": "JTV",
+      "stream_url": "http://122.248.43.138:1935/ch2/myStream/playlist.m3u8"
+    },
+    {
+      "cid": 3,
+      "name": "Karaoke Channel",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "K-Drama",
+      "stream_url": "https://stream.suryaiptv.net/streams/40_.m3u8"
+    },
+    {
+      "cid": 2,
+      "name": "KIX",
+      "stream_url": "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8"
+    },
+    {
       "cid": 1,
       "name": "Kompas TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s104/01.m3u8"
     },
-	{
-      "cid": 1,
-      "name": "Metro TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd"
+    {
+      "cid": 4,
+      "name": "Larva TV",
+      "stream_url": "http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv"
     },
-	{
-      "cid": 1,
-      "name": "MNC News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd"
+    {
+      "cid": 2,
+      "name": "M Cine",
+      "stream_url": "https://stream.suryaiptv.net/streams/135_.m3u8"
     },
-	{
-      "cid": 1,
-      "name": "MNCTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+    {
+      "cid": 6,
+      "name": "Madinah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8"
     },
-	{
-      "cid": 1,
-      "name": "mytv",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/mytv.m3u8"
-    },
-	{
-      "cid": 1,
-      "name": "Net TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "RCTI",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "rtv",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "SCTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "Trans 7",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "Trans TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "tvOne",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "TVRI",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+    {
+      "cid": 6,
+      "name": "Makkah TV",
+      "stream_url": "http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8"
     },
     {
       "cid": 1,
-      "name": "TVRI",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd"
-    },
-	{
-      "cid": 1,
-      "name": "TVRI Kanal 3",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/tvrikanal3.m3u8"
-    },
-	{
-      "cid": 1,
-      "name": "TVRI Sport",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/tvrisport.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "ADiTV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/aditv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Bali TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd"
-    },
-    {
-      "cid": 2,
-      "name": "Bandung TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/bandungtv.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Banten TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/bantentv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Bayu TV Nganjuk",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/bayutv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "BETV Beken",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/betvbeken.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "BMS TV Banyumas",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/bmstv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "BTV Balikpapan",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/balikpapantv.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "BTV Batam",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/batamtv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Bungo TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/bungotv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Citra TV Lamongan",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/citratvlamongan.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "CTV Banten",
-      "stream_url": "https://cmt.mb13.cyou/c/a/ctvbanten.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Dayak TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/dayaktv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "DIGDAYA TV",
-      "stream_url": "https://cmt.mb13.cyou/c/g/digdayatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Elshinta TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/elshintatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "FAJAR TV Makassar",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/fajartvmakassar.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "JAKTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
-    },
-    {
-      "cid": 2,
-      "name": "Jambi TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/jambitv.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Jawapos TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/jawapostv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "JEKTV Jambi",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/jektvjambi.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "jitv",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/jitv.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Jogja TV",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/jogjatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "JTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd"
-    },
-    {
-      "cid": 2,
-      "name": "JTV Pacitan",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/jtvpacitan.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Jurnal TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/jurnaltv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Kawanua TV Manado",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/kawanuatvmanado.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Lombok TV",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/lomboktv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Madu TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/madutv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "MGS TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/mgstv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Nirwana TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/nirwanatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "PALTV Palembang",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/palembangtv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "PONTV Pontianak",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/pontv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Prima TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/primatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Radar TV Tasikmalaya",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/radartv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "RBTV Bengkulu",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/rbtvbengkulu.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "RCTV Cirebon",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/radarcirebontv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "RRI NET",
-      "stream_url": "https://cmt.mb13.cyou/c/a/rrinet.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "RTV Riau",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/riautv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Sakti TV Madiun",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/saktitv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Siak TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/siaktv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Simpang5 TV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/simpang5tv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "SMTV",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/smtv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Sultra TV Kendari",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/sultratv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "TATV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/tatv.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "Tegar TV Jogja",
-      "stream_url": "https://cmt.mb13.cyou/c/a/tegartvjogja.m3u8"
-    },
-    {
-      "cid": 2,
-      "name": "Tegar TV Lampung",
-      "stream_url": "https://cmt.mb13.cyou/c/a/tegartvlampung.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "TV DESA",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/tvdesa.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "TVKU",
-      "stream_url": "https://cmt.mb13.cyou/c/a/tvku.m3u8"
-    },
-	{
-      "cid": 2,
-      "name": "TVTPI Tanjungpinang",
-      "stream_url": "https://cmt.mb13.cyou/c/lokal/tvtpi.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "AHSAN TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/ahsantv.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Ajwa TV",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7464&b=7464"
-    },
-    {
-      "cid": 3,
-      "name": "Al Quran Al Kareem",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
-    },
-    {
-      "cid": 3,
-      "name": "Al Sunnah Al Nabawiyah",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/alsunnahalnabawiyah.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Al-Bahjah TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/albahjahtv.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "Al-Iman TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/alimantv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Ashiil TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/ashiiltv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Citra Muslim",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6678&b=6678"
-    },
-	{
-      "cid": 3,
-      "name": "Hijrah TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/hijrahtv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "IAM",
-      "stream_url": "https://cmt.mb13.cyou/c/a/iam.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Insan TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/insantv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Izzah TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/izzahtv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "MNC Muslim",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
-    },
-	{
-      "cid": 3,
-      "name": "MQTV",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mqtv&b=14&c=mqtv"
-    },
-	{
-      "cid": 3,
-      "name": "mtatv",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/mtatv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Muadz TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/muadztv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Nabawi TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/nabawitv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Niaga TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/niagatv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "NU Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/a/nuchannel.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "PULDAPII TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/puldapiitv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Rasyaad TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/rasyaadtv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Rodja TV",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/rodjatv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Salam TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/salamtv.m3u8"
-    },
-    {
-      "cid": 3,
-      "name": "SalingSapa TV",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/salingsapa.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Surau TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/surautv.m3u8"
-    },
-	{
-      "cid": 3,
-      "name": "Tawaf TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
-    },
-	{
-      "cid": 3,
-      "name": "TV Muhammadiyah",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd"
-    },
-    {
-      "cid": 3,
-      "name": "TV MUI",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-muitv&b=14&c=muitv"
-    },
-	{
-      "cid": 3,
-      "name": "TV9",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "Animal Planet",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "B Adventure 4K",
-      "stream_url": "https://cmt.mb13.cyou/c/a/badventure4k.m3u8"
-    },
-	{
-      "cid": 4,
-      "name": "BBC Earth",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "Crime Investigation",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "Discovery",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd"
+      "name": "Metro TV",
+      "stream_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
     },
     {
       "cid": 4,
-      "name": "Discovery Asia",
-      "stream_url": "https://cmt.mb13.cyou/c/pre/discoveryasia.m3u8"
+      "name": "Miao Mi",
+      "stream_url": "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Discovery Science",
-      "stream_url": "https://cmt.mb13.cyou/c/g/discoveryscience.m3u8"
+      "cid": 0,
+      "name": "MNC TV",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8"
     },
     {
-      "cid": 4,
-      "name": "Discovery Turbo",
-      "stream_url": "https://cmt.mb13.cyou/c/g/discoveryturbo.m3u8"
-    },
-	{
-      "cid": 4,
-      "name": "DMAX",
-      "stream_url": "https://cmt.mb13.cyou/c/g/dmax.m3u8"
-    },
-	{
-      "cid": 4,
-      "name": "History",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "Lingua",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-lingua&b=15&c=lingua"
-    },
-	{
-      "cid": 4,
-      "name": "Love Nature",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6635&b=geo_6635"
-    },
-	{
-      "cid": 4,
-      "name": "NatGeo People",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd"
+      "cid": 2,
+      "name": "MNX Movies",
+      "stream_url": "https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8"
     },
     {
-      "cid": 4,
-      "name": "NatGeo Wild",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd"
+      "cid": 2,
+      "name": "Movie Kingdom",
+      "stream_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
     },
     {
-      "cid": 4,
-      "name": "National Geographic",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd"
-    },
-	{
-      "cid": 4,
-      "name": "OneTV Discovery",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/onetvdiscovery.m3u8"
-    },
-	{
-      "cid": 4,
-      "name": "Outdoor Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-outdoor&b=14&c=outdoor"
-    },
-	{
-      "cid": 4,
-      "name": "Smithsonian",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6550&b=geo_6550"
-    },
-	{
-      "cid": 4,
-      "name": "tv Edukasi",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/tvedukasi.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "AFN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "B LifeStyle",
-      "stream_url": "https://cmt.mb13.cyou/c/a/blifestylehd.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Blue Ant Entertainment",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-blueant&b=14&c=blueant"
+      "cid": 2,
+      "name": "Movies Now",
+      "stream_url": "https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8"
     },
     {
-      "cid": 5,
-      "name": "Blue Ant Extreme",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-blueantextreme&b=14&c=blueantextreme"
-    },
-	{
-      "cid": 5,
-      "name": "Choppertown",
-      "stream_url": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Citra Dangdut",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6587&b=6587"
-    },
-	{
-      "cid": 5,
-      "name": "Citra Entertainment",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6402&b=6402"
-    },
-	{
-      "cid": 5,
-      "name": "Cycle World",
-      "stream_url": "https://cmt.mb13.cyou/c/a/cycleworld.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "DAAI TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "DIGIONE",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/digione.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Dunia Lain",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-dunialain&b=14&c=dunialain"
-    },
-	{
-      "cid": 5,
-      "name": "Eat&Go",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-eatgo&b=14&c=eatgo"
-    },
-	{
-      "cid": 5,
-      "name": "El john TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/eljohn.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Entertainment",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7352&b=7352"
-    },
-	{
-      "cid": 5,
-      "name": "FAILARMY",
-      "stream_url": "https://cmt.mb13.cyou/c/a/failarmy.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Hallypop",
-      "stream_url": "https://cmt.mb13.cyou/c/a/hallypop.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "HGTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd"
+      "cid": 3,
+      "name": "MTV",
+      "stream_url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8"
     },
     {
-      "cid": 5,
-      "name": "Hi Indo!",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/hi.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Insert",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-insert&b=14&c=insert"
-    },
-	{
-      "cid": 5,
-      "name": "KBS World",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-kbsworld&b=15&c=kbsworld"
-    },
-	{
-      "cid": 5,
-      "name": "K-Plus",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-kplus&b=15&c=kplus"
-    },
-	{
-      "cid": 5,
-      "name": "LifeStyle Fashion",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
+      "cid": 3,
+      "name": "Music Now",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8"
     },
     {
-      "cid": 5,
-      "name": "Lifetime",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "Magna Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/magna.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "MNC Entertainment",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
+      "cid": 3,
+      "name": "Music Top",
+      "stream_url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
     },
     {
-      "cid": 5,
-      "name": "MNC Infotainment",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "ntv",
-      "stream_url": "https://cmt.mb13.cyou/c/a/ntv.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "O Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-206&b=206"
-    },
-    {
-      "cid": 5,
-      "name": "OKTV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "Outside TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/outsidetv.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "oxygen.id",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=oxygentv"
-    },
-	{
-      "cid": 5,
-      "name": "People Are Awesome",
-      "stream_url": "https://cmt.mb13.cyou/c/a/peopleareawesome.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Redbull TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/redbulltv.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Ruang Trampil",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/ruangtrampil.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "SEA TODAY",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/idku.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "TechStorm",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/techstorm.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "The Indonesia Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/tic.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "The Pet Collective",
-      "stream_url": "https://cmt.mb13.cyou/c/a/thepetcollective.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "TLC",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd"
-    },
-	{
-      "cid": 5,
-      "name": "Usee Photo",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/useephoto.m3u8"
-    },
-    {
-      "cid": 5,
-      "name": "Usee Prime",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/useeprime.m3u8"
-    },
-	{
-      "cid": 5,
-      "name": "Vision Prime",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
-    },
-    {
-      "cid": 5,
-      "name": "WakuWaku Japan",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "B Kids",
-      "stream_url": "https://cmt.mb13.cyou/c/a/bkidshd.m3u8"
-    },
-	{
-      "cid": 6,
-      "name": "Baby First",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/babyfirstall.m3u8"
-    },
-	{
-      "cid": 6,
-      "name": "BeSmart",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "Boomerang",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "Cartoon Network",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd"
-    },
-    {
-      "cid": 6,
-      "name": "Cbeebies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "Da Vinci",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6549&b=geo_6549"
-    },
-	{
-      "cid": 6,
-      "name": "Disney Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd"
-    },
-    {
-      "cid": 6,
-      "name": "Disney Junior",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "DreamWorks",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-dreamworks&b=15&c=dreamworks"
-    },
-    {
-      "cid": 6,
-      "name": "Duck TV",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ducktv&b=14&c=ducktv"
-    },
-	{
-      "cid": 6,
-      "name": "Dunia Anak",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-duniaanak&b=14&c=duniaanak"
-    },
-	{
-      "cid": 6,
-      "name": "Hip Hip Horee!",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-7052&b=7052"
-    },
-	{
-      "cid": 6,
-      "name": "HOREE",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6397&b=6397"
-    },
-	{
-      "cid": 6,
-      "name": "Kids Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "Mentari TV",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=mentaritv"
-    },
-	{
-      "cid": 6,
-      "name": "MiaoMi",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "My Kids",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mykids&b=14&c=mykids"
-    },
-	{
-      "cid": 6,
-      "name": "Nick Jr",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd"
-    },
-    {
-      "cid": 6,
-      "name": "Nickelodeon",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
-    },
-	{
-      "cid": 6,
-      "name": "Spacetoon",
-      "stream_url": "https://cmt.mb13.cyou/c/a/spacetoon.m3u8"
-    },
-	{
-      "cid": 6,
-      "name": "ZooMoo",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6533&b=geo_6533"
-    },
-	{
-      "cid": 7,
-      "name": "ANIMAX",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "AniPlus",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-aniplus&b=14&c=aniplus"
-    },
-	{
-      "cid": 7,
-      "name": "ATV",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/atv.m3u8"
-    },
-	{
-      "cid": 7,
-      "name": "AXN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "Bioskop Indonesia",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-bioskopindonesia&b=14&c=bioskopindonesia"
-    },
-	{
-      "cid": 7,
-      "name": "Celestial Classic Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Celestial Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "Chinese Drama",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-chinesedrama&b=14&c=chinesedrama"
-    },
-	{
-      "cid": 7,
-      "name": "Cinemaworld",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "CINEMAX",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Cinta Bolly",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=114"
-    },
-    {
-      "cid": 7,
-      "name": "Citra Bioskop",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6684&b=6684"
-    },
-    {
-      "cid": 7,
-      "name": "Citra Drama",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-cdrama&b=14&c=cdrama"
-    },
-	{
-      "cid": 7,
-      "name": "Drakor Plus",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=drakorplus"
-    },
-	{
-      "cid": 7,
-      "name": "FLiK",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-flik&b=15&c=flik"
-    },
-    {
-      "cid": 7,
-      "name": "FMN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "FOX",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Action Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Crime",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Family Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Life",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Fox Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "GALAXY",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-galaxy&b=15&c=galaxy"
-    },
-    {
-      "cid": 7,
-      "name": "Galaxy Premium",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-galaxypremium&b=15&c=galaxypremium"
-    },
-    {
-      "cid": 7,
-      "name": "GEM",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-sgem&b=15&c=sgem"
-    },
-	{
-      "cid": 7,
-      "name": "HBO",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "HBO Family",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "HBO Hits",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "HBO Signature",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "HITS",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
-    },
-    {
-      "cid": 7,
-      "name": "Hits Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "imc",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-imc&b=14&c=imc"
-    },
-	{
-      "cid": 7,
-      "name": "KIX",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "LBS TV K-Drama",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=k-drama"
-    },
-	{
-      "cid": 7,
+      "cid": 2,
       "name": "My Cinema",
-      "stream_url": "https://cmt.mb13.cyou/c/a/mycinema.m3u8"
-    },
-	{
-      "cid": 7,
-      "name": "ONE",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-sone&b=15&c=sone"
-    },
-	{
-      "cid": 7,
-      "name": "RED By HBO",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/p.m3u8?a=5&b=10&d=RED"
-    },
-	{
-      "cid": 7,
-      "name": "Sinema Indonesia",
-      "stream_url": "https://cmt.mb13.cyou/c/a/sinemaindonesia-hd.m3u8"
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Sinema Indonesia X",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=sinemaindonesia-x"
-    },
-	{
-      "cid": 7,
-      "name": "Star Chinese Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd"
+      "cid": 4,
+      "name": "My Kids",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8"
     },
     {
-      "cid": 7,
-      "name": "Star Chinese Movies Legend",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "thrill",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "TV P",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=111"
-    },
-	{
-      "cid": 7,
-      "name": "TVin",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/b.m3u8?a=115"
+      "cid": 6,
+      "name": "Nabawi TV",
+      "stream_url": "http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8"
     },
     {
-      "cid": 7,
-      "name": "tvN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+      "cid": 5,
+      "name": "NASA TV",
+      "stream_url": "http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
     },
     {
-      "cid": 7,
-      "name": "tvN Movies",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "Warner TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "Zee BIOSKOP",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
-    },
-	{
-      "cid": 7,
-      "name": "ZQTV Drama",
-      "stream_url": "http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0"
-    },
-	{
-      "cid": 8,
-      "name": "1 Music Channel Romania",
-      "stream_url": "https://cmt.mb13.cyou/c/a/1musicchannel.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "1 Music Channel Hungary",
-      "stream_url": "https://cmt.mb13.cyou/c/a/1musicchannelhu.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "Baeble Music",
-      "stream_url": "https://cmt.mb13.cyou/c/a/baeble.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "Channel V",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd"
-    },
-	{
-      "cid": 8,
-      "name": "HIT Music Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/a/hitmusic.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "i konser",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ikonser&b=14&c=ikonser"
-    },
-	{
-      "cid": 8,
-      "name": "Karaoke Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/a/karaokechannel.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "M Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=matrixtv"
-    },
-	{
-      "cid": 8,
-      "name": "m2o",
-      "stream_url": "https://cmt.mb13.cyou/c/a/m2o.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "Maleo",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/maleo.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "MTV Live",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-mtvlive&b=15&c=mtvlive"
-    },
-	{
-      "cid": 8,
-      "name": "Music Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
-    },
-	{
-      "cid": 8,
-      "name": "Pop Musik",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/popmusik.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "Prambors TV",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-pramborstv&b=14&c=pramborstv"
-    },
-	{
-      "cid": 8,
-      "name": "Q Music",
-      "stream_url": "https://cmt.mb13.cyou/c/a/qmusic.m3u8"
-    },
-	{
-      "cid": 8,
-      "name": "Stingray Karaoke",
-      "stream_url": "https://cmt.mb13.cyou/c/a/stringraykaraoke.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Astro Supersport",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/astrosupersport.m3u8"
+      "cid": 5,
+      "name": "Nat Geo Channel",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass"
     },
     {
-      "cid": 9,
-      "name": "Astro Supersport 2",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/astrosupersport2-alt.m3u8"
+      "cid": 5,
+      "name": "Nat Geo People",
+      "stream_url": "http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass"
     },
     {
-      "cid": 9,
-      "name": "Astro Supersport 3",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/astrosupersport3.m3u8"
+      "cid": 5,
+      "name": "Nat Geo Wild",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8"
     },
     {
-      "cid": 9,
-      "name": "Astro Supersport 4",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/astrosupersport4-alt.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "BeIN 1",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd"
+      "cid": 2,
+      "name": "National Geographic",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8"
     },
     {
-      "cid": 9,
-      "name": "BeIN 2",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd"
+      "cid": 0,
+      "name": "NET. TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
     },
     {
-      "cid": 9,
-      "name": "Bein Sports HD 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/bein1hd.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Bein Sports HD 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/bein2hd.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Bein Sports Xtra",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/beinxtra2.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "BT Sport 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/btsport1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "BT Sport 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/btsport2.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Champions TV 1",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion1&b=15&c=champion1"
-    },
-    {
-      "cid": 9,
-      "name": "Champions TV 2",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-champion2&b=15&c=champion2"
-    },
-    {
-      "cid": 9,
-      "name": "Champions TV 3",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/uvf.m3u8?a=vidio-6786&b=geo_6786"
-    },
-    {
-      "cid": 9,
-      "name": "Channel Fight",
-      "stream_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114"
-    },
-	{
-      "cid": 9,
-      "name": "Chelsea TV",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/chelseatv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "CombatGo",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/combatgo.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Dunia Games TV",
-      "stream_url": "https://cmt.mb13.cyou/c/mstream/dgtv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "EDGEsport",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/edgesport.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "EGG",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/egg.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Eurosport 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/eurosport1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Eurosport 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/eurosport2.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "FC BAYERN TV",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/fcbtv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Fight Sports",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd"
-    },
-    {
-      "cid": 9,
-      "name": "Fighting Spirit",
-      "stream_url": "https://cmt.mb13.cyou/c/a/fightingspirit.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "FOX Sports",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd"
-    },
-    {
-      "cid": 9,
-      "name": "FOX Sports 2",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd"
-    },
-    {
-      "cid": 9,
-      "name": "FOX Sports 3",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd"
-    },
-	{
-      "cid": 9,
-      "name": "GOLF",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-golfplus&b=15&c=golfplus"
-    },
-	{
-      "cid": 9,
-      "name": "Hard Knocks",
-      "stream_url": "https://cmt.mb13.cyou/c/a/hardknocks.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "LFCTV",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/lfctv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "MNC Sports",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd"
-    },
-	{
-      "cid": 9,
-      "name": "MUTV",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/mutv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "NBA",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-nba&b=15&c=nba"
-    },
-	{
-      "cid": 9,
-      "name": "OneTV Sports 11",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/onetvsports11.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "OneTV Sports 9",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/onetvsports9.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Persija TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/persijatv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "PTV Sports",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/ptvsports.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Racing.com",
-      "stream_url": "https://cmt.mb13.cyou/c/alt/racingcom.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Sky Net Sports 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports2.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports 3",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports3.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports 4",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports4.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports 5",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports5.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports 6",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsports6.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sky Net Sports HD",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/skynetsportshd.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Soccer Channel",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/SoccerChannel2/sa_dash_vmx/SoccerChannel2.mpd"
-    },
-	{
-      "cid": 9,
-      "name": "Sport One",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=sportone"
-    },
-	{
-      "cid": 9,
-      "name": "Sport TV 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/sporttv1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sport TV 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/sporttv2.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sport TV 3",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/sporttv3.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sport TV 4",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/sporttv4.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Sport TV 5",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/sporttv5.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "SportsTV",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/sportstv.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Stadium TV",
-      "stream_url": "https://cmt.mb13.cyou/c/a/stadium.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Tennis Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/tennis.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "Tennis Channel Plus",
-      "stream_url": "https://cmt.mb13.cyou/c/dolive/tennisplus.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "True Premier Football HD 1",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truepremierfootball1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Premier Football HD 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truepremierfootball2.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Premier Football HD 3",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truepremierfootball3.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Premier Football HD 4",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truepremierfootball4.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Premier Football HD 5",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truepremierfootball5.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesport2.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports 5",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesport5.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports 6",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesport6.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports 7",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesport7.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports HD",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesports1.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports HD 2",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesports2.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports HD 3",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesports3.m3u8"
-    },
-    {
-      "cid": 9,
-      "name": "True Sports HD 4",
-      "stream_url": "https://cmt.mb13.cyou/c/livedo/truesports4.m3u8"
-    },
-	{
-      "cid": 9,
-      "name": "Usee Sports",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-useesport&b=15&c=useesport"
-    },
-    {
-      "cid": 9,
-      "name": "Usee Sports 2",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-useesports2&b=15&c=useesports2"
-    },
-	{
-      "cid": 9,
-      "name": "ZQTV Sport",
-      "stream_url": "http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0"
-    },
-	{
-      "cid": 10,
-      "name": "Arirang",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "Australia Plus",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "BBC World News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "Bloomberg",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "CGTN",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
-    },
-    {
-      "cid": 10,
-      "name": "Channel News Asia",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "CNBC",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd"
-    },
-    {
-      "cid": 10,
-      "name": "CNN International",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "DW",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "Euro News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "Fox News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
-    },
-    {
-      "cid": 10,
-      "name": "France24",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
-    },
-	{
-      "cid": 10,
+      "cid": 1,
       "name": "NHK World",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+      "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
     },
     {
-      "cid": 10,
-      "name": "NHK World Premium",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "RT English",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
-    },
-	{
-      "cid": 10,
-      "name": "SKY News",
-      "stream_url": "https://cmt.mb13.cyou/c/a/skynews.m3u8"
-    },
-	{
-      "cid": 10,
-      "name": "SKY News Extra",
-      "stream_url": "https://cmt.mb13.cyou/c/a/skynewsextra.m3u8"
-    },
-	{
-      "cid": 10,
-      "name": "The Weather Channel",
-      "stream_url": "https://cmt.mb13.cyou/c/a/theweatherchannel.m3u8"
-    },
-	{
-      "cid": 10,
-      "name": "TRT World",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
-    },
-	{
-      "cid": 11,
-      "name": "B4U Movies",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=b4umovieindia"
+      "cid": 7,
+      "name": "Olympic Channel",
+      "stream_url": "http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
     },
     {
-      "cid": 11,
-      "name": "B4U Music",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=b4umusicindia"
-    },
-	{
-      "cid": 11,
-      "name": "Zee Cinema",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd"
+      "cid": 3,
+      "name": "Planet Music",
+      "stream_url": "https://nrpus.bozztv.com/36bay2/gusa-planetmusic/index.m3u8"
     },
     {
-      "cid": 11,
-      "name": "Zee News",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd"
+      "cid": 5,
+      "name": "Popular Science",
+      "stream_url": "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
     },
     {
-      "cid": 11,
-      "name": "Zee TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd"
+      "cid": 3,
+      "name": "Prambors",
+      "stream_url": "https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd"
     },
     {
-      "cid": 11,
-      "name": "Zing",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd"
-    },
-	{
-      "cid": 12,
-      "name": "Anhui TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
-    },
-	{
-      "cid": 12,
-      "name": "CCTV4",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-cctv4&b=14&c=cctv4"
-    },
-	{
-      "cid": 12,
-      "name": "Channel V China",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=vchina"
-    },
-	{
-      "cid": 12,
-      "name": "ctiasia",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ucf.m3u8?a=usee-ctiasia&b=14&c=ctiasia"
-    },
-	{
-      "cid": 12,
-      "name": "Hunan TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
-    },
-	{
-      "cid": 12,
-      "name": "Jiangsu TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
-    },
-	{
-      "cid": 12,
-      "name": "Lotus Macau",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=lotusmacau"
-    },
-	{
-      "cid": 12,
-      "name": "Phoenix Chinese",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixchinese"
+      "cid": 7,
+      "name": "Racing.com",
+      "stream_url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8"
     },
     {
-      "cid": 12,
-      "name": "Phoenix Hongkong",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixhongkong"
+      "cid": 2,
+      "name": "Rai Movie",
+      "stream_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
     },
     {
-      "cid": 12,
-      "name": "Phoenix News",
-      "stream_url": "https://cmt.mb13.cyou/c/ku/see/ox.m3u8?a=phoenixnews"
-    },
-	{
-      "cid": 12,
-      "name": "Shanghai Dragon TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
-    },
-	{
-      "cid": 12,
-      "name": "XingKong TV",
-      "stream_url": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd"
-    },
-	{
-      "cid": 13,
-      "name": "Astro AEC",
-      "stream_url": "https://cmt.mb13.cyou/c/my/astroaec.m3u8"
+      "cid": 0,
+      "name": "RCTI",
+      "stream_url": "https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8"
     },
     {
-      "cid": 13,
-      "name": "Astro Awani",
-      "stream_url": "https://cmt.mb13.cyou/c/my/astroawani.m3u8"
+      "cid": 7,
+      "name": "Real Madrid TV",
+      "stream_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
     },
     {
-      "cid": 13,
-      "name": "Astro Ceria",
-      "stream_url": "https://cmt.mb13.cyou/c/my/astroceria.m3u8"
+      "cid": 7,
+      "name": "Redbull TV",
+      "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
     },
     {
-      "cid": 13,
-      "name": "Astro Go Shop",
-      "stream_url": "https://cmt.mb13.cyou/c/my/astrogoshop.m3u8"
+      "cid": 6,
+      "name": "Reformed 21",
+      "stream_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8"
     },
     {
-      "cid": 13,
-      "name": "Astro Prima",
-      "stream_url": "https://cmt.mb13.cyou/c/my/astroprima.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "Berita RTM",
-      "stream_url": "https://cmt.mb13.cyou/c/my/beritartm.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "Hello",
-      "stream_url": "https://cmt.mb13.cyou/c/my/hello.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "Naura",
-      "stream_url": "https://cmt.mb13.cyou/c/my/naura.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "PBS Kids",
-      "stream_url": "https://cmt.mb13.cyou/c/my/pbskids.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "PERTIWI",
-      "stream_url": "https://cmt.mb13.cyou/c/my/pertiwitv.m3u8"
-    },
-	{
-      "cid": 13,
-      "name": "RTB Sukmaindera",
-      "stream_url": "https://cmt.mb13.cyou/c/my/rtbsukmaindera.m3u8"
+      "cid": 6,
+      "name": "Rodja TV",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s14/02.m3u8"
     },
     {
-      "cid": 13,
+      "cid": 2,
+      "name": "Romedy Now",
+      "stream_url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8"
+    },
+    {
+      "cid": 1,
+      "name": "RRI Net",
+      "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
+    },
+    {
+      "cid": 7,
       "name": "RTM Sports",
-      "stream_url": "https://cmt.mb13.cyou/c/my/rtmsports.m3u8"
+      "stream_url": "https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8"
     },
-	{
-      "cid": 13,
-      "name": "TV IKIM",
-      "stream_url": "https://cmt.mb13.cyou/c/my/tvikim.m3u8"
-    },
-    {
-      "cid": 13,
-      "name": "TV Okey",
-      "stream_url": "https://cmt.mb13.cyou/c/my/tvokey.m3u8"
-    },
-    {
-      "cid": 13,
-      "name": "TV1",
-      "stream_url": "https://cmt.mb13.cyou/c/my/tv1.m3u8"
-    },
-    {
-      "cid": 13,
-      "name": "TV2",
-      "stream_url": "https://cmt.mb13.cyou/c/my/tv2.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "1. Al-Fatihah (Pembukaan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/1.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "2. Al-Baqarah (Sapi Betina)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/2.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "3. Ali 'Imran (Keluarga Imran)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/3.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "4. An-Nisa' (Wanita)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/4.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "5. Al-Ma'idah (Hidangan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/5.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "6. Al-An'am (Binatang Ternak)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/6.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "7. Al-A'raf (Tempat Tertinggi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/7.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "8. Al-Anfal (Rampasan Perang)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/8.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "9. At-Taubah (Pengampunan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/9.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "10. Yunus (Yunus)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/10.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "11. Hud (Hud)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/11.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "12. Yusuf (Yusuf)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/12.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "13. Ar-Ra'd (Guruh)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/13.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "14. Ibrahim (Ibrahim)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/14.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "15. Al-Hijr (Hijr)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/15.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "16. An-Nahl (Lebah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/16.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "17. Al-Isra' (Perjalanan Malam)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/17.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "18. Al-Kahf (Goa)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/18.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "19. Maryam (Maryam)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/19.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "20. Taha (Taha)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/20.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "21. Al-Anbiya' (Para Nabi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/21.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "22. Al-Hajj (Haji)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/22.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "23. Al-Mu'minun (Orang-Orang Mukmin)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/23.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "24. An-Nur (Cahaya)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/24.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "25. Al-Furqan (Pembeda)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/25.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "26. Asy-Syu'ara' (Para Penyair)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/26.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "27. An-Naml (Semut-semut)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/27.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "28. Al-Qasas (Kisah-Kisah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/28.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "29. Al-'Ankabut (Laba-Laba)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/29.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "30. Ar-Rum (Romawi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/30.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "31. Luqman (Luqman)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/31.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "32. As-Sajdah (Sajdah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/32.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "33. Al-Ahzab (Golongan Yang Bersekutu)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/33.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "34. Saba' (Saba')",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/34.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "35. Fatir (Maha Pencipta)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/35.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "36. Yasin (Yasin)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/36.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "37. As-Saffat (Barisan-Barisan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/37.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "38. Sad (Sad)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/38.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "39. Az-Zumar (Rombongan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/39.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "40. Gafir (Maha Pengampun)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/40.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "41. Fussilat (Yang Dijelaskan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/41.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "42. Asy-Syura (Musyawarah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/42.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "43. Az-Zukhruf (Perhiasan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/43.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "44. Ad-Dukhan (Kabut)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/44.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "45. Al-Jasiyah (Berlutut)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/45.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "46. Al-Ahqaf (Bukit Pasir)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/46.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "47. Muhammad (Muhammad)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/47.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "48. Al-Fath (Kemenangan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/48.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "49. Al-Hujurat (Kamar-Kamar)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/49.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "50. Qaf (Qaf)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/50.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "51. Az-Zariyat (Angin yang Menerbangkan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/51.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "52. At-Tur (Bukit Tursina)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/52.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "53. An-Najm (Bintang)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/53.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "54. Al-Qamar (Bulan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/54.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "55. Ar-Rahman (Maha Pengasih)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/55.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "56. Al-Waqi'ah (Hari Kiamat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/56.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "57. Al-Hadid (Besi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/57.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "58. Al-Mujadalah (Gugatan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/58.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "59. Al-Hasyr (Pengusiran)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/59.m3u8"
-    },
-	{
-      "cid": 14,
-      "name": "60. Al-Mumtahanah (Wanita Yang Diuji)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/60.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "61. As-Saff (Barisan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/61.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "62. Al-Jumuâ€™ah (Jumat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/62.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "63. Al-Munafiqun (Orang-Orang Munafik)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/63.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "64. At-Tagabun (Pengungkapan Kesalahan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/64.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "65. At-Talaq (Talak)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/65.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "66. At-Tahrim (Pengharaman)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/66.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "67. Al-Mulk (Kerajaan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/67.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "68. Al-Qalam (Pena)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/68.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "69. Al-Haqqah (Hari Kiamat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/69.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "70. Al-Maâ€™arij (Tempat Naik)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/70.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "71. Nuh (Nuh)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/71.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "72. Al-Jinn (Jin)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/72.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "73. Al-Muzzammil (Orang Yang Berselimut)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/73.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "74. Al-Muddassir (Orang Yang Berkemul)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/74.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "75. Al-Qiyamah (Hari Kiamat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/75.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "76. Al-Insan (Manusia)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/76.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "77. Al-Mursalat (Malaikat Yang Diutus)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/77.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "78. An-Nabaâ€™ (Berita Besar)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/78.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "79. An-Naziâ€™at (Malaikat Yang Mencabut)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/79.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "80. 'Abasa (Bermuka Masam)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/80.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "81. At-Takwir (Penggulungan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/81.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "82. Al-Infitar (Terbelah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/82.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "83. Al-Mutaffifin (Orang-Orang Curang)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/83.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "84. Al-Insyiqaq (Terbelah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/84.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "85. Al-Buruj (Gugusan Bintang)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/85.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "86. At-Tariq (Yang Datang Di Malam Hari)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/86.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "87. Al-Aâ€™la (Maha Tinggi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/87.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "88. Al-Ghasyiyah (Hari Pembalasan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/88.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "89. Al-Fajr (Fajar)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/89.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "90. Al-Balad (Negeri)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/90.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "91. Asy-Syams (Matahari)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/91.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "92. Al-Lail (Malam)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/92.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "93. Ad-Duha (Pagi yang Cemerlang / Matahari Meninggi)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/93.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "94. Al-Insyirah/An-Nasyrah (Kelapangan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/94.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "95. At-Tin (Buah Tin)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/95.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "96. Al-'Alaq (Segumpal Darah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/96.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "97. Al-Qadr (Kemuliaan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/97.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "98. Al-Bayyinah (Bukti yang Nyata)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/98.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "99. Az-Zalzalah (Guncangan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/99.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "100. Al-'Adiyat (Yang Berlari Kencang)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/100.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "101. Al-Qari'ah (Hari Kiamat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/101.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "102. At-Takasur (Bermegah-Megahan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/102.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "103. Al-'Asr (Masa)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/103.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "104. Al-Humazah (Pengumpat)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/104.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "105. Al-Fil (Gajah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/105.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "106. Quraisy (Kaum Quraisy)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/106.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "107. Al-Ma'un (Barang Yang Berguna)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/107.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "108. Al-Kausar (Pemberian Yang Banyak)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/108.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "109. Al-Kafirun (Golongan Kafir)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/109.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "110. An-Nasr (Pertolongan)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/110.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "111. Al-Masad / Al-Lahab (Nyalaan Api)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/111.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "112. Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/112.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "113. Al-Falaq (Waktu Subuh / Dinihari)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/113.m3u8"
-    },
-    {
-      "cid": 14,
-      "name": "114. An-Naas (Manusia)",
-      "stream_url": "https://cmt.mb13.cyou/c/quran/114.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Ardan Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/ardan-bandung.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Bahana",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/bahana.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Brava",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/brava.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "CAKRA Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/cakra-bandung.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Cosmopolitan",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/cosmopolitan.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Dakwah Sunnah",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/dakwahsunnah.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Delta Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/delta-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "EBS",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/ebs.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Elgangga",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/elgangga.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Elshinta Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/elshinta-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Female Radio",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/female-radio.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Gajahmada",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/gajahmada.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Gen Surabaya",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/gen-surabaya.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Geronimo",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/geronimo.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Global Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/global-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Hard Rock Bali",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/hardrock-bali.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Hard Rock Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/hardrock-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Imelda",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/imelda.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Indika",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/indika.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "I-Radio Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/iradio-bandung.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "I-Radio Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/iradio-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Kajian Islam Kediri",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/kajianislam-kediri.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "KLCBS",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/klcbs.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Menara Bali",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/menara-bali.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Mendhut",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/mendhut.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "MQFM",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/mqfm.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Nagaswara",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/nagaswara.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Nagaswara DanceDhut",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/nagaswara-dancedhut.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Nagaswara Pop",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/nagaswara-pop.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Oz Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/oz-bandung.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Prambors Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/prambors-bandung.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Prambors Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/prambors-jakarta.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Prambors Jogja",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/prambors-jogja.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Prambors Surabaya",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/prambors-surabaya.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Radio Islam Indonesia",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rii.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Radio Pelita Kasih",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rpk.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Rama Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rama-bandung.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "RDI",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rdi.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Rodja",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rodja.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "RRI Pro 3",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/rripro3.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Sindo",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/sindo.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Sonora Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/sonora-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Suara Giri",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/suaragiri.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Suara Muslim",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/suaramuslim.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Suara Surabaya",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/suara-surabaya.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Swaragama",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/swaragama.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Trax Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/trax-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Urban Bali",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/urban-bali.m3u8"
-    },
-    {
-      "cid": 15,
-      "name": "Urban Bandung",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/urban-bandung.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "V Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/v-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Virgin Jakarta",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/virgin-jakarta.m3u8"
-    },
-	{
-      "cid": 15,
-      "name": "Wijaya Surabaya",
-      "stream_url": "https://cmt.mb13.cyou/c/radio/wijaya-surabaya.m3u8"
-    },
-	{
-      "cid": 16,
-      "name": "#Alive (2020)",
-      "stream_url": "http://srv41.nf21.net/files/10-2020-09-29-7f713096a0e4b4b6b62ea4ba5de58ed0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "47 Meters Down: Uncaged (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-25-b2c540e38e3f78b677796b361d849d8b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "6 Underground (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-08-eff9f4788d8290a5bfa67e746989ac8b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "A Dog's Journey (2019)",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-25-74cafc0ce5d5d5b30817d00800918e29.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "A Monster Calls (2017)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-26-addafe3359be10be9184a7f272cadda0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "A Quiet Place (2018)",
-      "stream_url": "http://srv18.nf21.net/files/10-2018-08-02-f5ae7750bf33eccc1a89529700a11bdd.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Abominable (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-25-a03d329f2f667cea9d3288f89048942b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ad Astra (2019)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-01-7c6233a45e0c030a308bd1cd1dc6ff59.mp4"
-    },
-	{
-      "cid": 16,
-      "name": "Aladdin (2019)",
-      "stream_url": "http://srv39.nf21.net/files/19-2020-06-09-1f40914068f6391ea92ecaf77c0249fb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Alita: Battle Angel (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-22-8a778ae70d300895dead3d47a94c944c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Alvin and the Chipmunks: The Road Chip (2015)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-24-f34b75697907a30f925ae8e66f8ffa4d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "American Made (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-02-25fea58db5e1e027c0767eff1a49fa4d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "American Sniper (2015)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-07-02-9bd8b995dd34c2cac28ff7c969bad8c4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ana (2020)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-04-18-0271b5638f443e26e4167c8c76ff0cd0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Angel Has Fallen (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-02-f9d3cdf38bf7547eac2b483b7484c6be.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Annabelle Comes Home (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-12-21-41ff3b33a39e43b1b2b6cda1406ca068.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Annabelle: Creation (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-02-38fe890249c4994181a615a812ffe449.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ant-Man (2015)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-21-5aaa39e814072f33c8943e1472e3a45b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ant-Man and the Wasp (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-20-6296c1f619bf6bdbf233cc821a0b394f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "App War (2018)",
-      "stream_url": "http://sj32.drakor.id/files/22-2019-07-13-35ed83873c6861ddbffbf1bc860c4c41.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Aquaman (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Arrival (2016)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-15-9c18277c787d2ba9bc99e8093a43f5e2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Artemis Fowl (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-10-5c116e7a661a90844b31204578e8090d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Assassin's Creed (2016)",
-      "stream_url": "http://srv39.nf21.net/files/11-2020-06-07-1f125116eb3f3cd4e5cb691b86c91d3f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Avengers: Age of Ultron (2015)",
-      "stream_url": "http://srv14.nf21.net/files/15-2018-07-18-5576eae13186f5c733884dfab17fc774.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Avengers: Endgame (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-24-8270da303d1db08f3a035c4af7d65d81.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Avengers: Infinity War (2018)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-08-73299521bf7efeae86650718cf23b5d1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Baby Driver (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-02-4ec24e0ece74f07acde2f0f5c0d7121a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bad Boys for Life (2020)",
-      "stream_url": "http://srv43.nf21.net/files/15-2020-10-10-aa49fd6fbe1933b26cda90992da53760.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Batman v Superman: Dawn of Justice (2016)",
-      "stream_url": "http://srv35.nf21.net/files/11-2020-05-20-8e68979eeb7d4d193fa3728ab555b59f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Batman: Soul of the Dragon (2021)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-26-ca524d211b925bf8006cccfaabb53fb0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Beauty and the Beast (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-03-87a0bf058afe2cc0ce39c4f26da83935.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ben-Hur (2016)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-06-02-87e60e755394aafb7fdef014c5f702d5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Big Eyes (2014)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-05-31-3354e4a958504b71d3d12cf8db5ac1b0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Big Hero 6 (2014)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-13-5205ae1f7247f0647f6f68067db39527.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bikeman (2018)",
-      "stream_url": "http://sj42.drakor.id/files/22-2019-10-18-4d33d079564fc1f465e5d4615f8a8f9a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bilal: A New Breed of Hero (2018)",
-      "stream_url": "http://srv39.nf21.net/files/19-2020-06-08-3a1f7b5e92c795f637a8c9c4fac5f144.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Black Mass (2015)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-20-3894940bbe230460071b51e13e81024d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Black Panther (2018)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-17-965dfce15abb3dc1c987f7b14011b240.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Blackhat (2015)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-28-8acd75fd5ec76b7550c7be13163780da.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Blair Witch (2016)",
-      "stream_url": "http://srv40.nf21.net/files/19-2020-06-09-7d3a64bef09bad7500447f9f6e9e2e75.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Blithe Spirit (2021)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-17-531b851275a36ed520c8a2a149f4c0e5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bloodshot (2020)",
-      "stream_url": "http://srv41.nf21.net/files/10-2020-08-29-6a97b9b5fc18354fb6e80b547c8ee9d6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Born a Champion (2021)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-19-0e599822836fec6689dbc4f55ed06e5c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Brave (2012)",
-      "stream_url": "http://srv16.nf21.net/files/11-2018-07-28-b59e1b55c64588891fa4da50c1087fa1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bridge of Spies (2015)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-10-9c2d42bd5cbb1ce0e9210083c5f79191.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Bumblebee (2018)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-30-0f8170fdde6900eda968ffb274832ff6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "C/o Kancharapalem (2018)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-25-957ae4b5d74e2b9ec803fd9596c64e48.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Captain America: Civil War (2016)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-28-c1384f30d8dda436b6d066710d943aa0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Captain Marvel (2019)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-12-21-091b79bdfaeb46de1378ecd0c7c60da6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Captive State (2019)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-31-0bbaa85a345922b8f7ae96cab6a60f73.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Cars 3 (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-10-24-a508a04c7952a75cb11054a17be52d8d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Central Intelligence (2016)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-20-f72da429f29aae9c7681dc28473357e2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Chappie (2015)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-27-0e54247f49091b93d31975e1de9599cb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Charlie's Angels (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-03-acff0b84a89e0d5051175671b66284e0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Cinderella (1950)",
-      "stream_url": "http://srv16.nf21.net/files/11-2018-07-24-35cc67abcdaf230d610f2b8dc9815a9c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Cinderella (2015)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-23-000d1a1924058df8ac6ce6b3eff672a8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Classic Again (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-10-03be81ee1e33c7ca4fea7418ca65d3d1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Collateral Beauty (2016)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-05-29-00a400ab521c16ce97a7b2e5695ec96c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Countdown (2019)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-05-30-6f4d135a05e115614143d08613e2c5e5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Crawl (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-24-c8d52c89de98daad5320df66db62b859.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Crazy Rich Asians (2018)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Creed (2015)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-08-a9b1f8b2bc376b6129df1abe73cb7764.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Cry Me a Sad River (2018)",
-      "stream_url": "http://sj58.drakor.id/files/22-2020-03-03-89996b3937c555bce86ef48200c188e7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Daddy's Home (2015)",
-      "stream_url": "http://srv28.nf21.net/files/6-2019-03-10-21050b7008046766dcd116be8b45b59e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dawn of the Planet of the Apes (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-01-26-fc4e8b5d7966cf91b456c779bcc1c36e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Despicable Me 3 (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-03-5bd67f4b30b3a84adfbf0d79940c9a59.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Destroyer (2018)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-03-15-14d4b1bbca83156033b2134ecff47172.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dia 2020",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-20-31436fbe1b522f98262675e6f789a34a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dirt (2018)",
-      "stream_url": "http://srv19.nf21.net/files/15-2018-08-19-13445a77b4f61bd07947bd837c059402.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Diva (2020)",
-      "stream_url": "http://sj83.drakor.id/files/22-2021-01-24-401067beed81612f0ad48df068aab06f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dolittle (2020)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-05-30-cb8a0aaa115fc32a258f224a7fa67c3a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dolphin Reef (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-26-a7eca403c944bea610a0a2346d388fb4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Don't Breathe (2016)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-03-79ffb8d910aae0b3fa76138685a990fa.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dracula Untold (2014)",
-      "stream_url": "http://srv28.nf21.net/files/6-2019-03-19-6f9a65eb2464082463cfc0a8922b47ca.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dragon Ball Super: Broly (2019)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-18-44fe1639c2f2b9e418e735a9043edf07.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dumb and Dumber To (2014)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-01-12-ebb4acf14290465f8f8938cbe2c7961f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Dunkirk (2017)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-06-01-67dff8cc669c0381674f243e30c0589c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Emma. (2020)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-13-e4ded90e146a8b998c11f30866283ea0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Escape Plan 2: Hades (2018)",
-      "stream_url": "http://srv19.nf21.net/files/15-2018-08-25-528d5411c907954627cd1e74e59afd52.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Escape Room (2019)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-10-2ebedf3d3e26cf958fb711d9f7915c98.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Eurovision Song Contest: The Story of Fire Saga (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-11-0c93a5702014a6798e7b129672fbb769.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Exodus: Gods and Kings (2014)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-08-7c409de963f41779fdf63b3c5078cd52.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Extraction (2020)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-27-ae27055be231964fc8ce1c740255f390.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Fantastic Beasts: The Crimes of Grindelwald (2018)",
-      "stream_url": "http://srv30.nf21.net/files/11-2018-12-17-b53efe5cad57afc2c65ad65dfa54a60b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Fast & Furious Presents: Hobbs & Shaw (2019)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-10-21-b4596e298a60c5897c54f7ed87c9d822.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Fences (2016)",
-      "stream_url": "http://srv33.nf21.net/files/19-2020-05-26-5109962e86652c653cf6b8d32df2f010.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ferdinand (2017)",
-      "stream_url": "http://srv11.nf21.net/files/15-2018-07-06-583a7deba04cb37feeb36a618109979d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Finding Dory (2016)",
-      "stream_url": "http://srv33.nf21.net/files/11-2020-05-21-0e310404da1d7e7cb4939b6cc89ed1ed.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Finding 'Ohana (2021)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-01-a5cb74a957ce34ab41f604b5ad459d03.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "First Love (2020)",
-      "stream_url": "http://sj83.drakor.id/files/22-2021-01-25-cecf20f7f7846f5eb122621807175294.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "First Man (2018)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-08-ac78ff164d002ce11e9616bac7d933be.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Force of Nature (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-22-46cb472bd1d74bcb7077414fd77d9206.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Friend Zone (2019)",
-      "stream_url": "http://sj35.drakor.id/files/22-2019-08-16-45fe1eabd34a75e80ce9d8cd6ab7f399.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "From Today, It's My Turn: The Movie (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-17-d0560cc583ea5a2581a344e5016b8fa6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Frozen II (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-12-22-c84f6764c63eea2390ee99cdcb6165c8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Gemini Man (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-26-fb52979bc4a25deb7e48a1f0fc5a3b7a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Get Out (2017)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-06-cfedd94ced9e2899b10f663d25d81e69.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ghost in the Shell (2017)",
-      "stream_url": "http://srv16.nf21.net/files/15-2018-07-27-dc11498c140a74433dc781e18595e9bc.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Glass (2019)",
-      "stream_url": "http://srv42.nf21.net/files/10-2020-12-24-1a7843b071d304ddd96c582d539356e7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Gods of Egypt (2016)",
-      "stream_url": "http://srv14.nf21.net/files/15-2018-07-17-53e4792979c9a6f42e8fb916ae0988ee.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Godzilla: King of the Monsters (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-23-000d1a1924058df8ac6ce6b3eff672a8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Goodachari (2018)",
-      "stream_url": "http://srv22.nf21.net/files/10-2018-10-18-4fb4510269661d29e6e08ca661803075.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Goosebumps (2015)",
-      "stream_url": "http://srv22.nf21.net/files/15-2018-10-24-92ddb8dcabc6beb3ef9cf8b94cd298ef.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Goosebumps 2: Haunted Halloween (2018)",
-      "stream_url": "http://srv30.nf21.net/files/11-2018-12-12-80e3f08d4dff12ffb04e82a6779cb43a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Green Book (2018)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-17-1c9a1c1d95ff51a065bb28afd804483b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Gretel & Hansel (2020)",
-      "stream_url": "http://srv33.nf21.net/files/11-2020-05-20-9873856c16bd06110ab49bbb9628ac49.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Greyhound (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-13-9fc7a9e873a62708c97431f7f858ccf5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Guardians of the Galaxy (2014)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-31-681fe8aa16f4e0adb2961912f80a75db.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Guardians of the Galaxy Vol. 2 (2017)",
-      "stream_url": "http://srv24.nf21.net/files/11-2018-11-13-ca4e6fc9dd28c3ad242c64f73769ba66.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hail, Caesar! (2016)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-05-31-caeb87a0e59c5ffafe800530e3922aea.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Happy Death Day 2U (2019)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-03-20-b391c417c554c4e522dee662e426f25b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Heartbeats (2019)",
-      "stream_url": "http://sj85.drakor.id/files/22-2021-02-14-03873a90aa0657b1ada83b54ad0b2a7f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hellboy (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-24-d9c185d5023ce7e0d45a147192f419ff.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hercules (2014)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-04-d1bcc67a13e24968a627fcf2cab3d97c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hitman: Agent 47 (2015)",
-      "stream_url": "http://srv10.nf21.net/files/15-2018-07-04-259f6f0337f82110da3415ab5342cb8f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hotel Mumbai (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-25-09ef83eb5af2a1a9c4667417eb1d5ecd.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hotel Transylvania 2 (2015)",
-      "stream_url": "http://srv22.nf21.net/files/10-2018-10-27-dbd756d9c53b5ef2bc453cb95b0c73c9.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Hotel Transylvania 3: Summer Vacation (2018)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-05-31-af29d81f445c1faf91432de5a997c55a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "How to Train Your Dragon: The Hidden World (2019)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ice Age: Collision Course (2016)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-28-a31527352fee020e30455e9224011cf1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "In the Heart of the Sea (2015)",
-      "stream_url": "http://srv15.nf21.net/files/15-2018-07-20-fc3ef907480d2f84a35dc8675c8d7703.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Incredibles 2 (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-20-e8ca05ddb4c46faafff7583f86e8c872.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Inferno (2016)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-08-6d778175518b2b6dbe5da078779dc482.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Inside Out (2015)",
-      "stream_url": "http://srv22.nf21.net/files/15-2018-10-24-8695cee9c5260306dd66b5faa53cbfef.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Insidious: Chapter 3 (2015)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-15-f70ea6f55e2e90f2a50295b8b55a2672.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Insidious: The Last Key (2018)",
-      "stream_url": "http://srv20.nf21.net/files/15-2018-09-25-dad3299b179c751d5a58fa15b92d4707.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Interstellar (2014)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-08-9aa964e2f4be775d548f8ec215b436fc.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ip Man 4: The Finale (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-23-f4a4097f6d5fe9686dfb96d6b833593f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Isn't It Romantic (2019)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-02-c1dd4a18e9fb3ca6f51992e5c666f8d8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jack Reacher: Never Go Back (2016)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-06-01-0882941b85098fedb96b26a98a51b62d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jazzy Misfits (2020)",
-      "stream_url": "http://sj82.drakor.id/files/22-2021-01-23-a6d55c579e753011f07fbec5f5efdddd.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "John Wick (2014)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-20-9d427b5d320035e88d6347deb257f139.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "John Wick: Chapter 3 - Parabellum (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-12-22-02b4ad1f49b9e29ab08f6a85ef9b6cc8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jojo Rabbit (2019)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-28-fc27033f55701a9c7a59e0825e7d6ced.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Joker (2019)",
-      "stream_url": "http://srv33.nf21.net/files/19-2020-05-25-afdc32907a2fae50b25afe5aeb25d520.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "JosÃ©e (2020)",
-      "stream_url": "http://sj84.drakor.id/files/22-2021-02-06-f48828ce3143685c022bbb14613aaf2b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Joy (2015)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-19-5592a6a59f90c5c8e8bf4fb72a8051f4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jumanji: The Next Level (2019)",
-      "stream_url": "http://srv43.nf21.net/files/15-2020-10-10-b7a9ae0d57b5c3788aec96c71cb4b32b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jumanji: Welcome to the Jungle (2017)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-05-30-8aaf7aed906e1d96a7bb0d18d3a112a3.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jupiter Ascending (2015)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-14-38bc4c15eeefc96f7db013b4a718eb6b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jurassic World (2015)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-06-4c27f47884101b92d00fea5f8920ce06.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Jurassic World: Fallen Kingdom (2018)",
-      "stream_url": "http://srv18.nf21.net/files/10-2018-08-02-6c94fcf0d9abfe04aa7f1cf314d525b6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Justice League (2017)",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-20-5a8b260ea31b1806ee0068d951045c06.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Justice League Dark: Apokolips War (2020)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-07-8c982704aaf2c6d5162be38b1fea6963.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "King Arthur: Legend of the Sword (2017)",
-      "stream_url": "http://srv14.nf21.net/files/15-2018-07-18-df4feba293b2b240ebdf1d85118501d8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Kingsman: The Secret Service (2015)",
-      "stream_url": "http://srv44.nf21.net/files/19-2020-07-09-1c11e74634eca205bf5cf0e85c65bbc4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Knives Out (2019)",
-      "stream_url": "http://srv33.nf21.net/files/19-2020-05-20-37dc8d9640d6174f475f3f56cd2b4c0e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Kong: Skull Island (2017)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-05-31-4a58c06391d0954c1192206eee1b660d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Krampus (2015)",
-      "stream_url": "http://srv44.nf21.net/files/11-2020-07-07-4f4cfdbb398f002e51be91507f5db30d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Kubo and the Two Strings (2016)",
-      "stream_url": "http://srv39.nf21.net/files/19-2020-06-10-a9a0ea33f78230a7741f7a77bc60eafc.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Kung Fu Panda 3 (2016)",
-      "stream_url": "http://srv10.nf21.net/files/15-2018-07-04-f3db0877b0893bfe3b6c62b711063f6c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Kung Fu Yoga (2017)",
-      "stream_url": "http://srv15.nf21.net/files/11-2018-07-20-6117ca7bf77d7bcb8e03b2143643c380.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "La La Land (2016)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-12-0de6b9ed5968579c73f5105ec315a1ed.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "LDK: Two Loves Under One Roof (2019)",
-      "stream_url": "http://sj67.drakor.id/files/22-2020-06-01-a633f2da8bb296d467824d842997e01d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Let's Be Cops (2014)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-01-30-2d31a93c4390e64821935212db370ac9.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Life of Pi (2012)",
-      "stream_url": "http://srv16.nf21.net/files/11-2018-07-28-c6acc8d8546111201884da9741981d4b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Lights Out (2016)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-02-a81584584b6cf73df4f0ff30ff822fac.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Lion (2017)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-30-f8333a3573e8c18fb876adbb233911a7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "London Has Fallen (2016)",
-      "stream_url": "http://srv12.nf21.net/files/15-2018-07-09-0077407c4f2688faf4fb4f2c41c4b0b2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Love in the Kitchen (2020)",
-      "stream_url": "http://sj79.drakor.id/files/22-2020-11-28-197d7a4ca7212fd44b4c75d8700982f6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Lucy (2014)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-07-87a60112c7eabd4f9dd43928ad6c0eb2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Maleficent: Mistress of Evil (2019)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-06-02-f1eda41a5059f54eee860b68ede558af.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Mallesham (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-09-07-e9d43b328476d2498b015c6c79f63c5e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Mary Poppins Returns (2018)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Masterminds (2016)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-06-99219906683530f19acbb00feac41646.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Maze Runner: The Death Cure (2018)",
-      "stream_url": "http://srv22.nf21.net/files/10-2018-10-28-04285f6e221ad1231f129a2996f56ed6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Maze Runner: The Scorch Trials (2015)",
-      "stream_url": "http://srv44.nf21.net/files/19-2020-07-11-63f41f75cc047607bda4686f895c33c6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Me Before You (2016)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-29-936977ad08a8f78ba29af5b1caa524bb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Men in Black: International (2019)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-29-bf27a1ac07e186625f278d1598dec159.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Midway (2019)",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-27-db551998833ace684a7580829afccc81.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Minions (2015)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-03-e9c60c6ec4416db6ef416a2f8b1753a1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Minions Holiday Special (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-12-04-4eb830cface6733137688253c164342a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Mission: Impossible - Fallout (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-13-e31596bce01d5c1b2f8781c4dce01fe7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Moana (2016)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-02-16-0a44292732ea894da4aa2747f2e87901.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Mr. Hurt (2017)",
-      "stream_url": "http://sj35.drakor.id/files/22-2019-08-16-870d91d1e18379829c149f033e0fca2b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Mulan (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-10-14-181bce8bfb76d43f9f8714f3ea2a3ca0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "My God! Father (2020)",
-      "stream_url": "http://sj83.drakor.id/files/22-2021-01-26-fa4df818af4398a81103de225fc26229.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "My Spy (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-07-10-44d40dc2be30e625f186401e6677d906.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Night at the Museum: Secret of the Tomb (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-01-31-2fb16b145003070496e55ac1952767d4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Nightcrawler (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-05-ba425292272ce436da4e17d3f36200a3.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Now You See Me 2 (2016)",
-      "stream_url": "http://srv40.nf21.net/files/19-2020-06-11-e20237d43952dbf805b0d9bdc445b4d5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "On Your Wedding Day (2018)",
-      "stream_url": "http://sj6.drakor.id/files/22-2018-10-24-fe5736304bfa78044af73cba9b1fb4d6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Once Upon a Time... in Hollywood (2019)",
-      "stream_url": "http://srv33.nf21.net/files/19-2020-05-28-eca737adcd26f33b8474dd2f7f5558cb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Onward (2020)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-13-3ef272f7d73e3a5cb7fb52e0b1ae70b2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Oththa Seruppu Size 7 (2019)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-09-07-cd6d9fcfc4388317f26ceffd217e571a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pacific Rim (2013)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-16-d6ed98dc272dccbe81954c8d8da98e6d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pacific Rim: Uprising (2018)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-16-444e027d1abaab0bc1a8d68f3b13ea48.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Palm Springs (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-17-fb86b959c60dd1435a9fa571e83b775e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pan (2015)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-02-01-9a4022d999a148672cb778d6836046f6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pariyerum Perumal (2018)",
-      "stream_url": "http://srv30.nf21.net/files/11-2018-12-28-920abbed725dc7acd071f9f5ff1f2d73.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Passengers (2016)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-15-3808d31ce9014cb3106e248079deedc6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Paterson (2016)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-01-29-9c15ad6d109a05242864f9ecc89b860f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Patriots Day (2017)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-09-5a61b2128d9a731bc0e2bfb29c083829.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Peranbu (2019)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-06-01-269a9a019105c432e12dcc4334bd9fa1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-02-db4fb8bcfb032801ae0bef72f09a0277.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pitch Perfect 3 (2017)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-16-2a0bb032249465e944543ace063a77cd.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pixels (2015)",
-      "stream_url": "http://srv28.nf21.net/files/6-2019-03-11-e6c9b78c8f176000faf07baf1b589c8d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Playing with Fire (2019)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-04-26-b3b48331192fd28d3c29153f2e2888f7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Point Break (2015)",
-      "stream_url": "http://srv42.nf21.net/files/19-2020-07-07-da69d17a1b3d6113a56047e4fb381aee.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "PokÃ©mon Detective Pikachu (2019)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-12-22-8dadbc6f2033cb74125645a87290a368.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Pride and Prejudice and Zombies (2016)",
-      "stream_url": "http://srv14.nf21.net/files/15-2018-07-20-9686b497e0ca386dd21f983dd997ac03.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Project Almanac (2015)",
-      "stream_url": "http://srv44.nf21.net/files/11-2020-07-11-524afafd81c08abe4c7bdd7f8caa4d61.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Project Power (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-08-27-71106277ce4e0df3404bd5a42844fc7b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Project Power (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-08-27-71106277ce4e0df3404bd5a42844fc7b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Racetime (2019)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ralph Breaks the Internet (2018)",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Rampage (2018)",
-      "stream_url": "http://srv19.nf21.net/files/10-2018-08-02-6f915eeaed78a3dac3ae904558fc572b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ready or Not (2019)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-05-30-0beb09640009c9498243656bee127c08.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Real Steel (2011)",
-      "stream_url": "http://srv11.nf21.net/files/11-2018-07-06-4cb2f8040cffd83019a5befd6cf02065.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Resident Evil: The Final Chapter (2017)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-20-8338c9e215f3ecf1ddd31b8919befb54.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Resident Evil: Vendetta (2017)",
-      "stream_url": "http://srv22.nf21.net/files/15-2018-10-30-231d8898d8cb35721e9627b1c6a273ed.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Ride Along 2 (2016)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-06-01-9b897ff65fe8e1a4cb42ce520a8af50a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Rings (2017)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-20-2b3d3c6beee96051ae0706931f3be0b7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Risen (2016)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-04-22-81a5d95275feb7370774ee189640f4a6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Robin Hood (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-22-bf835fdf7f18c68ee0c5c3e5011f09f9.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Rogue One: A Star Wars Story (2016)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-28-057a0a1043d8279ba7cbc93d4458c4a1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Run Hide Fight (2021)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-21-ec6822a1e992418664330763e8e95676.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Rurouni Kenshin Part III: The Legend Ends (2014)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-09-11-7f00d340bc6c148c242797eedafe3d69.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Samson (2018)",
-      "stream_url": "http://srv10.nf21.net/files/10-2018-07-01-6c41235d975d1f05d48a2a4110a02d40.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "San Andreas (2015)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-08-085a6d23e392803eed62995d5b1ca80d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sausage Party (2016)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-09-29-a2a6d80720145cf9818a6faa820da5f7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Scoob! (2020)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-17-cbbc2c67ff235ab64fac2425d6bf2746.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Selma (2015)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-11-fb91a3b3003d51a4977d06295bd9be37.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Seventh Son (2015)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-01-21-2bcc098a69e2b5d512e70d705b13fea8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Shazam! (2019)",
-      "stream_url": "http://srv43.nf21.net/files/15-2020-12-22-90b8cace3368e292c82086907fed93c1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sicario (2015)",
-      "stream_url": "http://srv22.nf21.net/files/15-2018-10-30-6feb19eadf3c881c8200376f42c21dbb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Silence (2017)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-06-938122d01edbb3c54982596c2b98b5d8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sing (2016)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-08-04b8cc781f394a0b6359d205dc944a2a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Snatch Up (2018)",
-      "stream_url": "http://sj85.drakor.id/files/22-2021-02-14-b995cfdfd4ad77662e390a4ae89ff6f1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sniper: Assassin's End (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-07-02-0fa184a3ba0cb218596a77587e5bb37c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Solo: A Star Wars Story (2018)",
-      "stream_url": "http://srv20.nf21.net/files/15-2018-09-13-d6d04552921bd8e3d8ed08d3ff92e4fd.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Solomon's Perjury (2015)",
-      "stream_url": "http://sj83.drakor.id/files/22-2021-01-24-629a19f5a9d1056edc98b1fd835a8c9e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Solomon's Perjury 2 (2015)",
-      "stream_url": "http://sj83.drakor.id/files/22-2021-01-24-c69cb4907fdfee47dfb132ec9e5d50b8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sonic the Hedgehog (2020)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-19-ebd97dc8299f9ea744815557263fbb58.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Southpaw (2015)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-06-99ab9857b4f80feafb69821ab5788b90.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Space Sweepers (2021)",
-      "stream_url": "http://sj84.drakor.id/files/22-2021-02-06-93dff8b58b32371251faa4cc79f8a824.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spectre (2015)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-01-30-bdcdfb36e5900b7678c8f6d95e28edcf.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spider-Man: Far from Home (2019)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-19-a2a7c519ab342a9049703009b4ef0ca6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spider-Man: Homecoming (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-03-893b773994b269ad662122cf785dbb70.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spider-Man: Into the Spider-Verse (2018)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spies in Disguise (2019)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-16-d5e99f6b3df7a87298db30a98a87cf09.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Spy (2015)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-04-e93971506fdf0d8d2a617a739f82c420.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Star Wars: Episode VII - The Force Awakens (2015)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-09-afa7f07b8adf39938662f00ae57d7f40.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Star Wars: Episode VIII - The Last Jedi (2017)",
-      "stream_url": "http://srv43.nf21.net/files/11-2020-07-07-e41f86944c1fbcdd041d5f9dd8cd464e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Steve Jobs (2015)",
-      "stream_url": "http://srv42.nf21.net/files/11-2020-07-10-62143eb2c8bb930e87e93bb914d8ffd2.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Storks (2016)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-06-01-b5f6e7933da6212ed89b8804f636cd57.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Suicide Squad (2016)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-21-6406963dd6deec72641b43f17665006c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Sully (2016)",
-      "stream_url": "http://srv24.nf21.net/files/15-2018-11-06-19fdc7290692f240313716514f4e412b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Synchronic (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-01-16-9435ad4be38625463649bff375e3fd60.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Taken 3 (2015)",
-      "stream_url": "http://srv42.nf21.net/files/19-2020-07-09-8ade51002df9b68fe4348b8b6bf3c262.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Teenage Mutant Ninja Turtles (2014)",
-      "stream_url": "http://srv36.nf21.net/files/11-2020-06-01-44f4c8aba89f4db4180ea79463564396.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
-      "stream_url": "http://srv26.nf21.net/files/11-2018-11-15-0d9b831dd0d519becf40511a62342899.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "Tenet (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-12-29-474283543412df97255d2e9efa1f8119.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The 12th Suspect (2019)",
-      "stream_url": "http://sj73.drakor.id/files/22-2020-09-20-ca56dc6c73e1f62814721f81144da9c4.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The 5th Wave (2016)",
-      "stream_url": "http://srv13.nf21.net/files/15-2018-07-15-75ac5134f19175491db51439c98aaeeb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Accountant (2016)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-05-c6d4ad1c37cd812807eef01c22deddbb.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Age of Adaline (2015)",
-      "stream_url": "http://srv44.nf21.net/files/19-2020-07-01-af68c9f6be3ce4277d40874fd85e374b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Angry Birds Movie (2016)",
-      "stream_url": "http://srv26.nf21.net/files/11-2018-11-19-188ad05a6a8a357e55c644ef059b8865.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Best of Enemies (2019)",
-      "stream_url": "http://srv37.nf21.net/files/19-2020-05-31-1c21ec072e4b9e908006de31d3337559.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Boss (2016)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-10-15-5b50add70aae3bc160dd6be5f6a7fd13.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Boss Baby (2017)",
-      "stream_url": "http://srv26.nf21.net/files/15-2018-11-14-e43937ae1cfee559a6b368768c7b0e9a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Boxtrolls (2014)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-20-8ee0d617d5103107dc0fa9cfda2c456e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Boy (2016)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-14-35a18f73ff8e5be3b1ee7723d13fda11.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Call of the Wild (2020)",
-      "stream_url": "http://srv33.nf21.net/files/11-2020-05-19-c2b3453a6bbe8f7dd3c03024ca159c9b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Commuter (2018)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-04-01-e6b564006dd21c81439da234bd9f0ec7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Conjuring 2 (2016)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-03-01-66d8a322f79dfecee1244729d8b2d55c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Conquest of Siberia (2019)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-06-2f5b05218127f51937e55123dc5c28c5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Corrupted (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-20-8340724bdda9d800f532b5714fe63326.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Curse of la Llorona (2019)",
-      "stream_url": "http://srv38.nf21.net/files/19-2020-06-06-1275eaaa17eefe53145e9c560e39ec13.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Dark Tower (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-03-c61c360fcc9d397f4c442f67d7cc8751.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Dig (2021)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-01-d538689c418c15f3d677f8b8a54118a3.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Divergent Series: Insurgent (2015)",
-      "stream_url": "http://srv22.nf21.net/files/15-2018-10-27-cac75a86e460f1e80d2e2ebcbab9cc48.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Emoji Movie (2017)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-08-04-ac144c52c5c1d5c0d1d2349f1c0a9873.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Expendables 3 (2014)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-10-09-da307c6050d1515ed649b3dedac489a9.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Fate of the Furious (2017)",
-      "stream_url": "http://srv34.nf21.net/files/19-2020-05-25-255830dae6f227d34c20dc9f06f916e1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Foreigner (2017)",
-      "stream_url": "http://srv16.nf21.net/files/15-2018-07-30-e086933f02de13be59b995ea88ac9f16.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Giver (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-01-db479bda889c6d379ec5e84b3d7eea63.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Good Dinosaur (2015)",
-      "stream_url": "http://srv28.nf21.net/files/6-2019-03-11-af9968656727ea9a84e67b2fc677c062.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Greatest Showman (2017)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-09-d15519d82a3a413d42e5e5fbc2212af7.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Hobbit: The Battle of the Five Armies (2014)",
-      "stream_url": "http://srv26.nf21.net/files/10-2018-11-17-fc42b94458a665d4cae5e51a0904fc55.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Hunger Games: Mockingjay - Part 1 (2014)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-11-5868f2a612ceca82c6ad163c7143cbe9.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Hunger Games: Mockingjay - Part 2 (2015)",
-      "stream_url": "http://srv30.nf21.net/files/15-2018-12-10-29ed0fd92ab00b8191fc7b774d54524f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Huntsman: Winter's War (2016)",
-      "stream_url": "http://srv16.nf21.net/files/15-2018-07-31-0d9fe98e1b8eb62f0c2a723779804332.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Hustle (2019)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-19-b12ea2832c9e30ca49854b76a69a337d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Imitation Game (2014)",
-      "stream_url": "http://srv30.nf21.net/files/11-2018-12-25-e4d43986f8cbf395ca75ee496673ad5d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Intern (2015)",
-      "stream_url": "http://srv40.nf21.net/files/15-2020-06-10-97341328019c6a58b5c37cadefadaba6.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Invisible Man (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-10-42508fca0ed74593ffa953c9fe490501.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Judge (2014)",
-      "stream_url": "http://srv42.nf21.net/files/11-2020-07-11-ef91d20602a07c96e7277c48b4184982.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Jungle Book (2016)",
-      "stream_url": "http://srv43.nf21.net/files/11-2020-07-07-dfcf832b4ffe981ccd8ae03ef033fd74.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Kid Who Would Be King (2019)",
-      "stream_url": "http://srv33.nf21.net/files/11-2020-05-25-bf3e38cb934985a4da0b2422c71957c5.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Kissing Booth 2 (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-27-986e9be76758aaff56e862f97bcb7d8d.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Last Wish (2019)",
-      "stream_url": "http://sj82.drakor.id/files/22-2021-01-23-15ef472c109f607e77b6fec8279860b1.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Legend of Tarzan (2016)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-19-17547c408072eba8724ecb7b91a6191e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Lego Batman Movie (2017)",
-      "stream_url": "http://srv27.nf21.net/files/15-2018-11-20-fdf89cd35d0977dfd923fdfa9a076414.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Lego Movie (2014)",
-      "stream_url": "http://srv10.nf21.net/files/15-2018-07-02-bdaf1c54d8e073a3075436df2a3094ff.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Lego Movie 2: The Second Part (2019)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-02-bde28d4ca093ff6ffd2ad70863ce9e8a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Lion King (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-22-c71f1816294f1abb13f0cf601ad7322a.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Magnificent Seven (2016)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Man from U.N.C.L.E. (2015)",
-      "stream_url": "http://srv43.nf21.net/files/19-2020-07-20-8ccafdb4fe1ac1f774eeebe7795f1942.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Meg (2018)",
-      "stream_url": "http://srv21.nf21.net/files/15-2018-10-12-90ffe641e6ab64d0e76fec94ad4e2c2e.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Monkey King 3 (2018)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-04-c4f8ea2c9704e2c8cec10799a235d352.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Mountain II (2016)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-01-30-65e2271a0242e2265e3647702017ec35.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Mummy (2017)",
-      "stream_url": "http://srv10.nf21.net/files/15-2018-06-30-2f09b9a7457966c83217950429335f9c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Nun (2018)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-10-14-464f9fcd7fec6b408117284f8397382f.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Nutcracker and the Four Realms (2018)",
-      "stream_url": "http://srv35.nf21.net/files/19-2020-05-20-4b314ba5fec49a3f1dcdbd2f55f389b0.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Old Guard (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-07-14-a909f48d829e59782147c5c70d5ab760.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Outpost (2020)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-07-07-0ed6501532623c43d94ea294a44b92aa.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Purge: Election Year (2016)",
-      "stream_url": "http://srv41.nf21.net/files/19-2020-07-06-616a459d29ec1136c23094415a6dc4ee.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Quarry (2020)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-04-23-50066639be98180896fc104f9a97d278.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Revenant (2016)",
-      "stream_url": "http://srv44.nf21.net/files/11-2020-07-13-67669ee712fedbb44ed31e0e13620f0b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Secret Life of Pets (2016)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-01-31-5c3301b06851a05e28418f4e88d8198c.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Secret Life of Pets 2 (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-05-13-5d3ff4af8d8acc0894e5f995d5a3c21b.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Shack (2017)",
-      "stream_url": "http://srv34.nf21.net/files/11-2020-05-28-e4eba0c7ab768b668985f125c0ad86f8.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Shallows (2016)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-02-39c892adff677b362b73a240e5098783.mp4"
-    },
-    {
-      "cid": 16,
-      "name": "The Shawshank Redemption (1994)",
-      "stream_url": "http://srv40.nf21.net/files/19-2020-06-10-bd3feba75fb770ed8103f5b87def1c5d.mp4"
-    },
     {
-      "cid": 16,
-      "name": "The SpongeBob Movie: Sponge on the Run (2020)",
-      "stream_url": "http://srv41.nf21.net/files/15-2020-12-15-efd7b395bbe0b30ce1bbf77a99794e7e.mp4"
+      "cid": 0,
+      "name": "SCTV",
+      "stream_url": "https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The SpongeBob Movie: Sponge Out of Water (2015)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-06-159ff906274daa7d35fa49fbaea29e81.mp4"
+      "cid": 2,
+      "name": "Sinema Indonesia",
+      "stream_url": "http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The Theory of Everything (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-05-01a3eecc8e08042cc42e8d0233ba8055.mp4"
+      "cid": 2,
+      "name": "Sinema X",
+      "stream_url": "https://stream.suryaiptv.net/streams/114_.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The White Storm 2: Drug Lords (2019)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-06-02-1238eee0ee43701a7f1c2c7a21230fb9.mp4"
+      "cid": 2,
+      "name": "Sony One",
+      "stream_url": "http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The White Tiger (2021)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-24-2fa6526f4381ae874d759d3fa34ac492.mp4"
+      "cid": 7,
+      "name": "Sony Ten 1",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The Woman in Black 2: Angel of Death (2015)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-03-19-5476b48e26c6335de69869747630c5d7.mp4"
+      "cid": 7,
+      "name": "Sony Ten 2",
+      "stream_url": "https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "The Yin-Yang Master: Dream of Eternity (2021)",
-      "stream_url": "http://sj85.drakor.id/files/22-2021-02-07-5aca8be11ccf9bfa45030c7102e67040.mp4"
+      "cid": 7,
+      "name": "Sony Ten 3",
+      "stream_url": "https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Theater (2020)",
-      "stream_url": "http://sj85.drakor.id/files/22-2021-02-14-09af6f102e56c5212bc6cd1e08052867.mp4"
+      "cid": 4,
+      "name": "Spacetoon",
+      "stream_url": "http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Thor: Ragnarok (2017)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-05-29-c5933fc2de9c372ae103a1d2fe8232d4.mp4"
+      "cid": 2,
+      "name": "Star Movies",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Tinker' (2018)",
-      "stream_url": "http://srv30.nf21.net/files/11-2018-12-09-b993b806d2af9ad0ded6b9abf87b239d.mp4"
+      "cid": 2,
+      "name": "Star World",
+      "stream_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Tomb Raider (2018)",
-      "stream_url": "http://srv18.nf21.net/files/10-2018-08-02-061abc079ba3e2908ee7019f2729a230.mp4"
+      "cid": 3,
+      "name": "Street Music",
+      "stream_url": "https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Tomorrowland (2015)",
-      "stream_url": "http://srv40.nf21.net/files/19-2020-06-08-f9e39ad089cafcc7ab22c474988a9b04.mp4"
+      "cid": 6,
+      "name": "Tahfidz TV",
+      "stream_url": "http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Toy Story 4 (2019)",
-      "stream_url": "http://srv44.nf21.net/files/15-2020-12-22-4b9da24e4dc27ac675e74b9fcb36f87a.mp4"
+      "cid": 0,
+      "name": "TATV",
+      "stream_url": "http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Train to Busan (2016)",
-      "stream_url": "http://s3.drakor.id/files/1-2016-12-06-8afb48f20b3cad08a064428845a3bf1a.mp4"
+      "cid": 6,
+      "name": "Tegar TV",
+      "stream_url": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Train to Busan: Peninsula (2020)",
-      "stream_url": "http://srv41.nf21.net/files/10-2020-08-31-a68889e199b15733bbf4c42aa908e743.mp4"
+      "cid": 7,
+      "name": "Tennis Channel",
+      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Transformers: The Last Knight (2017)",
-      "stream_url": "http://srv33.nf21.net/files/19-2020-05-26-72e79ed621b6dd9b2b8f197cfa495a87.mp4"
+      "cid": 7,
+      "name": "Tennis Channel Plus",
+      "stream_url": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Tribhanga (2021)",
-      "stream_url": "http://srv41.nf21.net/files/15-2021-01-20-26ea9d4ddb6bbe59cd9a4e517229931e.mp4"
+      "cid": 2,
+      "name": "The Pet Collective",
+      "stream_url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Triple Threat (2019)",
-      "stream_url": "http://srv37.nf21.net/files/11-2020-06-02-3172447dd7fe5f5206effab1652e5eca.mp4"
+      "cid": 2,
+      "name": "Thrill",
+      "stream_url": "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Trolls (2016)",
-      "stream_url": "http://srv23.nf21.net/files/15-2018-10-30-f81e0a67ebed0c8dd260e99851a7aecf.mp4"
+      "cid": 4,
+      "name": "Tom Jerry TV",
+      "stream_url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
     },
     {
-      "cid": 16,
-      "name": "Unbroken (2014)",
-      "stream_url": "http://srv32.nf21.net/files/15-2020-05-06-e8c266b708efacc626d2c47b925741f1.mp4"
+      "cid": 4,
+      "name": "Toonmax",
+      "stream_url": "http://45.126.83.51/qwr9ew/s/s50/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Underwater (2020)",
-      "stream_url": "http://srv43.nf21.net/files/15-2020-10-11-c5be728e5f9be43675ea7fbf2b7ae453.mp4"
+      "cid": 3,
+      "name": "Trace Urban",
+      "stream_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Underworld: Blood Wars (2017)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-16-0b55e75307aceab8c07fe9f665826a7c.mp4"
+      "cid": 0,
+      "name": "Trans 7",
+      "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Unhinged (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-10-22-360046eea9ec1de62318600cdf4bef24.mp4"
+      "cid": 0,
+      "name": "Trans TV",
+      "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Us (2019)",
-      "stream_url": "http://srv39.nf21.net/files/11-2020-06-08-01cf3cc197ef22d7fd583136c414cdc0.mp4"
+      "cid": 6,
+      "name": "TV Ikim",
+      "stream_url": "http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Valerian and the City of a Thousand Planets (2017)",
-      "stream_url": "http://srv28.nf21.net/files/10-2019-01-08-6acc9aeed9b741961b13120f2f7c1fb4.mp4"
+      "cid": 1,
+      "name": "TV One",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s105/01.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Venom (2018)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-21-e6716ea4a4cc7456cfb1a2a1b417d827.mp4"
+      "cid": 1,
+      "name": "TVR PARLEMEN",
+      "stream_url": "http://103.16.220.69:1935/golive/livestream/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Vice (2018)",
-      "stream_url": "http://srv28.nf21.net/files/11-2019-03-09-36cf6c3a5e32954d26ef3390959628f9.mp4"
+      "cid": 1,
+      "name": "TVRI",
+      "stream_url": "http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Victor Frankenstein (2015)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4"
+      "cid": 1,
+      "name": "TVRI DKI Jakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "War Dogs (2016)",
-      "stream_url": "http://srv36.nf21.net/files/19-2020-05-31-15b00909758732168eba804c4ce24425.mp4"
+      "cid": 1,
+      "name": "TVRI Jawa Barat",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Warcraft (2016)",
-      "stream_url": "http://srv40.nf21.net/files/11-2020-06-08-d8c338699c447c278f28b1d3d8251225.mp4"
+      "cid": 1,
+      "name": "TVRI Jawa Tengah",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Whiplash (2014)",
-      "stream_url": "http://srv28.nf21.net/files/15-2019-02-15-dd28f5aee119c3b284e4e2466d59ccbf.mp4"
+      "cid": 1,
+      "name": "TVRI Jawa Timur",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Wonder Park (2019)",
-      "stream_url": "http://srv32.nf21.net/files/10-2020-02-23-a095cc11814722b15186b2db8859cf1f.mp4"
+      "cid": 1,
+      "name": "TVRI Nasional",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Wonder Woman (2017)",
-      "stream_url": "http://srv1.nf21.net/files/6-2017-11-04-29a2905f9f654911fd4c152d68f44644.mp4"
+      "cid": 7,
+      "name": "TVRI Sport",
+      "stream_url": "http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Wonder Woman 1984 (2020)",
-      "stream_url": "http://srv43.nf21.net/files/15-2020-12-30-c1ec17b232b5ccb2937f0110f6da1b3b.mp4"
+      "cid": 1,
+      "name": "TVRI Yogyakarta",
+      "stream_url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Wrong Turn (2021)",
-      "stream_url": "http://srv42.nf21.net/files/15-2021-02-15-33f21115b058392f467b2fe4d0479771.mp4"
+      "cid": 3,
+      "name": "Urban Music",
+      "stream_url": "https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8"
     },
     {
-      "cid": 16,
-      "name": "X-Men: Apocalypse (2016)",
-      "stream_url": "http://srv30.nf21.net/files/10-2018-12-17-b62ff89191fa3767c8f5489ce4a16ea5.mp4"
+      "cid": 2,
+      "name": "USA Network",
+      "stream_url": "http://cdnak8.cast4u.info/channels/4/10804.m3u8"
     },
     {
-      "cid": 16,
-      "name": "xXx: Return of Xander Cage (2017)",
-      "stream_url": "http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4"
+      "cid": 3,
+      "name": "VH1",
+      "stream_url": "http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697"
     },
     {
-      "cid": 16,
-      "name": "You Are the Apple of My Eye (2018)",
-      "stream_url": "http://sj63.drakor.id/files/22-2020-04-15-0b6673ab621c0a48ccb6068920a5e235.mp4"
+      "cid": 1,
+      "name": "Voice of America",
+      "stream_url": "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8"
     },
     {
-      "cid": 16,
-      "name": "You Should Have Left (2020)",
-      "stream_url": "http://srv42.nf21.net/files/15-2020-10-21-90e7dc2f11ff0c457dc777873f53386f.mp4"
+      "cid": 2,
+      "name": "World Fashion TV",
+      "stream_url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
     },
     {
-      "cid": 16,
-      "name": "Zoolander 2 (2016)",
-      "stream_url": "http://srv38.nf21.net/files/19-2020-05-30-119e8f7bff2cf0a94cd4d6f5fa3d4b55.mp4"
+      "cid": 2,
+      "name": "Zee Bioskop",
+      "stream_url": "http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8"
     }
   ]
 }
