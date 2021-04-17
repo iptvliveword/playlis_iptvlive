@@ -9,11 +9,11 @@
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="Lokal", Indosiar
 
-#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1614205737~acl=/hls-b/ingest_204_*/*~hmac=fd46e44e964e8929d48a3bc915fc053d1253213184ea264246dc4478838eb245/hls-b/ingest_204_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/07/23/1689208654.jpg" group-title="Lokal",Fox Sports
+https://suryafebri.xyz/malingterus/cari.php?channel=foxsport2
 
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1614205810~acl=/hls-b/ingest_665_*/*~hmac=4fec2072d980885fa74fc64842b8d484432f4e3ebc1764d228c7727433fb040b/hls-b/ingest_665_480p/index.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rcti.png" group-title="Lokal",net
+https://suryafebri.xyz/malingterus/cari.php?channel=net
 
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mnctv.png" group-title="Lokal",MNCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1614205816~acl=/hls-p/ingest_870_*/*~hmac=7b1e084c5bee4fd8aae4ba7c0691a360b3b0b29a95fd622c95a5f9f61b4b59b7/hls-p/ingest_870_360p/index.m3u8
