@@ -1,27 +1,6 @@
 [
 
 {
-    "name": "LOVE NATURE 4K",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzQHFOParckyH79Oh16QtmV6d-DohyHaapg&usqp=CAU ", 
- "url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8",
-    "category": "lokal",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
     "name": "BeritaSatu",
     "logo": "data:image/png;base64,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",
     "url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8",
