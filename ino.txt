@@ -2,7 +2,7 @@
 
 {
     "name": "LOVE NATURE 4K",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzQHFOParckyH79Oh16QtmV6d-DohyHaapg&usqp=CAU"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzQHFOParckyH79Oh16QtmV6d-DohyHaapg&usqp=CAU", 
  "url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8",
     "category": "lokal",
     "language": [
