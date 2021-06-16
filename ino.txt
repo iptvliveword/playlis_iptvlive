@@ -1228,7 +1228,7 @@
 {
     "name": "EGG Sport",
     "logo": "https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",
-    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=egg",
+    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=egg1",
     "category": "sport",
     "language": [
       {
