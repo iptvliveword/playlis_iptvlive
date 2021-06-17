@@ -1268,9 +1268,9 @@
     }
     },
 {
-    "name": "Golf",
+    "name": "Euro Sport",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0MGpKCA3uQmiHLeH163z7bSbdXiSwqeEDBg&usqp=CAU",
-    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=golfplus",
+    "url": "https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8",
     "category": "sport",
     "language": [
       {
