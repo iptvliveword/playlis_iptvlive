@@ -1,6 +1,27 @@
 [
 
 {
+    "name": "Spacetoon",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/2/2b/Spacetoon_logo.png",
+ "url": "http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8",
+    "category": "LOKAL",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
     "name": "Bein Max tes",
     "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png",
  "url": "http://212.224.98.208:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8?token=RED_PaZ_Ez01G6dfjNOFHlU7_A%3D%3D%2C1623965971.9951309952",
