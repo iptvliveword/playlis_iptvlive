@@ -21,7 +21,27 @@
       "url": null
     }
     },
-
+{
+    "name": "Euro Sport",
+    "logo": "https://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/w1200-h630-p-k-no-nu/Eurosport+logo+2011.png",
+ "url": "http://212.224.98.204:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=",
+    "category": "LOKAL",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
 {
     "name": "Ten Sport",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYXsEHsDQZmYv6PYJUS2EKFO_VCrmm6F3Ig&usqp=CAU",
