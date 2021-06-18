@@ -3,7 +3,7 @@
 {
     "name": "Cannal + Sport",
     "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/b/b4/Canal%2B_Sport_%282013-.n.v.%29.png/revision/latest?cb=20170928082056",
- "url": "http://1.adrawayoun.xyz/live/117/index.m3u8UJDWTUwTVhnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w",
+ "url": "http://1.adrawayoun.xyz/live/117/index.m3u8",
     "category": "LOKAL",
     "language": [
       {
