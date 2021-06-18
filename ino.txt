@@ -1,9 +1,9 @@
 [
 
 {
-    "name": "Tes",
-    "logo": "https://upload.wikimedia.org/wikipedia/id/2/2b/Spacetoon_logo.png",
- "url": "https://nl1.streamlive.to:456/vlc/8ak31usuvlb81qy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDIxIDY6MjU6MjQgQU0maGFzaF92YWx1ZT14ZnZ2QUVnZ055em1IUUJDWTUwTVhnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w",
+    "name": "Cannal + Sport",
+    "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/b/b4/Canal%2B_Sport_%282013-.n.v.%29.png/revision/latest?cb=20170928082056",
+ "url": "http://1.adrawayoun.xyz/live/117/index.m3u8UJDWTUwTVhnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w",
     "category": "LOKAL",
     "language": [
       {
