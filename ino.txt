@@ -23,6 +23,28 @@
     },
 
 {
+    "name": "Ten Sport",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYXsEHsDQZmYv6PYJUS2EKFO_VCrmm6F3Ig&usqp=CAU",
+ "url": "http://143.244.60.76/OSNCricket/index.m3u8?token=OfficialLiveCricketLinks",
+    "category": "LOKAL",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+
+{
     "name": "Bein Max tes",
     "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png",
  "url": "http://11.ardounar.xyz/live/6262622222/index.m3u8",
