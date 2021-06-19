@@ -43,9 +43,29 @@
       "url": null
     }
     },
-
 {
-    "name": "Bein Max tes",
+    "name": "Bein Max 2 tes",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuq-kLspj4fJsWS8DK7sRPzmDbAWxB2zkLcw&usqp=CAU",
+ "url": "http://7.anbdaouras.xyz/live/0679877787/index.m3u8",
+    "category": "LOKAL",
+    "language": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ],
+    "country": {
+      "code": "id",
+      "name": "Indonesia"
+    },
+    "tvg": {
+      "id": null,
+      "name": null,
+      "url": null
+    }
+    },
+{
+    "name": "Bein Max 1 tes",
     "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png",
  "url": "http://11.ardounar.xyz/live/6262622222/index.m3u8",
     "category": "LOKAL",
