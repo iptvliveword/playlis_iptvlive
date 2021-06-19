@@ -66,7 +66,7 @@
     },
 {
     "name": "Bein Max 1 tes",
-    "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png",
+    "logo": "https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png",
  "url": "http://11.ardounar.xyz/live/6262622222/index.m3u8",
     "category": "LOKAL",
     "language": [
