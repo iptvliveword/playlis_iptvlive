@@ -1054,50 +1054,6 @@
       "url": null
     }
     },
-    
-    
-{
-    "name": "Mykids",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLeOY01EV_Dvzlim9TVDlRlypBarcGza_XKw&usqp=CAU",
-    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=mykids",
-    "category": "Kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-{
-    "name": "DreamWorks",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",
-    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=dreamworks",
-    "category": "Kids",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
 
 {
     "name": "Davinci",
