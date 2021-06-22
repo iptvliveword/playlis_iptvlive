@@ -67,7 +67,7 @@
 {
     "name": "Bein Max 1 tes",
     "logo": "https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png",
- "url": "https://alwarisurya.xyz/canal.m3u8",
+ "url": "https://alwarisurya.xyz/bein1.m3u",
     "category": "LOKAL",
     "language": [
       {
@@ -89,7 +89,7 @@
 {
     "name": "Antv",
     "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png",
- "url": "http://210.210.155.35/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8",
+ "url": "https://alwarisurya.xyz/canal.m3u8",
     "category": "LOKAL",
     "language": [
       {
