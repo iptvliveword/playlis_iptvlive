@@ -44,7 +44,7 @@
     }
     },
 {
-    "name": "Bein Max 5 tes",
+    "name": "Bein Max 5 Euro",
     "logo": "https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
  "url": "https://alwarisurya.xyz/Bein5.m3u",
     "category": "LOKAL",
@@ -65,7 +65,7 @@
     }
     },
 {
-    "name": "Bein Max 1 tes",
+    "name": "Bein Max 1 Euro",
     "logo": "https://i.pinimg.com/originals/95/f6/68/95f6681b3ad0c0404b04a7c4a8cccb06.png",
  "url": "https://alwarisurya.xyz/bein1.m3u",
     "category": "LOKAL",
