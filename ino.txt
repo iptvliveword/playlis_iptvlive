@@ -66,7 +66,7 @@
     },
 {
     "name": "Bein Max 2 Euro",
-    "logo": "https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuq-kLspj4fJsWS8DK7sRPzmDbAWxB2zkLcw&usqp=CAU",
  "url": "https://alwarisurya.xyz/bein2.m3u",
     "category": "LOKAL",
     "language": [
