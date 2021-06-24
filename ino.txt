@@ -23,9 +23,9 @@
     },
 
 {
-    "name": "Ten Sport",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYXsEHsDQZmYv6PYJUS2EKFO_VCrmm6F3Ig&usqp=CAU",
- "url": "http://143.244.60.76/OSNCricket/index.m3u8?token=OfficialLiveCricketLinks",
+    "name": "Sony Ten",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ9MvN6YTDr4j_2cd_uwFanfKgyYqAF9jjQ&usqp=CAU",
+ "url": "https://raw.githubusercontent.com/alwaer/alwarifebri/master/Sonyten.m3u8",
     "category": "LOKAL",
     "language": [
       {
