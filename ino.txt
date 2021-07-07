@@ -22,7 +22,30 @@
     }
     },
 
-{"name":"+tdp","logo":null,"url":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8","category":null,"languages":[],"countries":[{"code":"es","name":"Spain"}],"tvg":{"id":"Plustdp.es","name":"+tdp","url":null}},{"name":"+tdp","logo":null,"url":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8","category":null,"languages":[],"countries":[{"code":"es","name":"Spain"}],"tvg":{"id":"Plustdp.es","name":"+tdp","url":null}}, 
+{
+
+"name":"Bein Max 5 Euro",
+"logo":"https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
+"url":"https://alwarisurya.xyz/Bein5.m3u",
+"category":null,
+"languages":[],"countries":[{"code":"es","name":"Spain"}],
+"tvg":{"id":"Plustdp.es",
+"name":"+tdp",
+"url":null}},
+
+{
+
+"name":"Bein Max 5 Euro",
+"logo":null,
+"url":"https://alwarisurya.xyz/Bein5.m3u",
+"category":null,
+"languages":[],
+"countries":[{"code":"es","name":"Spain"}],
+"tvg":{"id":"Plustdp.es",
+"name":"+tdp",
+"url":null}}, 
+
+
 {
     "name": "Bein Max 5 Euro",
     "logo": "https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
