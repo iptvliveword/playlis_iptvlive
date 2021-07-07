@@ -22,27 +22,7 @@
     }
     },
 
-{
-    "name": "Sony Ten",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlJ9MvN6YTDr4j_2cd_uwFanfKgyYqAF9jjQ&usqp=CAU",
- "url": "https://raw.githubusercontent.com/alwaer/alwarifebri/master/Sonyten.m3u8",
-    "category": "LOKAL",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
+{"name":"+tdp","logo":null,"url":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@125703/master.m3u8","category":null,"languages":[],"countries":[{"code":"es","name":"Spain"}],"tvg":{"id":"Plustdp.es","name":"+tdp","url":null}},{"name":"+tdp","logo":null,"url":"https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@143656/master.m3u8","category":null,"languages":[],"countries":[{"code":"es","name":"Spain"}],"tvg":{"id":"Plustdp.es","name":"+tdp","url":null}},{"name":"-kanal10","logo":null,"url":"http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8","category":null,"languages":[],"countries":[{"code":"no","name":"Norway"}],"tvg":{"id":"kanal10.no","name":"-kanal10","url":null}},
 {
     "name": "Bein Max 5 Euro",
     "logo": "https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
