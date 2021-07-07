@@ -30,7 +30,7 @@
 "category":null,
 "languages":[],"countries":[{"code":"es","name":"Spain"}],
 "tvg":{"id":"Plustdp.es",
-"name":"+tdp",
+"name":"Bein Max 5 Euro",
 "url":null}},
 
 {
@@ -42,31 +42,10 @@
 "languages":[],
 "countries":[{"code":"es","name":"Spain"}],
 "tvg":{"id":"Plustdp.es",
-"name":"+tdp",
+"name":"Bein Max 5 Euro",
 "url":null}}, 
 
 
-{
-    "name": "Bein Max 5 Euro",
-    "logo": "https://www.thesportsdb.com/images/media/logo/BeIn_Sports_Max_5.png",
- "url": "https://alwarisurya.xyz/Bein5.m3u",
-    "category": "LOKAL",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
 {
     "name": "Bein Max 2 Euro",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuq-kLspj4fJsWS8DK7sRPzmDbAWxB2zkLcw&usqp=CAU",
