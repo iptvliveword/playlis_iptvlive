@@ -8,12 +8,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -54,12 +54,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -76,12 +76,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -98,12 +98,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -113,19 +113,19 @@
     },
 
 {
-    "name": "Cnn Indonesia",
+    "name": "Cnn idn",
     "logo": "data:image/png;base64,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",
-    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1955330438_b384000_sleng.m3u8",
+    "url": "https://live.cnnidn.com/livecnn/smil:cnntv.smil/chunklist_w1955330438_b384000_sleng.m3u8",
     "category": "lokal",
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -142,12 +142,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -165,12 +165,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -188,12 +188,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -210,12 +210,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -233,12 +233,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -255,12 +255,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -277,12 +277,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -299,12 +299,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -323,12 +323,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -345,12 +345,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -368,12 +368,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -390,12 +390,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -412,12 +412,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -435,12 +435,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -457,12 +457,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -480,12 +480,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -505,12 +505,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -529,12 +529,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -551,12 +551,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -573,12 +573,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -594,12 +594,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -615,12 +615,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -630,19 +630,19 @@
     },
 
 {
-    "name": "Bioskopindonesia",
+    "name": "Bioskopidn",
     "logo": "data:image/png;base64,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",
-    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=bioskopindonesia",
+    "url": "https://alwarisurya.xyz/usee/master.m3u8?id=bioskopidn",
     "category": "movies",
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -660,12 +660,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -683,12 +683,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -707,12 +707,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -728,12 +728,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -749,12 +749,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -770,12 +770,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -791,12 +791,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -812,12 +812,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -834,12 +834,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -855,12 +855,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -876,12 +876,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -897,12 +897,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -918,12 +918,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -939,12 +939,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -960,12 +960,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -981,12 +981,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1002,12 +1002,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1052,12 +1052,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1078,12 +1078,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1099,12 +1099,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1120,12 +1120,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1141,12 +1141,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1162,12 +1162,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1183,12 +1183,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1204,12 +1204,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1225,12 +1225,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1246,12 +1246,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1267,12 +1267,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1288,12 +1288,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1311,12 +1311,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1332,12 +1332,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1354,12 +1354,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1375,12 +1375,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1397,12 +1397,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1420,12 +1420,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1441,12 +1441,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
@@ -1465,12 +1465,12 @@
     "language": [
       {
         "code": "id",
-        "name": "Indonesia"
+        "name": "idn"
       }
     ],
     "country": {
       "code": "id",
-      "name": "Indonesia"
+      "name": "idn"
     },
     "tvg": {
       "id": null,
