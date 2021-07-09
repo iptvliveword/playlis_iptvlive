@@ -1017,7 +1017,9 @@
     },
 
 {
-    "name": "BeinSport 2",
+    "name": "
+    
+   Sport 2",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq731-tNqcQ6nSs1GTAt6OKPKRKa0LMOR1nQ&usqp=CAU",
     "url": "http://topwin-tv.my.id/2/chunklist.m3u8?id=bein2&bandwidth=default&sync=0",
     "category": "sport",
@@ -1037,27 +1039,33 @@
       "url": null
     }
     },
+    
+    {
+
+"name":"Bein 1",
+"logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkvvi2rdI4Xh3rDtp_lhRdd2VIv6soVr_nhA&usqp=CAU",
+"url":"http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0",
+"category":"sport",
+"languages":[],"countries":[{"code":"id","name":"ind"}],
+"tvg":{"id":"Plustdp.es",
+"name":"BeinSport 1",
+"url":null}},
+
 {
-    "name": "BeinSport 1",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkvvi2rdI4Xh3rDtp_lhRdd2VIv6soVr_nhA&usqp=CAU",
-    "url": "http://topwin-tv.my.id/2/chunklist.m3u8?id=bein1&bandwidth=default&sync=0",
-    "category": "sport",
-    "language": [
-      {
-        "code": "id",
-        "name": "Indonesia"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "Indonesia"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
+
+"name":"Bein Max 5 Euro",
+"logo":null,
+"url":"https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+"category":null,
+"languages":[],
+"countries":[{"code":"id","name":"idn"}],
+"tvg":{"id":"Plustdp.es",
+"name":"BeinSport 1",
+"url":null}}, 
+
+
+
+
 
 {
     "name": "Davinci",
