@@ -1,6 +1,16 @@
-[
-
 {
+  "licenses": [
+    {
+      "domain": "liveanevia.mncnow.id",
+      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
+    },
+    {
+      "domain": "stream-cdn.mncnow.id",
+      "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
+
+
+
+
     "name": "Spacetoon",
     "logo": "https://upload.wikimedia.org/wikipedia/id/2/2b/Spacetoon_logo.png",
  "url": "http://stream1.ninmedia.tv:1935/spacetoon/udp.stream/chunklist.m3u8",
