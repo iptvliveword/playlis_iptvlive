@@ -8,7 +8,7 @@
       "domain": "stream-cdn.mncnow.id",
       "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3"
 
-
+[
 {
 
     "name": "Spacetoon",
