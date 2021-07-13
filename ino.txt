@@ -1,48 +1,4 @@
-{
 
-  
-    "domain": "liveanevia.mncnow.id",
- "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3",
-    "category": "LOKAL",
-    "language": [
-      {
-        "code": "id",
-        "name": "idn"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "idn"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
-
-{
-
-    "licenses": "Spacetoon",
-    "domain": "liveanevia.mncnow.id",
- "drm_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3",
-    "category": "LOKAL",
-    "language": [
-      {
-        "code": "id",
-        "name": "idn"
-      }
-    ],
-    "country": {
-      "code": "id",
-      "name": "idn"
-    },
-    "tvg": {
-      "id": null,
-      "name": null,
-      "url": null
-    }
-    },
 
 
 
